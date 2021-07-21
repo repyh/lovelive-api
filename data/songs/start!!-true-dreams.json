@@ -1,0 +1,19 @@
+{
+  "title": {
+    "eng": "START!! True dreams"
+  },
+  "opening": true,
+  "featured": true,
+  "mv": "https://www.youtube.com/watch?v=HGkoec4genw",
+  "credits": {
+    "writer": "Aki Hata",
+    "composer": "Yasuhiro Obata",
+    "arranger": "Yosuke Yamashita",
+    "singer": ["Liella"]
+  },
+  "lyrics": {
+    "eng": "/storage/songs/U1RBUlQhIVRydWUgZHJlYW1z-eng.txt",
+    "kan": "/storage/songs/U1RBUlQhIVRydWUgZHJlYW1z-kan.txt",
+    "rom": "/storage/songs/U1RBUlQhIVRydWUgZHJlYW1z-eng.txt"
+  }
+}
