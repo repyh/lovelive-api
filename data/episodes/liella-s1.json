@@ -1,0 +1,52 @@
+[
+  {
+    "titles": {
+      "eng": "This Yet Unknown Feeling",
+      "kan": "まだ名もないキモチ",
+      "rom": "Mada Na mo nai Kimochi"
+    },
+    "cast": {
+      "Sayuri Date": "Kanon Shibuya",
+      "Liyuu": "Keke Tang",
+      "Nako Misaki": "Chisato Arashi",
+      "Naomi Payton": "Sumire Heanna",
+      "Nagisa Aoyama": "Ren Hazuki",
+      "Akane Matsunaga": "Aria Shibuya",
+      "Mamiko Noto": "Kanon's Mother",
+      "Romi Park": "Hana Hazuki",
+      "Azumi Waki": "Nanami",
+      "Miyu Tomita": "Yae",
+      "Haruka Shiraishi": "Kokono",
+      "Anna Mugiho": "Manmaru"
+    },
+    "premiere": "11-6-2021",
+    "songs": {
+      "insert": ["Mirai Yohou Hallelujah!", "Primary"]
+    },
+    "source": "https://love-live.fandom.com/wiki/This_Yet_Unknown_Feeling"
+  },
+  {
+    "titles": {
+      "eng": "No School Idols Allowed!?",
+      "kan": "スクールアイドル禁止！？",
+      "rom": "Sukuuru Aidoru Kinshi!?"
+    },
+    "cast": {
+      "Sayuri Date": "Kanon Shibuya",
+      "Liyuu": "Keke Tang",
+      "Nako Misaki": "Chisato Arashi",
+      "Naomi Payton": "Sumire Heanna",
+      "Nagisa Aoyama": "Ren Hazuki",
+      "Akane Matsunaga": "Aria Shibuya",
+      "Mamiko Noto": "Kanon's Mother",
+      "Romi Park": "Hana Hazuki"
+    },
+    "premiere": "18-6-2021",
+    "songs": {
+      "opening": "START!! True dreams",
+      "ending": "Mirai wa Kaze no You ni",
+      "insert": ["Memories"]
+    },
+    "source": "https://love-live.fandom.com/wiki/No_School_Idols_Allowed!%3F"
+  }
+]

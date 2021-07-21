@@ -1,0 +1,20 @@
+{
+  "title": {
+    "eng": "Future Forecast Hallelujah!",
+    "kan": "未来予報ハレルヤ!",
+    "rom": "Mirai Yohou Hallelujah!"
+  },
+  "featured": true,
+  "mv": "https://www.youtube.com/watch?v=BHzYNQ-irmU",
+  "credits": {
+    "writer": "Junko Miyajima",
+    "composer": "EFFY",
+    "arranger": "Yosuke Yamashita",
+    "singer": ["Liella"]
+  },
+  "lyrics": {
+    "eng": "/storage/songs/TWlyYWlZb2hvdUhhbGxlbHVqYWgh-eng.txt",
+    "kan": "/storage/songs/TWlyYWlZb2hvdUhhbGxlbHVqYWgh-kan.txt",
+    "rom": "/storage/songs/TWlyYWlZb2hvdUhhbGxlbHVqYWgh-rom.txt"
+  }
+}
