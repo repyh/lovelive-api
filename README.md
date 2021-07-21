@@ -8,7 +8,7 @@ If you're interested to contribute to this project, feel free to head on over to
 
 ## Endpoints
 
-### Episode Information `GET /anime/<group>/episodes/<season>-<episode>`
+### Episode Information `GET /anime/<group>/episode/<season>-<episode>`
 
 Note: Use group's name instead of anime name (For Nijigasaki, use Nijigasaki).
 
