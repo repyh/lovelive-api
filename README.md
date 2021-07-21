@@ -72,4 +72,5 @@ Will return list of songs information such as lyrics, titles, etc.
 
 ## Notes
 
-Yes, I know not much has been done. This project will surely develop overtime. If you're interested to contribute to this project, scroll up to `Contribution Guide` section,
+Yes, I know not much has been done. This project will surely develop overtime. If you're interested to contribute to this project, scroll up to `Contribution Guide` section.
+Extra: You can't access `storage/songs` yet, I'm too lazy.
