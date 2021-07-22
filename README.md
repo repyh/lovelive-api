@@ -2,7 +2,7 @@
 
 So yeah, maybe I was bored and decided to make this...
 
-**https://loveliveapi.herokuapp.com/**
+Base URL - https://loveliveapi.herokuapp.com/
 
 ## Contribution Guide
 
@@ -10,11 +10,11 @@ If you're interested to contribute to this project, feel free to head on over to
 
 ## Endpoints
 
-### Episode Information `GET /api/anime/<anime>/episode/<season>-<episode>`
+### Episode Information `GET /anime/<anime>/episode/<season>-<episode>`
 
 Example
 
-`https://loveliveapi.herokuapp.com/anime/love-live-superstar/episode/1-1`
+`https://loveliveapi.herokuapp.com/api/anime/love-live-superstar/episode/1-1`
 
 ```js
 {
@@ -45,11 +45,11 @@ Example
 }
 ```
 
-### Song Information `GET /api/song/<title>`
+### Song Information `GET /song/<title>`
 
 Example
 
-`https://loveliveapi.herokuapp.com/song/mirai-yohou-hallelujah`
+`https://loveliveapi.herokuapp.com/api/song/mirai-yohou-hallelujah`
 
 Note: Remove all special characters.
 
@@ -76,11 +76,11 @@ Note: Remove all special characters.
 }
 ```
 
-### Unit Information `GET /api/unit/<unit name>`
+### Unit Information `GET /unit/<unit name>`
 
 Example
 
-`https://loveliveapi.herokuapp.com/unit/liella`
+`https://loveliveapi.herokuapp.com/api/unit/liella`
 
 Note: You can also search for sub-unit's info here.
 
