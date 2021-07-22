@@ -9,13 +9,11 @@ So you don't know how to code (or don't know javascript) and want to contribute 
 1. Head on over to [https://love-live.fandom.com/wiki/Main_Page](https://love-live.fandom.com/wiki/Main_Page) and search for the song that you would like to submit.
 2. Make sure the song you chose isn't included in `songs.txt`, use `ctrl+f` or `command+f` to check if the song isn't there.
 3. After making sure the song hasn't been submitted, head on over to the lyrics section, there you have 3 languages. Do the below steps for all 3 languages.
-4. Go to [base64.io](https://base64.io) and copy and pasted the song romaji title (or english if the song title is in english) into the encode section, make sure you've remove all spaces.
-5. Copy the text in decode section, make sure to remove all `=` from the text.
-6. Make sure you've forked the repository before doing the next few steps. Go to your forked repository and head on to `storage/songs`.
-7. Create a new file in that folder named `<text you copied from base64.io>-<eng|kan|rom>.txt`.
-8. Paste the lyric in to the file. Don't forget to do step 4-8 for all 3 languages.
-9. Create a pull request, if you don't know how, read [this](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/working-with-your-remote-repository-on-github-or-github-enterprise/creating-an-issue-or-pull-request).
-10. Done! You just need to wait for me to accept your pull request.
+4. Make sure you've forked the repository before doing the next few steps. Go to your forked repository and head on to `storage/songs`.
+5. Create a new file in that folder named `<song title (replace all special characters with '-')>-<eng | kan| rom>.txt`.
+6. Paste the lyric in to the file. Don't forget to do step 4-8 for all 3 languages.
+7. Create a pull request, if you don't know how, read [this](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/working-with-your-remote-repository-on-github-or-github-enterprise/creating-an-issue-or-pull-request).
+8. Done! You just need to wait for me to accept your pull request.
 
 ## Programming Section
 
