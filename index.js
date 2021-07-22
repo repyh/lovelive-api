@@ -28,8 +28,14 @@ app.get("/api/unit/:unit", (req, res) => {
 
 app.get("/api/anime/:anime/episode/:season-:episode", (req, res) => {
   const data = require(`./data/episodes/${req.params.anime}/season-${req.params.season}`);
-  if(!data || !data[req.params.episode-1]) res.status(404);
+  if(!data || !data[req.params.episode-1]) return res.status(404);
   return res.json(data[req.params.episode-1]);
+})
+
+app.get("/api/school/:school", (req, res) => {
+  const data = requrie(`./data/schools/${req.params.school}`);
+  if(!data || !data[req.params.episode-1]) return res.status(404);
+  return res.json(data);
 })
 
 app.listen(process.env.PORT);
