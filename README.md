@@ -76,7 +76,7 @@ Note: Remove all special characters.
 }
 ```
 
-### Unit Information `https://loveliveapi.herokuapp.com/unit/<unit name>`
+### Unit Information `GET /unit/<unit name>`
 
 Example
 
