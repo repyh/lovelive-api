@@ -10,9 +10,7 @@ app.get("/", (req, res) => {
   res.render("index")
 })
 
-app.get("/api/storage/songs/:file", (req, res) => {
-  res.sendFile(`${__dirname}/storage/songs/${req.params.file}`)
-})
+app.use("/api/storage", express.static(__dirname + '/storage'));
 
 app.get("/api/song/:name", (req, res) => {
   const data = require(`./data/songs/${req.params.name}`);
