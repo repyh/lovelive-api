@@ -5,6 +5,7 @@
     "rom": "Akua"
   },
   "school": "Uranohoshi Girl's High School",
+  "logo": "https://loveliveapi.herokuapp.com/api/storage/assets/aqours_logo.png",
   "description": "Aqours (pronounced as \"aqua\") is a school idol group that was originally formed and led by Kanan Matsuura two years prior to falling apart and was eventually succeeded by Chika Takami in Love Live! Sunshine!!. They were the school idol group of Uranohoshi Girls' High School. The original group consisted of three members (Third years). The reformed group consisted of nine members along with all original members. At the beginning of the movie, the group continues with six of the members at Seishin High School and is seen to be reformed by new members at the end of the movie.",
   "members": ["Takami Chika", "Sakurauchi Riko", "Matsuura Kanan", "Watanabe You", "Kurosawa Ruby", "Kurosawa Dia", "Tsushima Yoshiko", "Kunikida Hanamaru", "Ohara Mari"],
   "animeography": ["Love Live! Sunshine!!", "Love Live! Sunshine!! 2nd Season", "Love Live! Sunshine!! The School Idol Movie: Over the Rainbow"],
