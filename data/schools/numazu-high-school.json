@@ -1,0 +1,12 @@
+{
+    "name": {
+        "eng": "Numazu High School",
+        "kan": "沼津学園",
+        "rom": "Numazu Gakuen"
+    },
+    "units": ["Aqours", "CYaRon"],
+    "description": "Numazu High School is a school located in Numazu where the remaining members of Aqours and all the Uranohoshi Girls' High School students are transferred to at the end of Love Live! Sunshine!! The School Idol Movie Over The Rainbow after Uranohoshi Girls' High School closed at the end of the series and after integrating from Seishin High School.",
+    "uniform": "The uniform consists of a blue blazer with dark blue trim, gold buttons, and an gold emblem.",
+    "students": ["Kurosawa Ruby", "Kunikida Hanamaru", "Tsushima Yoshiko", "Watanabe Tsuki", "Takami Chika", "Watanabe You", "Sakurauchi Riko"],
+    "animeography": ["Love Live! Sunshine!! The School Idol Movie: Over the Rainbow"]
+}

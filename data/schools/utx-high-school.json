@@ -1,0 +1,12 @@
+{
+    "name": {
+        "eng": "UTX High School",
+        "kan": "UTX学院",
+        "rom": "UTX Gakuin"
+    },
+    "units": ["A-RISE"],
+    "description": "Located in Akihabara, the UTX Academy is shown to have modern architectural design in both interior and exterior. The campus is built upwards, contrary to the traditional spread-type campus of Otonokizaka High School. The main building has a large screen which showcases A-RISE and their performances, as well as announcements.\nThe academy is a huge building with modern facilities. For example, the students' attendances are electronically marked via the use of mobile identification at the entrance turnstiles, as shown in Season 1 Episode 1.\nAs seen in Season 2 Episode 3, the school cafeteria serves western-style food and has a coffee house which acts as a lounge for the students of the academy. The building has its own personal changing room exclusively for the idols. It has a rooftop large enough to be used as stages for live performances. It can be noted that their rooftop can function like any other stage in terms of lighting and such.",
+    "uniforms": "The UTX Academy school uniform has the color theme of white. It consists of a white long sleeved polo shirt with a white blazer on top, a white plaid skirt with a vertical black stripe, and a red necktie with diagonal green stripes.",
+    "students": ["Kira Tsubasa", "Todo Erena", "Yuki Anju"],
+    "animeography": ["Love Live! School Idol Project", "Love Live! School Idol Project 2nd Season", "Love Live! The School Idol Movie"]
+}
