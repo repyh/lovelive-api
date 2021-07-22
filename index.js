@@ -5,6 +5,7 @@ const fs = require("fs");
 
 // I don't really use express that often, feel free to change it so it'll be easier to read and manage.
 
+app.set('views', path.join(__dirname, 'views'))
 app.get("/", (req, res) => {
   res.render("index")
 })
