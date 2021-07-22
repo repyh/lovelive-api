@@ -10,7 +10,7 @@ If you're interested to contribute to this project, feel free to head on over to
 
 ## Endpoints
 
-### Episode Information `GET /anime/<anime>/episode/<season>-<episode>`
+### Episode Information `GET /api/anime/<anime>/episode/<season>-<episode>`
 
 Example
 
@@ -45,7 +45,7 @@ Example
 }
 ```
 
-### Song Information `GET /song/<title>`
+### Song Information `GET /api/song/<title>`
 
 Example
 
@@ -76,7 +76,7 @@ Note: Remove all special characters.
 }
 ```
 
-### Unit Information `GET /unit/<unit name>`
+### Unit Information `GET /api/unit/<unit name>`
 
 Example
 
