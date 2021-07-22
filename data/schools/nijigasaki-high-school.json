@@ -1,0 +1,12 @@
+{
+    "name": {
+        "eng": "Nijigasaki High School",
+        "kan": "虹ヶ咲学園",
+        "rom": "Nijigasaki Gakuen"
+    },
+    "units": ["DiverDiva", "A・ZU・NA", "QU4RTZ"],
+    "description": "The Nijigasaki Academy consists of a middle school and high school in the Odaiba area. The school also has an associated set of dorms for students, which are not required.\nThe school aims to foster world-class specialists in various fields, and as such has many areas of study and specialized departments not found in other schools. The school encourages the independence of students. The school is currently headed by Chairwoman Zhong.",
+    "uniforms": "The summer uniform is a vest-style uniform. The skirt is navy blue with a printed white grid. A light-blue button down is worn under a white or navy blue vest. Students may choose to wear a jacket instead of a vest, or just a button down.\nThe winter uniform is a blazer-style uniform. The skirt is white with a printed gray grid. A dark gray jacket is worn over a white button down, though students may wear a different jacket, and choose to leave it open or closed.\nLike Otonokizaka and Uranohoshi, the students appear to be free to customize their uniforms as we see Rina with thigh-high socks, Kasumi, Ai and Kanata with a cardigan, and Karin with black tights.\nYears are differentiated by a ribbon tied under the collar of the button down. First years wear a yellow ribbon, second years wear a red ribbon, and third years wear a green ribbon. The summer versions of the uniform have ribbons of these colors, but slightly lighter.",
+    "students": ["Nakasu Kasumi", "Osaka Shizuku", "Tennoji Rina", "Mifune Shioriko", "Takasaki Yu", "Uehara Ayumu", "Miyashita Ai", "Yuki Setsuna", "Zhong Lanzhu"],
+    "animeography": ["Nijigasaki Gakuen School Idol Doukoukai"]
+}
