@@ -8,9 +8,11 @@ If you're interested to contribute to this project, feel free to head on over to
 
 ## Endpoints
 
-### Episode Information `GET /anime/<group>/episode/<season>-<episode>`
+### Episode Information `GET /anime/<anime>/episode/<season>-<episode>`
 
-Note: Use group's name instead of anime name (For Nijigasaki, use Nijigasaki).
+Example
+
+`https://loveliveapi.herokuapp.com/anime/love-live-superstar/episode/1-1`
 
 ```js
 {
@@ -43,7 +45,11 @@ Note: Use group's name instead of anime name (For Nijigasaki, use Nijigasaki).
 
 ### Song Information `GET /song/<title>`
 
-Will return list of songs information such as lyrics, titles, etc.
+Example
+
+`https://loveliveapi.herokuapp.com/song/mirai-yohou-hallelujah`
+
+Note: Remove all special characters.
 
 ```js
 {
@@ -65,6 +71,37 @@ Will return list of songs information such as lyrics, titles, etc.
     "kan": "/storage/songs/TWlyYWlZb2hvdUhhbGxlbHVqYWgh-kan.txt",
     "rom": "/storage/songs/TWlyYWlZb2hvdUhhbGxlbHVqYWgh-rom.txt"
   }
+}
+```
+
+### Unit Information `https://loveliveapi.herokuapp.com/unit/<unit name>`
+
+Example
+
+`https://loveliveapi.herokuapp.com/unit/liella`
+
+Note: You can also search for sub-unit's info here.
+
+```js
+{
+  "name": {
+    "eng": "Liella",
+    "kanji": "リエラ",
+    "rom": "Riera"
+  },
+  "school": "Yuigaoka Girls' High School",
+  "description": "Liella! is the school idol group of Yuigaoka Girls' High School. The group consists of five members. The leader is currently unknown.",
+  "members": [
+    "Shibuya Kanon",
+    "Tang Keke",
+    "Arashi Chisato",
+    "Heanna Sumire",
+    "Hazuki Ren"
+  ],
+  "animeography": [
+    "Love Live! Superstar!!"
+  ],
+  "songs": ["Mirai Yohou Hallelujah!", "START!! True dreams", "Hajimari wa Kimi no Sora", "Watashi no Symphony", "Dancing Heart La-Pa-Pa-Pa!", "Dakara Bokura wa Narasunda!", "Dreaming Energy", "Memories", "Mirai wa Kaze no You ni", "Primary", "Kono Machi de Ima Kimi to"]
 }
 ```
 

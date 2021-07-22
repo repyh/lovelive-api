@@ -21,8 +21,8 @@ app.get("/unit/:unit", (req, res) => {
   return res.json(data);
 })
 
-app.get("/anime/:group/episode/:season-:episode", (req, res) => {
-  const data = require(`./data/episodes/${req.params.group}-s${req.params.season}`);
+app.get("/anime/:anime/episode/:season-:episode", (req, res) => {
+  const data = require(`./data/episodes/${req.params.anime}/season-${req.params.season}`);
   if(!data || !data[req.params.episode-1]) res.status(404);
   return res.json(data[req.params.episode-1]);
 })

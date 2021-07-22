@@ -1,0 +1,12 @@
+{
+  "name": {
+    "eng": "Liella",
+    "kanji": "リエラ",
+    "rom": "Riera"
+  },
+  "school": "Yuigaoka Girls' High School",
+  "description": "Liella! is the school idol group of Yuigaoka Girls' High School. The group consists of five members. The leader is currently unknown.",
+  "members": ["Shibuya Kanon", "Tang Keke", "Arashi Chisato", "Heanna Sumire", "Hazuki Ren"],
+  "animeography": ["Love Live! Superstar!!"],
+  "songs": ["Mirai Yohou Hallelujah!", "START!! True dreams", "Hajimari wa Kimi no Sora", "Watashi no Symphony", "Dancing Heart La-Pa-Pa-Pa!", "Dakara Bokura wa Narasunda!", "Dreaming Energy", "Memories", "Mirai wa Kaze no You ni", "Primary", "Kono Machi de Ima Kimi to"]
+}
