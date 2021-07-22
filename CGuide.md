@@ -29,6 +29,5 @@ Please pay attentions to all the points below before dong a pull request.
 Song Files
 
 - In `credits.singers`, make sure the format is array. What you'd wanna put in there is the list of groups that have sang the song before, e.g: Tokimeki Runners (Muse, Aqours, Nijigasaki).
-- Its a little bit tricky to link the lyric, you basically just need to encode the romaji song title (or english if no romaji title) into base64 strings, remove all `=` and then head over to `storage/songs/<base64>`, if the file doesn't exist, then you can head over to `Non Programming Section` for instructions on how to submit songs.
 - Add and set featured section if song is featured on the anime. (also applies to ending and opening songs)
 - Add and set mv if song has its mv, you can also add LL!SIF and LL!SIFAS clips, please refrain from using clips not uploaded by the official Love Live! youtube channel.
