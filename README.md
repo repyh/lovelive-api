@@ -2,7 +2,7 @@
 
 So yeah, maybe I was bored and decided to make this...
 
-Base URL - https://loveliveapi.herokuapp.com/
+Base URL - https://loveliveapi.herokuapp.com/api/
 
 ## Contribution Guide
 
