@@ -1,0 +1,12 @@
+{
+    "name": {
+        "eng": "Otonokizaka High School",
+        "kan": "国立音ノ木坂学院",
+        "rom": "Kokuritsu Otonokizaka Gakuin"
+    },
+    "units": ["µ's", "Printemps", "lily white", "BiBi"],
+    "description": "Otonokizaka is a school located between Tokyo's Akihabara, Kanda, and Jinbouchou neighborhoods. A traditional school with a long history dating back to 1896, it used to be the top school in the neighborhood with an eminent name, so well-known that even other prefectures were aware of it.\nHowever, it has not adapted well to the changes of time, and gradually lost its students to emerging private schools in the area. Coupled with the falling birth rates, the student population decreased to the point where rumors spread that the school was facing risk of abolishment. The rumors only further fueled the decrease of students, which led to the decision that the school would be closed within three years.[1] The efforts of the idol group, μ's, prevented this from happening. The school is currently headed by Principal Minami.\nThe school possesses an auditorium, a gym, a running track, an archery dojo, and even a stable where alpacas are tamed. From the anime, it is known that the Student Council room is on the second floor overlooking the entrance to the school, while the Idol Research Clubroom is on the first floor. The rooftop is often used by μ's for practice.\nThe school is described as having no unique points, only an aging school building with ancient facilities.",
+    "uniforms": "The school's uniform design remains unchanged from its distant past, consisting of a dark blue blazer worn over a pale yellow sweater vest on top of a white collared shirt. The uniform is completed with black knee-high socks, brown loafers, a pleated blue striped skirt with the first, second and third years wearing blue, red and green ribbons respectively.[2] The students appear to be free to customize their uniforms as we see with Hanayo wearing black tights, as well as Nozomi wearing thigh-high socks instead of the knee-highs, and Nico wearing a pink cardigan and Maki wearing a gray vest as opposed to the yellow one.",
+    "students": ["Hoshizora Rin", "Nihikino Maki", "Koizumi Hanayo", "Kosaka Yukihiko", "Ayase Alisa", "Sakurauchi Riko", "Kosaka Honoka", "Minami Kotori", "Sonoda Umi", "Fumiko", "Mika", "Hideko", "Yazawa Nico", "Tojo Nozomi", "Ayase Eli"],
+    "animeography": ["Love Live! School Idol Project", "Love Live! School Idol Project 2nd Season", "Love Live! The School Idol Movie"]
+}

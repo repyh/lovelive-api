@@ -1,0 +1,12 @@
+{
+    "name": {
+        "eng": "Uranohoshi Girl's High School",
+        "kan": "浦の星女学院",
+        "rom": "Uranohoshi Jogakuin"
+    },
+    "units": ["Aqours", "CYaRon", "AZALEA", "Guilty Kiss"],
+    "description": "Uranohoshi is a school located near Shizuoka Prefecture, Numazu City, in a small seaside town named Uchiura. It is located at the tip of a cape, surrounded by fields of orange plantations. There were less than 100 students studying in the school. The school was headed by Mari Ohara who is also a third-year student (now graduated).",
+    "uniforms": "The school's summer uniform is designed after a classic white sailor uniform, with a gray collar over a white shirt, and a gray skirt. The rims of the collar, sleeves and shirt are patterned with a double white line running across them. In winter, a long-sleeved cream-colored sweater is added over the shirt. Similar to Otonokizaka, the students appear to be free to customize their uniforms as we see Hanamaru wear a yellow cardigan and black tights, as well as Yohane wearing thigh high socks instead of the knee-highs.\nThe students wear ties to differentiate their years, with the first years wearing orange, the second years wearing red, and the third years wearing teal. During winter, the first and second years wear ribbons instead, while the third years continue wearing ties.\nDuring the transition period when they change from summer to winter uniforms (November-December), the school briefly switches to a black sailor uniform with a triple white line along the rims of the collar and sleeves. The years are not differentiated in this uniform, with everyone wearing the same white tie. This uniform was the old winter uniform for Uranohoshi Girls' before the new one was designed to better combat the cold weather, and is retained out of a sense of legacy.",
+    "students": ["Kurosawa Ruby", "Kunikida Hanamaru", "Yoshiko Tsushima", "Takami Chika", "Watanabe You", "Sakurauchi Riko", "Ohara Mari", "Matsuura Kanan", "Kurosawa Dia"],
+    "animeography": ["Love Live! School Idol Project", "Love Live! School Idol Project 2nd Season", "Love Live! The School Idol Movie"]
+}

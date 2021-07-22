@@ -1,0 +1,12 @@
+{
+    "name": {
+        "eng": "Yuigaoka Girl's High School",
+        "kan": "結ヶ丘女子高等学校",
+        "rom": "Yuigaoka Joshi Koutou Gakkou"
+    },
+    "units": ["Liella"],
+    "description": "Taking the place of a school that was once cherished by generations of students, Yuigaoka is a fresh new start of a legacy built on the same ground many years ago. Established in Tokyo, and situated at the intersection between three of its most vibrant and upscale neighborhoods - Omotesando, Harajuku, and Aoyama - the former school had closed its doors due to low enrollment, where it soon faced the prospect of demolition. However, the land was quickly purchased by a local personality, and eventually Yuigaoka would rise in its place.\nBeing a newly established school and lacking any kind of name recognition, development plans immediately began on growing the student population of Yuigaoka, which consisted of roughly 100 newly admitted first-years. It is hoped that by fostering an environment of hard work and interconnectedness, the school would eventually blossom with students from all grades, and all walks of life.\nYuigaoka currently provides a growing number of activities, such as a track team and its ever-popular wind ensemble. Depending on the class, tablet stations are provided to assist students in subjects like English, and interactive whiteboards are on the verge of being utilized for teaching. And in the spirit of connectedness, the school even offers free Wi-Fi to students and visitors.\nAround the vicinity of the school are a handful of shrines, namely the notable Hatonomori Hachiman Shrine located near National Stadium, and the Onden Shrine, which is situated fairly close to Yuigaoka. Facing towards Harajuku station also lies the famous Yoyogi Park.",
+    "uniforms": "The uniform consists of a dark blue blazer, a black shirt and skirt and a white collared shirt with a red ribbon.",
+    "students": ["Shibuya Kanon", "Tang Keke", "Arashi Chisato", "Sumire Heanna", "Hazuki Ren"],
+    "animeography": ["Love Live! Superstar!!"]
+}
