@@ -5,6 +5,10 @@ const fs = require("fs");
 
 // I don't really use express that often, feel free to change it so it'll be easier to read and manage.
 
+app.get("/", (req, res) => {
+  res.render("index")
+})
+
 app.get("/storage/songs/:file", (req, res) => {
   res.sendFile(`${__dirname}/storage/songs/${req.params.file}`)
 })
