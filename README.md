@@ -16,6 +16,7 @@ If you're interested to contribute to this project, feel free to head on over to
 - [x] Complete all unit data
 - [x] Complete all school data
 - [ ] Complete all episode data
+- [ ] Add and complete all character data
 
 ## Endpoints
 
