@@ -18,7 +18,10 @@ If you're interested to contribute to this project, feel free to head on over to
 - [x] Complete all unit data
 - [x] Complete all school data
 - [ ] Complete all episode data
-- [ ] Add and complete all character data
+- [x] Add all µ's characters data
+- [ ] Add all Aqours characters data
+- [ ] Add all Nijigasaki characters data
+- [ ] Add all Liella! characters data
 
 ## Endpoints
 
