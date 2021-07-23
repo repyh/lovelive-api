@@ -1,0 +1,40 @@
+{
+    "name": {
+        "eng": "Guilty Kiss",
+        "kan": "ギルティキス",
+        "rom": "Giruti Kisu"
+    },
+    "school": "Uranohoshi Girl's High School",
+    "parent": "Aqours",
+    "logo": "https://loveliveapi.herokuapp.com/api/storage/assets/guilty_kiss_logo.png",
+    "description": "Guilty Kiss is a sub-unit under Aqours. The unit consists of three members, namely Riko Sakurauchi, Yoshiko Tsushima, and Mari Ohara.",
+    "members": [
+        "Tsushima Yoshiko",
+        "Sakurauchi Riko",
+        "Ohara Mari"
+    ],
+    "animeography": [
+        "Love Live! Sunshine!!",
+        "Love Live! Sunshine!! 2nd Season",
+        "Love Live! Sunshine!! The School Idol Movie: Over the Rainbow"
+    ],
+    "songs": [
+        "CYaZALEA☆Kiss☆DADANDAAAN",
+        "Deep Sea Cocoon",
+        "Guilty Eyes Fever",
+        "Guilty Night, Guilty Kiss!",
+        "Guilty!? Farewell party",
+        "HAKODATE UNIT CARNIVAL",
+        "Hop Step Waai!",
+        "Jump up HIGH!!",
+        "Kowareyasuki",
+        "Love Live! Sunshine!! Guilty Kiss 2nd LoveLive! ~Return To Love ♡ Kiss Kiss Kiss~",
+        "Love Pulsar",
+        "Nameless Love Song",
+        "New Romantic Sailors",
+        "Phantom Rocket Adventure",
+        "Shadow gate to love",
+        "Shooting Star Warrior",
+        "Strawberry Trapper"
+    ]
+}

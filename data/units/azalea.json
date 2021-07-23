@@ -1,0 +1,40 @@
+{
+    "name": {
+        "eng": "AZALEA",
+        "kan": "アゼリア",
+        "rom": "Azeria"
+    },
+    "school": "Uranohoshi Girl's High School",
+    "parent": "Aqours",
+    "logo": "https://loveliveapi.herokuapp.com/api/storage/assets/azalea_logo.png",
+    "description": "AZALEA is a sub-unit under Aqours. The unit consists of three members, namely Kanan Matsuura, Dia Kurosawa, and Hanamaru Kunikida.",
+    "members": [
+        "Kunikida Hanamaru",
+        "Kurosawa Dia",
+        "Matsuura Kanan"
+    ],
+    "animeography": [
+        "Love Live! Sunshine!!",
+        "Love Live! Sunshine!! 2nd Season",
+        "Love Live! Sunshine!! The School Idol Movie: Over the Rainbow"
+    ],
+    "songs": [
+        "Amazing Travel DNA",
+        "CYaZALEA☆Kiss☆DADANDAAAN",
+        "GALAXY HidE and SeeK",
+        "HAKODATE UNIT CARNIVAL",
+        "Hop Step Waai!",
+        "INNOCENT BIRD",
+        "Jump up HIGH!!",
+        "Kuuchuu Ren'ai Ron",
+        "LONELY TUNING",
+        "Love Live! Sunshine!! AZALEA 1st LoveLive! ~In The Dark /*Himitsu no Story*/~",
+        "Maze Sekai",
+        "Metamorphism",
+        "PHOENIX DANCE",
+        "Sotsugyou desu ne",
+        "Tokimeki Bunruigaku",
+        "Torikoriko PLEASE!!",
+        "We'll get the next dream!!!"
+    ]
+}
