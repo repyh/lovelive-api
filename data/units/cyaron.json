@@ -1,0 +1,38 @@
+{
+    "name": {
+        "eng": "CYaRon",
+        "kan": "シャロン",
+        "rom": "Sharon"
+    },
+    "school": "Uranohoshi Girl's High School",
+    "logo": "https://loveliveapi.herokuapp.com/api/storage/assets/cyaron_logo.png",
+    "description": "CYaRon! is a sub-unit under Aqours. The unit consists of three members, namely group leader Chika Takami, You Watanabe, and Ruby Kurosawa.",
+    "members": [
+        "Kurosawa Ruby",
+        "Takami Chika",
+        "Watanabe You"
+    ],
+    "animeography": [
+        "Love Live! Sunshine!!",
+        "Love Live! Sunshine!! 2nd Season",
+        "Love Live! Sunshine!! The School Idol Movie: Over the Rainbow"
+    ],
+    "songs": [
+        "Aru Hi...Eien Mitai ni!",
+        "Braveheart Coaster",
+        "CHANGELESS",
+        "CYaZALEA☆Kiss☆DADANDAAAN",
+        "Dragon Riders",
+        "Genki Zenkai DAY! DAY! DAY!",
+        "HAKODATE UNIT CARNIVAL",
+        "Hop Step Waai!",
+        "Jump up HIGH!!",
+        "Kaigandoori de Matteru yo",
+        "Kinmirai Happy End",
+        "Kodoku Teleport",
+        "P.S. no Mukougawa",
+        "Sakura Bye Bye",
+        "Whistle of Revolution",
+        "Yozora wa Nandemo Shitteru no?"
+    ]
+}
