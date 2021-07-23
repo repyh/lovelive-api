@@ -1,4 +1,6 @@
-# Love Live API
+<div align="center">
+  <img src="https://i.postimg.cc/x1sr8wDy/love-live-api.png)](https://postimg.cc/cv8k55Jr" height="350">
+</div>
 
 So yeah, maybe I was bored and decided to make this...
 
