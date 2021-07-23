@@ -21,7 +21,10 @@
     },
     "premiere": "11-6-2021",
     "songs": {
-      "insert": ["Mirai Yohou Hallelujah!", "Primary"]
+      "insert": [
+        "Mirai Yohou Hallelujah!",
+        "Primary"
+      ]
     },
     "source": "https://love-live.fandom.com/wiki/This_Yet_Unknown_Feeling"
   },
@@ -45,7 +48,9 @@
     "songs": {
       "opening": "START!! True dreams",
       "ending": "Mirai wa Kaze no You ni",
-      "insert": ["Memories"]
+      "insert": [
+        "Memories"
+      ]
     },
     "source": "https://love-live.fandom.com/wiki/No_School_Idols_Allowed!%3F"
   }
