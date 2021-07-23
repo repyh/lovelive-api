@@ -24,6 +24,12 @@ app.get("/api/unit/:unit", (req, res) => {
   return res.json(data);
 })
 
+app.get("/api/character/:character", (req, res) => {
+  const data = require(`./data/characters/${req.params.character}`);
+  if(!data) return res.status(404);
+  return res.json(data);
+})
+
 app.get("/api/anime/:anime/episode/:season-:episode", (req, res) => {
   const data = require(`./data/episodes/${req.params.anime}/season-${req.params.season}`);
   if(!data || !data[req.params.episode-1]) return res.status(404);
