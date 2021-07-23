@@ -8,6 +8,15 @@ Base URL - https://loveliveapi.herokuapp.com/api/
 
 If you're interested to contribute to this project, feel free to head on over to `CGuide.md`. Please follow the instructions carefully before creating a pull request. Quick note, if you don't have any experience with programming or modifying json file, you can also contribute, to know how, head on over to the instruction file.
 
+## TODO
+
+- [ ] Upload all song lyrics
+- [ ] Upload all necessary assets
+- [ ] Complete all song data
+- [x] Complete all unit data
+- [x] Complete all school data
+- [ ] Complete all episode data
+
 ## Endpoints
 
 ### Episode Information `GET /anime/<anime>/episode/<season>-<episode>`
