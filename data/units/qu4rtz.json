@@ -1,0 +1,26 @@
+{
+    "name": {
+        "eng": "QU4RTZ",
+        "kan": "クオーツ",
+        "rom": "Kuōtsu"
+    },
+    "school": "Nijigasaki High School",
+    "description": "QU4RTZ is a unit under the Nijigasaki High School Idol Club. The unit consists of four members, namely Kasumi Nakasu, Kanata Konoe, Emma Verde, and Rina Tennoji.",
+    "members": [
+        "Nakasu Kasumi",
+        "Konoe Kanata",
+        "Verde Emma",
+        "Tennoji Rinna"
+    ],
+    "animeography": [
+        "Love Live! Nijigasaki Gakuen School Doukoukai"
+    ],
+    "songs": [
+        "Beautiful Moonlight",
+        "Make-up session ABC",
+        "Not Sad",
+        "Sing & Smile!!",
+        "Swinging!",
+        "Twinkle Town"
+    ]
+}

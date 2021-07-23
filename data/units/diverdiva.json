@@ -1,0 +1,24 @@
+{
+    "name": {
+        "eng": "DiverDiva",
+        "kan": "ダイバーディーバ",
+        "rom": "Daibādība"
+    },
+    "school": "Nijigasaki High School",
+    "description": "DiverDiva is a unit under the Nijigasaki High School Idol Club. The unit consists of two members, namely Karin Asaka, and Ai Miyashita.",
+    "members": [
+        "Miyashita Ai",
+        "Asaka Karin"
+    ],
+    "animeography": [
+        "Love Live! Nijigasaki Gakuen School Doukoukai"
+    ],
+    "songs": [
+        "Fly into the sky",
+        "Love Triangle",
+        "POWER SPOT!!",
+        "Saika -saika-",
+        "SUPER NOVA",
+        "THE SECRET NiGHT"
+    ]
+}

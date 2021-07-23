@@ -1,0 +1,22 @@
+{
+    "name": {
+        "eng": "A・ZU・NA",
+        "kan": "アズナ",
+        "rom": "Azuna"
+    },
+    "school": "Nijigasaki High School",
+    "description": "A・ZU・NA is a unit under the Nijigasaki High School Idol Club. The unit consists of three members, namely Ayumu Uehara, Shizuku Osaka, and Setsuna Yuki.",
+    "members": [
+        "Osaka Shizuku",
+        "Uehara Ayumu",
+        "Yuki Setsuna"
+    ],
+    "songs": [
+        "Cheer for you!!",
+        "Dream Land! Dream World!",
+        "Folklore ~Kanki no Uta~",
+        "Happy Nyan! Days",
+        "Kakushiaji!",
+        "Maze Town"
+    ]
+}
