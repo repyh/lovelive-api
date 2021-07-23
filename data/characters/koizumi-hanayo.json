@@ -1,41 +1,37 @@
 {
     "name": {
-        "eng": "Honoka Kosaka",
-        "kan": "高坂穂乃果",
-        "rom": "Kousaka Honoka"
+        "eng": "Hanayo Koizumi",
+        "kan": "小泉花陽",
+        "rom": "Koizumi Hanayo"
     },
-    "year": 2,
+    "year": 1,
     "groups": [
         "µ's",
         "Printemps"
     ],
-    "birthday": "3-8-unknown",
+    "birthday": "17-1-unknown",
     "gender": "female",
     "blood-type": "O",
-    "height": 157,
+    "height": 156,
     "sizes": {
-        "bust": 78,
-        "waist": 58,
-        "hip": 82
+        "bust": 82,
+        "waist": 60,
+        "hip": 83
     },
     "food": {
-        "favorite": "Strawberries",
-        "disliked": "Bell Peppers"
+        "favorite": "White rice"
     },
     "debut": {
         "anime": "Love Live! School Idol Project",
         "season": 1,
         "episode": 1
     },
-    "personality": "Honoka is an optimist who is never afraid to take risks. She is always in a good mood and likes to look at the bright side of things. She is determined and once her mind is set on something, nothing can stop her. This is believed to be the driving force behind μ's formation and success. But because of her persistent personality, she often overexerts herself.\nHer personality is similar to Rin Hoshizora's because they are both determined and hard-working. For example, in Season 1 Episode 7, Honoka, Rin and Nico Yazawa had to work hard to pass exams in order to enter Love Live!, and are known as the 'Three Idiots'.\nShe likes to eat bread, but she does not enjoy eating red bean or white bean paste despite working at her family's Japanese sweets shop.",
-    "clubs-hobbies": "Honoka enjoys swimming and collecting stickers. Her special skill is often finding money on the streets, which she attributes to good luck. She is also the leader of the school idol group μ's. Starting from the second season, she succeeds Eli Ayase as Otonokizaka High School's student council president.\nIn the manga version, before starting an idol club, Honoka is in the Kendo club with Umi and is good enough to win a tournament.",
+    "personality": "Hanayo is a very shy, quiet character who doesn't normally voice her opinions. She is very reserved and will often let other people make decisions for her because of this. Hanayo is also easily scared. However, her personality changes when it comes to school idols, as she is very enthusiastic about them. She doesn't usually state her desires either, so when she wanted to become an idol she didn't say so for a while and needed a push from Maki and Rin to become one. Despite her timid nature, she is quite kind-hearted and considerate to her friends feelings, similar to Kotori Minami.\nHanayo loves to eat anything, especially rice balls. For that reason, she usually gets upset with her weight, as shown in Season 2 Episode 7.",
+    "clubs-hobbies": "Hanayo is interested in drawing and origami and is obsessed with school idols. She is a caretaker for the school's alpacas, and became the Idol Research Club's president after the third-years graduated.",
     "songs": [
-        "Ai wa Taiyou Ja Nai?",
-        "Mou Hitori Ja Nai yo",
-        "Someday of my life",
-        "Senkou Resolution",
-        "Yume Naki Yume wa Yume ja nai",
-        "Shiawase Iki no SMILING!",
+        "Kodoku na Heaven",
+        "Kodoku no Kairou",
+        "Nawatobi",
         "Bokura no LIVE Kimi to no LIFE",
         "Yuujou No Change",
         "Snow halation",
@@ -53,7 +49,6 @@
         "START:DASH!!",
         "Korekara no Someday",
         "Wonder zone",
-        "No brand girls",
         "Kakumei desu ne? Kamisama!",
         "LONELIEST BABY",
         "Music S.T.A.R.T!!",
@@ -68,6 +63,7 @@
         "COLORFUL VOICE",
         "Yume no Tobira",
         "SENTIMENTAL StepS",
+        "Love wing bell",
         "Dancing stars on me!",
         "KiRa-KiRa Sensation!",
         "Happy maker!",
@@ -89,16 +85,18 @@
         "Natte Shimatta!",
         "Love marginal",
         "Sweet&sweet holiday",
-        "Mermaid festa vol.2 ~Passionate~",
-        "Susume→Tomorrow",
+        "Kokuhaku Biyori, desu!",
+        "Listen to my heart!!",
+        "After school NAVIGATORS",
         "Pure girls project",
         "UNBALANCED LOVE",
         "Puwa Puwa-O!",
+        "Suki desu ga Suki desu ka?",
         "Eien Friends",
         "Nightingale Love Song",
         "CheerDay CheerGirl!",
         "MUSEUM de Dou Shitai?",
-        "Future style",
+        "Hello, Hoshi o Kazoete",
         "WAO-WAO Powerful day!",
         "NO EXIT ORION"
     ]

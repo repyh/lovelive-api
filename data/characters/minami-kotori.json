@@ -5,7 +5,10 @@
         "rom": "Minami Kotori"
     },
     "year": 2,
-    "groups": ["µ's", "Printemps"],
+    "groups": [
+        "µ's",
+        "Printemps"
+    ],
     "birthday": "12-9-unknown",
     "gender": "female",
     "blood-type": "O",
