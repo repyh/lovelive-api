@@ -7,10 +7,12 @@
     "featured": true,
     "mv": "https://www.youtube.com/watch?v=6UBp7KzvRKM",
     "credits": {
-        "writer": "Hata Aki",
+        "writer": "Aki Hata",
         "composer": "ZAQ",
         "arranger": "EFFY",
-        "singer": ["µ's"]
+        "singer": [
+            "µ's"
+        ]
     },
     "lyrics": {
         "eng": "https://loveliveapi.herokuap.com/storage/songs/bokutachi-wa-hitotsu-no-hikari-eng.txt",

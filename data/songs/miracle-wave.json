@@ -8,7 +8,9 @@
         "writer": "Aki Hata",
         "composer": "Takuya Sakai",
         "arranger": "Masatomi Waki",
-        "singer": ["Aqours"]
+        "singer": [
+            "Aqours"
+        ]
     },
     "lyrics": {
         "eng": "https://loveliveapi.herokuapp.com/api/storage/songs/miracle-wave-eng.txt",

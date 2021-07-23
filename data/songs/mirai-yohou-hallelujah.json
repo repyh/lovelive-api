@@ -10,11 +10,13 @@
     "writer": "Junko Miyajima",
     "composer": "EFFY",
     "arranger": "Yosuke Yamashita",
-    "singer": ["Liella"]
+    "singer": [
+      "Liella"
+    ]
   },
   "lyrics": {
-    "eng": "/storage/songs/TWlyYWlZb2hvdUhhbGxlbHVqYWgh-eng.txt",
-    "kan": "/storage/songs/TWlyYWlZb2hvdUhhbGxlbHVqYWgh-kan.txt",
-    "rom": "/storage/songs/TWlyYWlZb2hvdUhhbGxlbHVqYWgh-rom.txt"
+    "eng": "https://loveliveapi.herokuap.com/api/storage/songs/TWlyYWlZb2hvdUhhbGxlbHVqYWgh-eng.txt",
+    "kan": "https://loveliveapi.herokuap.com/api/storage/songs/TWlyYWlZb2hvdUhhbGxlbHVqYWgh-kan.txt",
+    "rom": "https://loveliveapi.herokuap.com/api/storage/songs/TWlyYWlZb2hvdUhhbGxlbHVqYWgh-rom.txt"
   }
 }
