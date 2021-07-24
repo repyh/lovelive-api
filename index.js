@@ -48,8 +48,8 @@ app.get("/api/anime/:anime/episode/:season-:episode", (req, res) => {
 })
 
 app.get("/api/school/:school", (req, res) => {
-  const data = requrie(`./data/schools/${req.params.school}`);
-  if(!data || !data[req.params.episode-1]) return res.status(404);
+  const data = require(`./data/schools/${req.params.school}`);
+  if(!data) return res.status(404);
   return res.json(data);
 })
 
