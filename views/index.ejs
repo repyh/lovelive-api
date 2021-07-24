@@ -1,7 +1,7 @@
 <html>
     <head>
         <!-- 
-            Yeah, I'm definitely not good at front-end
+            Yeah, I'm definitely not into front-end
         -->
         <title>Love Live API</title>
         <style>
@@ -162,6 +162,12 @@
             .current {
                 background-color: #F00494;
             }
+
+            .submission:-webkit-autofill, .submission:-webkit-autofill:hover, .submission:-webkit-autofill:focus, .submission:-webkit-autofill:active {
+                -webkit-text-fill-color: #3a3b3c;
+                -webkit-box-shadow: 0 0 0px 1000px transparent inset;
+                transition: background-color 5000s ease-in-out 0s;
+            }
         </style>
         <script>
             window.onload = function() {
@@ -178,7 +184,7 @@
     <header>
         <ul>
             <li><a href="/" class="current">Home</a></li>
-            <li><a href="/">Characters</a></li>
+            <li><a href="/characters">Characters</a></li>
             <li><a href="/">Schools</a></li>
             <li><a href="/">Groups</a></li>
         </ul>
