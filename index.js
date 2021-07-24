@@ -10,6 +10,17 @@ app.get("/", (req, res) => {
   res.render("index")
 })
 
+let characters = [];
+for(const char of fs.readdirSync("./data/characters")) characters.push(require(`./data/characters/${char}`));
+
+app.get("/characters", (req, res) => {
+  res.render("characters", {
+    characters
+  })
+})
+
+// API Section
+
 app.use("/api/storage", express.static(__dirname + '/storage'));
 
 app.get("/api/song/:name", (req, res) => {
@@ -37,8 +48,8 @@ app.get("/api/anime/:anime/episode/:season-:episode", (req, res) => {
 })
 
 app.get("/api/school/:school", (req, res) => {
-  const data = require(`./data/schools/${req.params.school}`);
-  if(!data) return res.status(404);
+  const data = requrie(`./data/schools/${req.params.school}`);
+  if(!data || !data[req.params.episode-1]) return res.status(404);
   return res.json(data);
 })
 
