@@ -2,12 +2,13 @@
     <head>
         <!-- 
             Yeah, I'm definitely not into front-end
-            Ignore: https://i.ibb.co/MsSqrQP/image.png
         -->
         <title>Love Live API</title>
-        <meta property="og:title" content="Love Live API">
-        <meta property="og:description" content="A Simple and easy-to-use rest api containing informations about the Love Live! franchise">
         <style>
+            * {
+                font-family: consolas;
+            }
+
             html {
                 background-image: url("https://i.ibb.co/MsSqrQP/image.png");
             }
@@ -71,13 +72,91 @@
                 color: white;
                 filter: blur(0);
             }
+
+            label {
+                font-size: 20px;
+            }
+
+            .submission {
+                background-color: transparent;
+                border: 0;
+                position: relative;
+                right: 10px;
+                font-size: 20px;
+                width: 263.3px;
+                color: #3a3b3c;
+            }
+
+            .menu {
+                background-color: transparent;
+                display: block;
+                color: #3a3b3c;
+                margin: 0;
+                padding: 0;
+                text-align: left;
+                position: absolute;
+                bottom: 200px;
+                left: 110px;
+            }
+
+            ::placeholder {
+                color: #3a3b3c;
+            }
+
+            .submission:focus {
+                outline: none;
+                background-color: transparent;
+                border: 0;
+            }
+
+            #sub {
+                position: relative;
+                width: 80px;
+                height: 30px;
+                border-radius: 25px;
+                border: 4px solid #3a3b3c;
+                font-size: 15px;
+                color: #3a3b3c;
+                background-color: transparent;
+                font-weight: bold;
+                transition: 0.5s;
+            }
+
+            #sub:focus {
+                outline: none;
+            }
+
+            #sub:hover {
+                color: white;
+            }
         </style>
+        <script>
+            window.onload = function() {
+                const form = document.getElementById("form");
+                form.addEventListener('submit', e => {
+                    e.preventDefault();
+                    let value = form.elements.url.value
+                    !value ? value = `character/minami-kotori` : 0;
+                    window.open(`https://loveliveapi.herokuapp.com/api/${value}`)
+                })
+            }
+        </script>
     </head>
     <body>
         <div class="main">
             <h1>Love Live API</h1>
             <a href="https://github.com/repyh/lovelive-api" class="git" target="_blank">Github</a>
-            <a href="https://cjho88793.gitbook.io/love-live-api/endpoints" class="api" target="_blank">Documentation</a>
+            <a href="https://loveliveapi.herokuapp.com" class="api" target="_blank">Documentation</a>
+        </div>
+        <div class="center" align="center">
+            <form id="form">
+                <div class="menu">
+                    <label>https://loveliveapi.herokuapp.com/api/</label>
+                    <input type="text" name="url" class="submission" placeholder="character/minami-kotori">
+                    <!-- </br> -->
+                    <input type="submit" value="Search" id="sub">
+                </div>
+            </form>
         </div>
     </body>
 </html>
