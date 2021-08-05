@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Maze Sekai",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=-vPaA1UqF3Y",
+    "track": "https://open.spotify.com/track/6sfCZBZbomvxfp2l15eumu",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Yosuke Kurokawa",
+        "arranger": "Yosuke Kurokawa",
+        "singer": [
+            "AZALEA"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/maze-sekai-eng.txt",
+        "kan": "/api/storage/songs/maze-sekai-kan.txt",
+        "rom": "/api/storage/songs/maze-sekai-rom.txt"
+    },
+    "release_date": "2019-12-11"
+}

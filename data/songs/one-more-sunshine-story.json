@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "One More Sunshine Story",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=jwyBqK_rXYU",
+    "track": "https://open.spotify.com/track/7h73Xkk2JqVV2bMo0P7x06",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "EFFY (FirstCall)",
+        "arranger": "EFFY (FirstCall)",
+        "singer": [
+            "Chika Takami"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/one-more-sunshine-story-eng.txt",
+        "kan": "/api/storage/songs/one-more-sunshine-story-kan.txt",
+        "rom": "/api/storage/songs/one-more-sunshine-story-rom.txt"
+    },
+    "release_date": "2017-12-22"
+}

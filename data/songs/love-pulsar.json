@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Love Pulsar",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=pmHm6JSqISg",
+    "track": "https://open.spotify.com/track/1RC5cSSGRNyYMFCuvCEEt5",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Miki Watanabe",
+        "arranger": "Miki Watanabe",
+        "singer": [
+            "Guilty Kiss"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/love-pulsar-eng.txt",
+        "kan": "/api/storage/songs/love-pulsar-kan.txt",
+        "rom": "/api/storage/songs/love-pulsar-rom.txt"
+    },
+    "release_date": "2019-11-27"
+}

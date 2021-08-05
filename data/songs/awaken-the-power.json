@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Awaken the power",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": true,
+    "mv": "https://www.youtube.com/watch?v=GZdZ9s_t1bs",
+    "track": "https://open.spotify.com/track/5lNJrTnmGyHRByNYU53aHO",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Takahiro Kawata",
+        "arranger": "Takahiro Kawata",
+        "singer": [
+            "Saint Aqours Snow"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/awaken-the-power-eng.txt",
+        "kan": "/api/storage/songs/awaken-the-power-kan.txt",
+        "rom": "/api/storage/songs/awaken-the-power-rom.txt"
+    },
+    "release_date": "2017-12-20"
+}

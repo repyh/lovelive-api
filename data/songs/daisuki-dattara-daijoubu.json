@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "If You Love It, It's Alright!",
+        "kan": "ダイスキだったらダイジョウブ！",
+        "rom": "Daisuki dattara Daijoubu!"
+    },
+    "featured": true,
+    "mv": "https://www.youtube.com/watch?v=pM0xdVO4MbM",
+    "track": "https://open.spotify.com/track/51118cg0D9k0F952AGtNou",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Kyou Takada",
+        "arranger": "Kyou Takada",
+        "singer": [
+            "Chika Takami, Riko Sakurauchi, and You Watanabe"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/daisuki-dattara-daijoubu-eng.txt",
+        "kan": "/api/storage/songs/daisuki-dattara-daijoubu-kan.txt",
+        "rom": "/api/storage/songs/daisuki-dattara-daijoubu-rom.txt"
+    },
+    "release_date": "2016-08-03"
+}

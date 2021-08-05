@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Longing for Lan La Lan",
+        "kan": "あこがれランララン",
+        "rom": "Akogare Ranraran"
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=J7Du0P0ynhM",
+    "track": "https://open.spotify.com/track/4nzacsf8fB6FFUocgF1dc0",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "INN",
+        "arranger": "Takeshi Masuda",
+        "singer": [
+            "Hanamaru Kunikida"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/akogare-ranraran-eng.txt",
+        "kan": "/api/storage/songs/akogare-ranraran-kan.txt",
+        "rom": "/api/storage/songs/akogare-ranraran-rom.txt"
+    },
+    "release_date": "2021-03-04"
+}

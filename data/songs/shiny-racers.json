@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Shiny Racers",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=BfUsGx5Xd2s",
+    "track": "https://open.spotify.com/track/1j28e7BX7hmf0VSiemwKPT",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Hiromitsu Kawashima",
+        "arranger": "Hiromitsu Kawashima",
+        "singer": [
+            "Mari Ohara"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/shiny-racers-eng.txt",
+        "kan": "/api/storage/songs/shiny-racers-kan.txt",
+        "rom": "/api/storage/songs/shiny-racers-rom.txt"
+    },
+    "release_date": "2021-06-13"
+}

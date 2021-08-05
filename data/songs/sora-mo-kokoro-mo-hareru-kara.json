@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Because Our Hearts Will Clear Up Just Like The Skies",
+        "kan": "空も心も晴れるから",
+        "rom": "Sora mo Kokoro mo Hareru kara"
+    },
+    "featured": true,
+    "mv": "https://www.youtube.com/watch?v=ohAnFfG1xDw",
+    "track": "https://open.spotify.com/track/6XXu1HySrCSd25li37RADe",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Atsushi Harada (Arte Refact)",
+        "arranger": "Masatomi Waki (Arte Refact)",
+        "singer": [
+            "Chika Takami, Riko Sakurauchi, and You Watanabe"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/sora-mo-kokoro-mo-hareru-kara-eng.txt",
+        "kan": "/api/storage/songs/sora-mo-kokoro-mo-hareru-kara-kan.txt",
+        "rom": "/api/storage/songs/sora-mo-kokoro-mo-hareru-kara-rom.txt"
+    },
+    "release_date": "2016-10-26"
+}

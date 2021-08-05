@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Rather Than Talking About Our Dreams, Let's Sing Them",
+        "kan": "ユメ語るよりユメ歌おう",
+        "rom": "Yume Kataru yori Yume Utaou"
+    },
+    "featured": true,
+    "mv": "https://www.youtube.com/watch?v=dsdfEeINcGk",
+    "track": "https://open.spotify.com/track/4DX6X29cQMY1io58PyWTri",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Akihiko Yamaguchi",
+        "arranger": "Akihiko Yamaguchi",
+        "singer": [
+            "Aqours"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/yume-kataru-yori-yume-utaou-eng.txt",
+        "kan": "/api/storage/songs/yume-kataru-yori-yume-utaou-kan.txt",
+        "rom": "/api/storage/songs/yume-kataru-yori-yume-utaou-rom.txt"
+    },
+    "release_date": "2016-08-24"
+}

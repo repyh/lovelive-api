@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Even If It’s Not a Star Within Reach",
+        "kan": "届かない星だとしても",
+        "rom": "Todokanai Hoshi da to Shitemo"
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=Acvx4PQlfM0",
+    "track": "https://open.spotify.com/track/4HFtRL9y6elgztUDpXkX0t",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Makoto Miyazaki",
+        "arranger": "Makoto Miyazaki",
+        "singer": [
+            "Aqours"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/todokanai-hoshi-da-to-shitemo-eng.txt",
+        "kan": "/api/storage/songs/todokanai-hoshi-da-to-shitemo-kan.txt",
+        "rom": "/api/storage/songs/todokanai-hoshi-da-to-shitemo-rom.txt"
+    },
+    "release_date": ""
+}

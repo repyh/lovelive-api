@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Landing action Yeah!!",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=I2dTqCBOmN4",
+    "track": "",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Hajime Mitsumasu",
+        "arranger": "TAKAROT",
+        "singer": [
+            "Aqours"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/landing-action-yeah-eng.txt",
+        "kan": "/api/storage/songs/landing-action-yeah-kan.txt",
+        "rom": "/api/storage/songs/landing-action-yeah-rom.txt"
+    },
+    "release_date": "2017-06-30"
+}

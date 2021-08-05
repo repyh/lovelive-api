@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Step! ZERO to ONE",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=_ijn3e-3jtk",
+    "track": "https://open.spotify.com/track/1bgrQXcFqDs3gihiD2r3jd",
+    "credits": {
+        "writer": "Hata Aki",
+        "composer": "Takada Kyou",
+        "arranger": "Takada Kyou",
+        "singer": [
+            "Aqours"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/step-zero-to-one-eng.txt",
+        "kan": "/api/storage/songs/step-zero-to-one-kan.txt",
+        "rom": "/api/storage/songs/step-zero-to-one-rom.txt"
+    },
+    "release_date": "2015-10-07"
+}

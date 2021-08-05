@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "We're Dancing with Pops Heart After All!",
+        "kan": "Pops heartで踊るんだもん！",
+        "rom": "Pops heart de Odorun damon!"
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=A_fOcLUppZw",
+    "track": "https://open.spotify.com/track/5wo7Q0bZZc8rWdQaXwquR8",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Kyou Takada",
+        "arranger": "Kyou Takada",
+        "singer": [
+            "Aqours"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/pops-heart-de-odorun-damon-eng.txt",
+        "kan": "/api/storage/songs/pops-heart-de-odorun-damon-kan.txt",
+        "rom": "/api/storage/songs/pops-heart-de-odorun-damon-rom.txt"
+    },
+    "release_date": "2016-09-27"
+}

@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "The Door Towards Summer Never end ver.",
+        "kan": "夏への扉 Never end ver.",
+        "rom": "Natsu e no Tobira Never end ver."
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=_xoVcs6XDg8",
+    "track": "https://open.spotify.com/track/2tkXgl87zjKfDUFkht3maK",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Masashi Kanasaki",
+        "arranger": "Masashi Kanasaki",
+        "singer": [
+            "Riko Sakurauchi, Hanamaru Kunikida, and Mari Ohara"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/natsu-e-no-tobira-never-end-ver-eng.txt",
+        "kan": "/api/storage/songs/natsu-e-no-tobira-never-end-ver-kan.txt",
+        "rom": "/api/storage/songs/natsu-e-no-tobira-never-end-ver-rom.txt"
+    },
+    "release_date": "2017-08-02"
+}

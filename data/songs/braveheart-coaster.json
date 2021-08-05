@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Braveheart Coaster",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=x5Jqvn1mFK4",
+    "track": "https://open.spotify.com/track/3XkAIofk0JgOXrt41CV5U6",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Kyou Takada",
+        "arranger": "Kyou Takada",
+        "singer": [
+            "CYaRon!"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/braveheart-coaster-eng.txt",
+        "kan": "/api/storage/songs/braveheart-coaster-kan.txt",
+        "rom": "/api/storage/songs/braveheart-coaster-rom.txt"
+    },
+    "release_date": "2019-12-04"
+}

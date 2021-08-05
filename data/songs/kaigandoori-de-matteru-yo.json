@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "I'll Be Waiting At The Coastal Street",
+        "kan": "海岸通りで待ってるよ",
+        "rom": "Kaigandoori de Matteru yo"
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=Rfj3RfBe098",
+    "track": "https://open.spotify.com/track/5OLMQiEGFoBQ560FUwJm3O",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Miki Watanabe",
+        "arranger": "Miki Watanabe",
+        "singer": [
+            "CYaRon!"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/kaigandoori-de-matteru-yo-eng.txt",
+        "kan": "/api/storage/songs/kaigandoori-de-matteru-yo-kan.txt",
+        "rom": "/api/storage/songs/kaigandoori-de-matteru-yo-rom.txt"
+    },
+    "release_date": "2017-05-10"
+}

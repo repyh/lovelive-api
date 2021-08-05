@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Sakana ka Nanda ka?",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=CnEZl34WgdU",
+    "track": "https://open.spotify.com/track/57fDiwr1ayxeS57PC8r13R",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Tetsuya Shitara",
+        "arranger": "Tetsuya Shitara",
+        "singer": [
+            "Kanan Matsuura"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/sakana-ka-nanda-ka-eng.txt",
+        "kan": "/api/storage/songs/sakana-ka-nanda-ka-kan.txt",
+        "rom": "/api/storage/songs/sakana-ka-nanda-ka-rom.txt"
+    },
+    "release_date": "2018-05-25"
+}

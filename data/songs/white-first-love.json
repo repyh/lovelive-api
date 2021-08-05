@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "WHITE FIRST LOVE",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=uFG5GQnfJyI",
+    "track": "https://open.spotify.com/track/0eTxt9ZSnoccBDd5reFAxK",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Takuya Watanabe",
+        "arranger": "Takuya Watanabe",
+        "singer": [
+            "Dia Kurosawa"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/white-first-love-eng.txt",
+        "kan": "/api/storage/songs/white-first-love-kan.txt",
+        "rom": "/api/storage/songs/white-first-love-rom.txt"
+    },
+    "release_date": "2018-04-24"
+}

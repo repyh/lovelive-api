@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Cinderella on the G String",
+        "kan": "G線上のシンデレラ",
+        "rom": "G Senjou no Cinderella"
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=e2tsActCs2k",
+    "track": "https://open.spotify.com/track/1q8HSZgkbK1AAs32TjBiW6",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Takayuki Ishikura",
+        "arranger": "Ramseeni and Takayuki Ishikura",
+        "singer": [
+            "Kanan Matsuura, Dia Kurosawa, and Mari Ohara"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/g-senjou-no-cinderella-eng.txt",
+        "kan": "/api/storage/songs/g-senjou-no-cinderella-kan.txt",
+        "rom": "/api/storage/songs/g-senjou-no-cinderella-rom.txt"
+    },
+    "release_date": "2017-01-27"
+}

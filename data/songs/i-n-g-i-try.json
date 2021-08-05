@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "i-n-g, I TRY!!",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=84CfW8uuOk8",
+    "track": "",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Takeshi Masuda",
+        "arranger": "Takeshi Masuda",
+        "singer": [
+            "Aqours"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/i-n-g-i-try-eng.txt",
+        "kan": "/api/storage/songs/i-n-g-i-try-kan.txt",
+        "rom": "/api/storage/songs/i-n-g-i-try-rom.txt"
+    },
+    "release_date": "2019-07-26"
+}

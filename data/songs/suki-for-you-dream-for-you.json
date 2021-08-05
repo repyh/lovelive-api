@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "SUKI for you, DREAM for you!",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=5Aq72XyG34k",
+    "track": "",
+    "credits": {
+        "writer": "",
+        "composer": "Aki Hata",
+        "arranger": "Aki Hata",
+        "singer": [
+            "Aqours"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/suki-for-you-dream-for-you-eng.txt",
+        "kan": "/api/storage/songs/suki-for-you-dream-for-you-kan.txt",
+        "rom": "/api/storage/songs/suki-for-you-dream-for-you-rom.txt"
+    },
+    "release_date": "2021-09-22"
+}

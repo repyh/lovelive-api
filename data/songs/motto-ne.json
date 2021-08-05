@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "More!",
+        "kan": "もっとね！",
+        "rom": "Motto ne!"
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=YoYVNh9WgnM",
+    "track": "https://open.spotify.com/track/3vXJrJULk98bQ4dG4WvqNY",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Kanata Okajima",
+        "arranger": "pw",
+        "singer": [
+            "Kanan Matsuura"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/motto-ne-eng.txt",
+        "kan": "/api/storage/songs/motto-ne-kan.txt",
+        "rom": "/api/storage/songs/motto-ne-rom.txt"
+    },
+    "release_date": "2021-02-10"
+}

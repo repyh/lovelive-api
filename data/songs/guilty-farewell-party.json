@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Guilty!? Farewell party",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=RasJiT1Hjl0",
+    "track": "",
+    "credits": {
+        "writer": "Aki Hata",
+        "arranger": "YASUSHI WATANABE",
+        "composer": "YASUSHI WATANABE",
+        "singer": [
+            "Guilty Kiss"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/guilty-farewell-party-eng.txt",
+        "kan": "/api/storage/songs/guilty-farewell-party-kan.txt",
+        "rom": "/api/storage/songs/guilty-farewell-party-rom.txt"
+    },
+    "release_date": "2018-06-22"
+}

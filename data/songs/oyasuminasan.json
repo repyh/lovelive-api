@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "",
+        "kan": "おやすみなさん！, lit. Goodnight, Everyone!",
+        "rom": "Oyasuminasan!"
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=EpM8Mq6RoaA",
+    "track": "https://open.spotify.com/track/29vpQtliCPSeZGJrY8r375",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Satoru Shirasuka and Motoki Masuda",
+        "arranger": "Satoru Shirasuka and Motoki Masuda",
+        "singer": [
+            "Hanamaru Kunikida"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/oyasuminasan-eng.txt",
+        "kan": "/api/storage/songs/oyasuminasan-kan.txt",
+        "rom": "/api/storage/songs/oyasuminasan-rom.txt"
+    },
+    "release_date": "2018-01-26"
+}

@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Believe again",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=Zr7I5l-XPz8",
+    "track": "https://open.spotify.com/track/3aYg7E9EixRCtQQX5SZuat",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Takahiro Kawata",
+        "arranger": "Takahiro Kawata",
+        "singer": [
+            "Saint Snow"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/believe-again-eng.txt",
+        "kan": "/api/storage/songs/believe-again-kan.txt",
+        "rom": "/api/storage/songs/believe-again-rom.txt"
+    },
+    "release_date": "2019-02-06"
+}

@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "SKY JOURNEY",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=uX-V5JlE3Iw",
+    "track": "https://open.spotify.com/track/2c9UHaQUD7eW0x6GUbmZmo",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Hirotaka Hayakawa",
+        "arranger": "Hirotaka Hayakawa",
+        "singer": [
+            "Aqours"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/sky-journey-eng.txt",
+        "kan": "/api/storage/songs/sky-journey-kan.txt",
+        "rom": "/api/storage/songs/sky-journey-rom.txt"
+    },
+    "release_date": "2017-04-05"
+}

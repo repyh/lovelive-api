@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Tatehoko Tsubasa",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=gOYIa1U4hNI",
+    "track": "",
+    "credits": {
+        "writer": "",
+        "composer": "Aki Hata",
+        "arranger": "Aki Hata",
+        "singer": [
+            "Yoshiko Tsushima"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/tatehoko-tsubasa-eng.txt",
+        "kan": "/api/storage/songs/tatehoko-tsubasa-kan.txt",
+        "rom": "/api/storage/songs/tatehoko-tsubasa-rom.txt"
+    },
+    "release_date": "2021-07-13"
+}

@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Shadow gate to love",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=7wmOFiRHCw4",
+    "track": "https://open.spotify.com/track/102b9XE1FmD4seoZrOBWoj",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Kazunori Watanabe",
+        "arranger": "Kazunori Watanabe",
+        "singer": [
+            "Guilty Kiss"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/shadow-gate-to-love-eng.txt",
+        "kan": "/api/storage/songs/shadow-gate-to-love-kan.txt",
+        "rom": "/api/storage/songs/shadow-gate-to-love-rom.txt"
+    },
+    "release_date": "2017-06-21"
+}

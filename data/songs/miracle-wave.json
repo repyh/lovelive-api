@@ -1,20 +1,24 @@
 {
     "title": {
-        "eng": "MIRACLE WAVE"
+        "eng": "MIRACLE WAVE",
+        "kan": "",
+        "rom": ""
     },
     "featured": true,
-    "mv": "https://www.youtube.com/watch?v=xvL26PZ2qlQ",
+    "mv": "https://www.youtube.com/watch?v=i5AQAdKqfSE",
+    "track": "https://open.spotify.com/track/5eQA8ByEOmjyxLqByisyuF",
     "credits": {
         "writer": "Aki Hata",
-        "composer": "Takuya Sakai",
-        "arranger": "Masatomi Waki",
+        "composer": "Takuya Sakai (Arte Refact)",
+        "arranger": "Masatomi Waki (Arte Refact)",
         "singer": [
             "Aqours"
         ]
     },
     "lyrics": {
-        "eng": "https://loveliveapi.herokuapp.com/api/storage/songs/miracle-wave-eng.txt",
-        "kan": "https://loveliveapi.herokuapp.com/api/storage/songs/miracle-wave-kan.txt",
-        "rom": "https://loveliveapi.herokuapp.com/api/storage/songs/miracle-wave-rom.txt"
-    }
+        "eng": "/api/storage/songs/miracle-wave-eng.txt",
+        "kan": "/api/storage/songs/miracle-wave-kan.txt",
+        "rom": "/api/storage/songs/miracle-wave-rom.txt"
+    },
+    "release_date": "2017-11-29"
 }

@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Future Ticket",
+        "kan": "",
+        "rom": "MIRAI TICKET"
+    },
+    "featured": true,
+    "mv": "https://www.youtube.com/watch?v=CvQEhuJoH9I",
+    "track": "https://open.spotify.com/track/53r1ZLsLXyCSAJiTxF8hts",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "EFFY",
+        "arranger": "EFFY",
+        "singer": [
+            "Aqours"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/mirai-ticket-eng.txt",
+        "kan": "/api/storage/songs/mirai-ticket-kan.txt",
+        "rom": "/api/storage/songs/mirai-ticket-rom.txt"
+    },
+    "release_date": "2016-11-09"
+}

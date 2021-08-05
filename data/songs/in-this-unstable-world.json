@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "in this unstable world",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=wfjJbCzlyHw",
+    "track": "",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Rei Kamiya",
+        "arranger": "Rei Kamiya",
+        "singer": [
+            "Yoshiko Tsushima"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/in-this-unstable-world-eng.txt",
+        "kan": "/api/storage/songs/in-this-unstable-world-kan.txt",
+        "rom": "/api/storage/songs/in-this-unstable-world-rom.txt"
+    },
+    "release_date": "2018-02-23"
+}

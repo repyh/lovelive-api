@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Jump up HIGH!!",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=NziEaNeMekE",
+    "track": "",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Kanata Okajima",
+        "arranger": "TAKAROT",
+        "singer": [
+            "Aqours"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/jump-up-high-eng.txt",
+        "kan": "/api/storage/songs/jump-up-high-kan.txt",
+        "rom": "/api/storage/songs/jump-up-high-rom.txt"
+    },
+    "release_date": "2019-06-30"
+}

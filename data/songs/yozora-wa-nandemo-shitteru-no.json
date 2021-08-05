@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Does The Night Sky Know Everything?",
+        "kan": "夜空はなんでも知ってるの？",
+        "rom": "Yozora wa Nandemo Shitteru no?"
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=dpJWQAY3JRI",
+    "track": "https://open.spotify.com/track/1ORM9UcRS2m6sSCFHtGM9l",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Kon-K",
+        "arranger": "Kon-K",
+        "singer": [
+            "CYaRon!"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/yozora-wa-nandemo-shitteru-no-eng.txt",
+        "kan": "/api/storage/songs/yozora-wa-nandemo-shitteru-no-kan.txt",
+        "rom": "/api/storage/songs/yozora-wa-nandemo-shitteru-no-rom.txt"
+    },
+    "release_date": "2016-05-11"
+}

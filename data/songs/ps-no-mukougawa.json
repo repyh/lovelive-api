@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "On The Other Side Of A Postscript",
+        "kan": "P.S.の向こう側",
+        "rom": "P.S. no Mukougawa"
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=QrNiIm4fl7U",
+    "track": "https://open.spotify.com/track/2zAtIoagF9U8FHQhc8Un5L",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Kensuke Okamoto",
+        "arranger": "Kazunori Watanabe",
+        "singer": [
+            "CYaRon!"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/ps-no-mukougawa-eng.txt",
+        "kan": "/api/storage/songs/ps-no-mukougawa-kan.txt",
+        "rom": "/api/storage/songs/ps-no-mukougawa-rom.txt"
+    },
+    "release_date": "2017-03-24"
+}

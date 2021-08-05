@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Exciting Week!",
+        "kan": "",
+        "rom": "Waku-Waku-Week!"
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=TkKtJH1FupU",
+    "track": "https://open.spotify.com/track/3hdl3kBMjapC8UF5mt3lRY",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Ramseeni and Hiware Uchida",
+        "arranger": "Koutarou Odaka and Ramseeni",
+        "singer": [
+            "Kurosawa"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/waku-waku-week-eng.txt",
+        "kan": "/api/storage/songs/waku-waku-week-kan.txt",
+        "rom": "/api/storage/songs/waku-waku-week-rom.txt"
+    },
+    "release_date": "2016-11-25"
+}

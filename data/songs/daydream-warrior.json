@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Daydream Warrior",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=bbQJUcvZg7U",
+    "track": "https://open.spotify.com/track/449JyzwBG4L3IVHUf9zkZs",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Wataru Maeguchi",
+        "arranger": "Tomohiro Nakatsuchi",
+        "singer": [
+            "Aqours"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/daydream-warrior-eng.txt",
+        "kan": "/api/storage/songs/daydream-warrior-kan.txt",
+        "rom": "/api/storage/songs/daydream-warrior-rom.txt"
+    },
+    "release_date": "2016-12-22"
+}

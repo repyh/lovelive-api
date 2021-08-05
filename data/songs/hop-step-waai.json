@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Hop Step Waai!",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=zpVK5vGNDNI",
+    "track": "",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Hajime Mitsumasu (FirstCall)",
+        "arranger": "Hajime Mitsumasu (FirstCall)",
+        "singer": [
+            "Aqours"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/hop-step-waai-eng.txt",
+        "kan": "/api/storage/songs/hop-step-waai-kan.txt",
+        "rom": "/api/storage/songs/hop-step-waai-rom.txt"
+    },
+    "release_date": "2018-06-30"
+}

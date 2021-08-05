@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Fragilove",
+        "kan": "コワレヤスキ",
+        "rom": "Kowareyasuki"
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=Nl7r3hLFwUQ",
+    "track": "https://open.spotify.com/track/1TizL66jSoN48Hj8airJgr",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Takashi Saeki",
+        "arranger": "Takashi Saeki",
+        "singer": [
+            "Guilty Kiss"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/kowareyasuki-eng.txt",
+        "kan": "/api/storage/songs/kowareyasuki-kan.txt",
+        "rom": "/api/storage/songs/kowareyasuki-rom.txt"
+    },
+    "release_date": "2017-06-21"
+}

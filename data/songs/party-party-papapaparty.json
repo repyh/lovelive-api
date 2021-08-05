@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Party! Party! PaPaPaParty!",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=OnSXOwljE28",
+    "track": "https://open.spotify.com/track/671VDfkihffwDZBz56nZ5P",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Ayumu Nakamura and Hiroto Kikuchi",
+        "arranger": "Ayumu Nakamura and Hiroto Kikuchi",
+        "singer": [
+            "Chika Takami, Dia Kurosawa and Yoshiko Tsushima."
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/party-party-papapaparty-eng.txt",
+        "kan": "/api/storage/songs/party-party-papapaparty-kan.txt",
+        "rom": "/api/storage/songs/party-party-papapaparty-rom.txt"
+    },
+    "release_date": "2020-12-09"
+}

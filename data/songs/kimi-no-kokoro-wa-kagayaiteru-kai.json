@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Is Your Heart Shining?",
+        "kan": "君のこころは輝いてるかい？",
+        "rom": "Kimi no Kokoro wa Kagayaiteru kai?"
+    },
+    "featured": true,
+    "mv": "https://www.youtube.com/watch?v=6-0wH1kx5ug",
+    "track": "https://open.spotify.com/track/59TGQhWvrB2bIBj7z2FIjr",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Hajime Mitsumasu",
+        "arranger": "EFFY",
+        "singer": [
+            "Aqours"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/kimi-no-kokoro-wa-kagayaiteru-kai-eng.txt",
+        "kan": "/api/storage/songs/kimi-no-kokoro-wa-kagayaiteru-kai-kan.txt",
+        "rom": "/api/storage/songs/kimi-no-kokoro-wa-kagayaiteru-kai-rom.txt"
+    },
+    "release_date": "2015-10-07"
+}

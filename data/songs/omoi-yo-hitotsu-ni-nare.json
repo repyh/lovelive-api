@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Feelings, Become One",
+        "kan": "想いよひとつになれ",
+        "rom": "Omoi yo Hitotsu ni Nare"
+    },
+    "featured": true,
+    "mv": "https://www.youtube.com/watch?v=NEayvo2C7pw",
+    "track": "https://open.spotify.com/track/2h0JK3sS137DlbQrQehutp",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Takashi Saeki",
+        "arranger": "Takashi Saeki",
+        "singer": [
+            "Kurosawa"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/omoi-yo-hitotsu-ni-nare-eng.txt",
+        "kan": "/api/storage/songs/omoi-yo-hitotsu-ni-nare-kan.txt",
+        "rom": "/api/storage/songs/omoi-yo-hitotsu-ni-nare-rom.txt"
+    },
+    "release_date": "2016-11-09"
+}

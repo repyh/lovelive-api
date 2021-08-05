@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Adventure Around Your Eyes",
+        "kan": "君の瞳を巡る冒険",
+        "rom": "Kimi no Hitomi o Meguru Bouken"
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=qrOcUt8jOyI",
+    "track": "https://open.spotify.com/track/1Uf8JO0SLxmjFKVtV72d34",
+    "credits": {
+        "writer": "Hata Aki",
+        "composer": "Watanabe Kazunori",
+        "arranger": "Watanabe Kazunori",
+        "singer": [
+            "Aqours"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/kimi-no-hitomi-o-meguru-bouken-eng.txt",
+        "kan": "/api/storage/songs/kimi-no-hitomi-o-meguru-bouken-kan.txt",
+        "rom": "/api/storage/songs/kimi-no-hitomi-o-meguru-bouken-rom.txt"
+    },
+    "release_date": "2017-10-25"
+}

@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Young DREAMER",
+        "kan": "未熟DREAMER",
+        "rom": "Mijuku DREAMER"
+    },
+    "featured": true,
+    "mv": "https://www.youtube.com/watch?v=Km1u6bq__rA",
+    "track": "https://open.spotify.com/track/6f9SU0JwNjVDjduReyFpAd",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Kazunori Watanabe",
+        "arranger": "Kazunori Watanabe",
+        "singer": [
+            "Aqours"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/mijuku-dreamer-eng.txt",
+        "kan": "/api/storage/songs/mijuku-dreamer-kan.txt",
+        "rom": "/api/storage/songs/mijuku-dreamer-rom.txt"
+    },
+    "release_date": "2016-09-14"
+}

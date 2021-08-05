@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Over The Next Rainbow",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=n0oVC8yZ1uM",
+    "track": "https://open.spotify.com/track/3bSp8XRroNBn1YCy7IaHRa",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Kanata Okajima",
+        "arranger": "TAKAROT and Shinji Tanaka",
+        "singer": [
+            "Saint Aqours Snow"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/over-the-next-rainbow-eng.txt",
+        "kan": "/api/storage/songs/over-the-next-rainbow-kan.txt",
+        "rom": "/api/storage/songs/over-the-next-rainbow-rom.txt"
+    },
+    "release_date": "2019-02-06"
+}

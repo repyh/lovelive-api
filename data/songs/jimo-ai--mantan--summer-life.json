@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Local love ♥ Filled ☆ Summer Life",
+        "kan": "地元愛♡満タン☆サマーライフ",
+        "rom": "Jimo Ai ♡ Mantan ☆ Summer Life"
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=lglYGoOEeQc",
+    "track": "https://open.spotify.com/track/4e8YOAhIclDTz2ffTYycZ1",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Takayuki Ishikura",
+        "arranger": "Takayuki Ishikura",
+        "singer": [
+            "You Watanabe and Yoshiko Tsushima"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/jimo-ai--mantan--summer-life-eng.txt",
+        "kan": "/api/storage/songs/jimo-ai--mantan--summer-life-kan.txt",
+        "rom": "/api/storage/songs/jimo-ai--mantan--summer-life-rom.txt"
+    },
+    "release_date": "2017-08-02"
+}

@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Bye-bye Cherry Blossoms",
+        "kan": "サクラバイバイ",
+        "rom": "Sakura Bye Bye"
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=hxQ7tJ83PuM",
+    "track": "https://open.spotify.com/track/5mi3sowkAheZqe8h11omF3",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Kyou Takada",
+        "arranger": "Kyou Takada",
+        "singer": [
+            "CYaRon!"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/sakura-bye-bye-eng.txt",
+        "kan": "/api/storage/songs/sakura-bye-bye-kan.txt",
+        "rom": "/api/storage/songs/sakura-bye-bye-rom.txt"
+    },
+    "release_date": "2018-06-22"
+}

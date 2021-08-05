@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Dance with Minotaurus",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=WnTVarr0bu8",
+    "track": "https://open.spotify.com/track/1JxplhTPVobgdxEV685vde",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Takeshi Masuda",
+        "arranger": "Takeshi Masuda",
+        "singer": [
+            "Aqours"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/dance-with-minotaurus-eng.txt",
+        "kan": "/api/storage/songs/dance-with-minotaurus-kan.txt",
+        "rom": "/api/storage/songs/dance-with-minotaurus-rom.txt"
+    },
+    "release_date": "2019-09-25"
+}

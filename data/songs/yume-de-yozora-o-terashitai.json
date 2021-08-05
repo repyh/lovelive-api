@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "I Want To Light Up The Night Sky With Our Dreams",
+        "kan": "夢で夜空を照らしたい",
+        "rom": "Yume de Yozora o Terashitai"
+    },
+    "featured": true,
+    "mv": "https://www.youtube.com/watch?v=ii4tFf7TCIQ",
+    "track": "https://open.spotify.com/track/0x89IEs0NJHOULPx4wgPPB",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Hajime Mitsumasu",
+        "arranger": "EFFY",
+        "singer": [
+            "Kurosawa"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/yume-de-yozora-o-terashitai-eng.txt",
+        "kan": "/api/storage/songs/yume-de-yozora-o-terashitai-kan.txt",
+        "rom": "/api/storage/songs/yume-de-yozora-o-terashitai-rom.txt"
+    },
+    "release_date": "2016-09-14"
+}

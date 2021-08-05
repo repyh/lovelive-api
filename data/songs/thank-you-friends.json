@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Thank you, FRIENDS!!",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=t_IThrVKPyE",
+    "track": "https://open.spotify.com/track/72s4FuzWHynj4cMDNccvhD",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "TAKAROT & Iwatsubo Kodai",
+        "arranger": "TAKAROT",
+        "singer": [
+            "Aqours"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/thank-you-friends-eng.txt",
+        "kan": "/api/storage/songs/thank-you-friends-kan.txt",
+        "rom": "/api/storage/songs/thank-you-friends-rom.txt"
+    },
+    "release_date": "2018-08-01"
+}
