@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "We'll get the next dream!!!",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=_5IHPq4z1ag",
+    "track": "https://open.spotify.com/track/68xToivHrwHM7R6npZh4iD",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Ryuuhei Yamada",
+        "arranger": "Ryuuhei Yamada",
+        "singer": [
+            "AZALEA"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/we-ll-get-the-next-dream-eng.txt",
+        "kan": "/api/storage/songs/we-ll-get-the-next-dream-kan.txt",
+        "rom": "/api/storage/songs/we-ll-get-the-next-dream-rom.txt"
+    },
+    "release_date": "2021-06-23"
+}

@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Our Future Selves Know",
+        "kan": "未来の僕らは知ってるよ",
+        "rom": "Mirai no Bokura wa Shitteru yo"
+    },
+    "featured": true,
+    "mv": "https://www.youtube.com/watch?v=XmxpQZbjjSI",
+    "track": "https://open.spotify.com/track/4Kr4DGSLD2SRmjxNjfm3uS",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Hajime Mitsumasu",
+        "arranger": "EFFY",
+        "singer": [
+            "Aqours"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/mirai-no-bokura-wa-shitteru-yo-eng.txt",
+        "kan": "/api/storage/songs/mirai-no-bokura-wa-shitteru-yo-kan.txt",
+        "rom": "/api/storage/songs/mirai-no-bokura-wa-shitteru-yo-rom.txt"
+    },
+    "release_date": "2017-10-25"
+}

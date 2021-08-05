@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Misty Frosty Love",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=_aKtQX0Tax8",
+    "track": "https://open.spotify.com/track/3AyAdFgfT5jEHiZr45Gijq",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Tatsuya Kurauchi",
+        "arranger": "Tatsuya Kurauchi",
+        "singer": [
+            "Riko Sakurauchi and You Watanabe"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/misty-frosty-love-eng.txt",
+        "kan": "/api/storage/songs/misty-frosty-love-kan.txt",
+        "rom": "/api/storage/songs/misty-frosty-love-rom.txt"
+    },
+    "release_date": "2020-12-09"
+}

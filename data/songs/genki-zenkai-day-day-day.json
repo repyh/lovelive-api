@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Full Speed Energetically DAY! DAY! DAY!",
+        "kan": "元気全開DAY! DAY! DAY!",
+        "rom": "Genki Zenkai DAY! DAY! DAY!"
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=lGUOVwCiG3g",
+    "track": "https://open.spotify.com/track/472fNidp2NJoijcPKMvaZv",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Kyou Takada",
+        "arranger": "Kyou Takada",
+        "singer": [
+            "CYaRon!"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/genki-zenkai-day-day-day-eng.txt",
+        "kan": "/api/storage/songs/genki-zenkai-day-day-day-kan.txt",
+        "rom": "/api/storage/songs/genki-zenkai-day-day-day-rom.txt"
+    },
+    "release_date": "2016-05-11"
+}

@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "New Romantic Sailors",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=0qAaLBbXE-c",
+    "track": "https://open.spotify.com/track/3JQFG9dQs2VGW6bJPDts3A",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "ulala",
+        "arranger": "ulala",
+        "singer": [
+            "Guilty Kiss"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/new-romantic-sailors-eng.txt",
+        "kan": "/api/storage/songs/new-romantic-sailors-kan.txt",
+        "rom": "/api/storage/songs/new-romantic-sailors-rom.txt"
+    },
+    "release_date": "2019-11-27"
+}

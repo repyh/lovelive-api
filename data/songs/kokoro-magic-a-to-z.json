@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "",
+        "kan": "lit. HEART Magic \"A to Z\"",
+        "rom": "KOKORO Magic \"A to Z\""
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=nE_I45s7Fhw",
+    "track": "https://open.spotify.com/track/41AYhoiB3yvaFiEjnRUnrN",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "EFFY (FirstCall)",
+        "arranger": "EFFY (FirstCall)",
+        "singer": [
+            "Aqours"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/kokoro-magic-a-to-z-eng.txt",
+        "kan": "/api/storage/songs/kokoro-magic-a-to-z-kan.txt",
+        "rom": "/api/storage/songs/kokoro-magic-a-to-z-rom.txt"
+    },
+    "release_date": "2019-10-30"
+}

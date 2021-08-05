@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "WATER BLUE NEW WORLD",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": true,
+    "mv": "https://www.youtube.com/watch?v=P503EfevlSA",
+    "track": "https://open.spotify.com/track/31ENXtNQYS0xIOOmb3Ogjc",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Takashi Saeki",
+        "arranger": "Tatsuya Kurauchi",
+        "singer": [
+            "Aqours"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/water-blue-new-world-eng.txt",
+        "kan": "/api/storage/songs/water-blue-new-world-kan.txt",
+        "rom": "/api/storage/songs/water-blue-new-world-rom.txt"
+    },
+    "release_date": "2018-01-17"
+}

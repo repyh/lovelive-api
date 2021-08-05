@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "The path we ran on was...",
+        "kan": "僕らの走ってきた道は…",
+        "rom": "Bokura no Hashittekita Michi wa…"
+    },
+    "featured": true,
+    "mv": "https://www.youtube.com/watch?v=PvYkdhWROMM",
+    "track": "https://open.spotify.com/track/2Nl2TyIotphMyrxgRSRlz8",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "EFFY",
+        "arranger": "EFFY",
+        "singer": [
+            "Aqours"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/bokura-no-hashittekita-michi-wa-eng.txt",
+        "kan": "/api/storage/songs/bokura-no-hashittekita-michi-wa-kan.txt",
+        "rom": "/api/storage/songs/bokura-no-hashittekita-michi-wa-rom.txt"
+    },
+    "release_date": "2019-01-23"
+}

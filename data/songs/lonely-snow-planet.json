@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Lonely Snow Planet",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=_gsPSro8ugo",
+    "track": "https://open.spotify.com/track/4oYq3ZBW4v34rQbdzMrWab",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Naozumi Mabuchi",
+        "arranger": "Naozumi Mabuchi",
+        "singer": [
+            "Saint Snow"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/lonely-snow-planet-eng.txt",
+        "kan": "/api/storage/songs/lonely-snow-planet-kan.txt",
+        "rom": "/api/storage/songs/lonely-snow-planet-rom.txt"
+    },
+    "release_date": "2020-08-19"
+}

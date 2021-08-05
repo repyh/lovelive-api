@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "PHOENIX DANCE",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=G5McFA6UYRc",
+    "track": "https://open.spotify.com/track/2xQsUMrbEMuggG9B7ANMBN",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Ryuuhei Yamada",
+        "arranger": "Ryuuhei Yamada",
+        "singer": [
+            "AZALEA"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/phoenix-dance-eng.txt",
+        "kan": "/api/storage/songs/phoenix-dance-kan.txt",
+        "rom": "/api/storage/songs/phoenix-dance-rom.txt"
+    },
+    "release_date": "2021-06-23"
+}

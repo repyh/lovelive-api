@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Dragon Riders",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=5vfPWG98onc",
+    "track": "https://open.spotify.com/track/112MfJECYYVDwiTP2U36SL",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "TAKUYA",
+        "arranger": "Mito",
+        "singer": [
+            "CYaRon!"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/dragon-riders-eng.txt",
+        "kan": "/api/storage/songs/dragon-riders-kan.txt",
+        "rom": "/api/storage/songs/dragon-riders-rom.txt"
+    },
+    "release_date": "2021-06-02"
+}

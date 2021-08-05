@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "WONDERFUL STORIES",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": true,
+    "mv": "https://www.youtube.com/watch?v=Nd_rRH9Fy30",
+    "track": "https://open.spotify.com/track/0gODhAZpdmxus2pc1B1NRj",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Carlos K.",
+        "arranger": "EFFY",
+        "singer": [
+            "Aqours"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/wonderful-stories-eng.txt",
+        "kan": "/api/storage/songs/wonderful-stories-kan.txt",
+        "rom": "/api/storage/songs/wonderful-stories-rom.txt"
+    },
+    "release_date": "2018-01-17"
+}

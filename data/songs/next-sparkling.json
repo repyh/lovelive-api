@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "NEXT SPARKLING!!",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": true,
+    "mv": "https://www.youtube.com/watch?v=XiW4r5E4QpA",
+    "track": "",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Carlos K.",
+        "arranger": "Carlos K.",
+        "singer": [
+            "Aqours"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/next-sparkling-eng.txt",
+        "kan": "/api/storage/songs/next-sparkling-kan.txt",
+        "rom": "/api/storage/songs/next-sparkling-rom.txt"
+    },
+    "release_date": "2019-01-23"
+}

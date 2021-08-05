@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "KU-RU-KU-RU Cruller!",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=5Aq72XyG34k",
+    "track": "",
+    "credits": {
+        "writer": "",
+        "composer": "Aki Hata",
+        "arranger": "Aki Hata",
+        "singer": [
+            "Aqours"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/ku-ru-ku-ru-cruller-eng.txt",
+        "kan": "/api/storage/songs/ku-ru-ku-ru-cruller-kan.txt",
+        "rom": "/api/storage/songs/ku-ru-ku-ru-cruller-rom.txt"
+    },
+    "release_date": "2021-09-22"
+}

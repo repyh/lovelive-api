@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Aru Hi...Eien Mitai ni!",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=InEUtlD7pfQ",
+    "track": "https://open.spotify.com/track/5Fk7dUil3vf9NkUQnkYkg7",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "TAKUYA",
+        "arranger": "Akimitsu Honma",
+        "singer": [
+            "CYaRon!"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/aru-hieien-mitai-ni-eng.txt",
+        "kan": "/api/storage/songs/aru-hieien-mitai-ni-kan.txt",
+        "rom": "/api/storage/songs/aru-hieien-mitai-ni-rom.txt"
+    },
+    "release_date": "2021-06-02"
+}

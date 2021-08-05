@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Adventure Type A, B, C!!",
+        "kan": "冒険Type A, B, C‼",
+        "rom": "Bouken Type A, B, C‼"
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=HJay3Kmnji8",
+    "track": "",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Tatsuya Kurauchi",
+        "arranger": "Tatsuya Kurauchi",
+        "singer": [
+            "Aqours"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/bouken-type-a-b-c-eng.txt",
+        "kan": "/api/storage/songs/bouken-type-a-b-c-kan.txt",
+        "rom": "/api/storage/songs/bouken-type-a-b-c-rom.txt"
+    },
+    "release_date": "2019-07-26"
+}

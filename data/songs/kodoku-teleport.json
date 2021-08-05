@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Kodoku Teleport",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=Tg50XHWos0A",
+    "track": "https://open.spotify.com/track/7drkoBPx9SHgtXOuFjD8eb",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Atsushi Harada (Arte Refact)",
+        "arranger": "Tsukasa Yatoki (Arte Refact)",
+        "singer": [
+            "CYaRon!"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/kodoku-teleport-eng.txt",
+        "kan": "/api/storage/songs/kodoku-teleport-kan.txt",
+        "rom": "/api/storage/songs/kodoku-teleport-rom.txt"
+    },
+    "release_date": "2019-12-04"
+}

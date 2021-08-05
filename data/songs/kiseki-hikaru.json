@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "",
+        "kan": "キセキヒカル",
+        "rom": "Kiseki Hikaru"
+    },
+    "featured": true,
+    "mv": "https://www.youtube.com/watch?v=8TXWUN9AlxA",
+    "track": "https://open.spotify.com/track/0Kp3rDOdbDoGaEcFeI1c1R",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Tatsuya Kato",
+        "arranger": "Tatsuya Kato",
+        "singer": [
+            "Aqours"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/kiseki-hikaru-eng.txt",
+        "kan": "/api/storage/songs/kiseki-hikaru-kan.txt",
+        "rom": "/api/storage/songs/kiseki-hikaru-rom.txt"
+    },
+    "release_date": "2018-06-22"
+}

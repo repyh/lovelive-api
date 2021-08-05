@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "The Taxonomy Of Excitement",
+        "kan": "ときめき分類学",
+        "rom": "Tokimeki Bunruigaku"
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=ugTLIQhEM7Q",
+    "track": "https://open.spotify.com/track/5JvsOjJvozyfkeyGJo3y5x",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Masashi Kanasaki",
+        "arranger": "Masashi Kanasaki",
+        "singer": [
+            "AZALEA"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/tokimeki-bunruigaku-eng.txt",
+        "kan": "/api/storage/songs/tokimeki-bunruigaku-kan.txt",
+        "rom": "/api/storage/songs/tokimeki-bunruigaku-rom.txt"
+    },
+    "release_date": "2016-05-25"
+}

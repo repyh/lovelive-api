@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "It's graduation, isn't it?",
+        "kan": "卒業ですね",
+        "rom": "Sotsugyou desu ne"
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=rCbd_BOcv6w",
+    "track": "",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Hirotaka Hayakawa",
+        "arranger": "TECHNOBOYS PULCRAFT GREEN-FUND",
+        "singer": [
+            "AZALEA"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/sotsugyou-desu-ne-eng.txt",
+        "kan": "/api/storage/songs/sotsugyou-desu-ne-kan.txt",
+        "rom": "/api/storage/songs/sotsugyou-desu-ne-rom.txt"
+    },
+    "release_date": "2018-06-22"
+}

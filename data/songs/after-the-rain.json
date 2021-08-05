@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "After The Rain",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=0uHImSqBv5I",
+    "track": "https://open.spotify.com/track/1nzjVytuj9ctrHGpctCAIV",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "R・O・N",
+        "arranger": "R・O・N",
+        "singer": [
+            "Saint Snow"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/after-the-rain-eng.txt",
+        "kan": "/api/storage/songs/after-the-rain-kan.txt",
+        "rom": "/api/storage/songs/after-the-rain-rom.txt"
+    },
+    "release_date": "2020-08-19"
+}

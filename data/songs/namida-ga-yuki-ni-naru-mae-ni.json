@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Before The Tears Turn Into Snow",
+        "kan": "涙が雪になる前に",
+        "rom": "Namida ga Yuki ni Naru Mae ni"
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=Mxz0_bmitic",
+    "track": "https://open.spotify.com/track/6g6nsxbKZvG3V79aCJRDB6",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Yuusuke Yamamoto",
+        "arranger": "Yuusuke Yamamoto",
+        "singer": [
+            "Kanan Matsuura and Mari Ohara"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/namida-ga-yuki-ni-naru-mae-ni-eng.txt",
+        "kan": "/api/storage/songs/namida-ga-yuki-ni-naru-mae-ni-kan.txt",
+        "rom": "/api/storage/songs/namida-ga-yuki-ni-naru-mae-ni-rom.txt"
+    },
+    "release_date": "2020-12-09"
+}

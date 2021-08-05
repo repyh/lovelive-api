@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Please Let Me Capture Your Heart!!",
+        "kan": "トリコリコPLEASE!!",
+        "rom": "Torikoriko PLEASE!!"
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=P4eARkhech8",
+    "track": "https://open.spotify.com/track/6d3G58cEHrqIMyDKaMuRu3",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Makoto Miyazaki",
+        "arranger": "Makoto Miyazaki",
+        "singer": [
+            "AZALEA"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/torikoriko-please-eng.txt",
+        "kan": "/api/storage/songs/torikoriko-please-kan.txt",
+        "rom": "/api/storage/songs/torikoriko-please-rom.txt"
+    },
+    "release_date": "2016-05-25"
+}

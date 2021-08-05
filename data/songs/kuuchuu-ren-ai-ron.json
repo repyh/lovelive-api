@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Aerial Love Theory",
+        "kan": "空中恋愛論",
+        "rom": "Kuuchuu Ren'ai Ron"
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=bI7lgNPf3ok",
+    "track": "https://open.spotify.com/track/7HQAR5V6SQC8SGfimUpFYD",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Kohei by SIMONSAYZ",
+        "arranger": "Kohei by SIMONSAYZ",
+        "singer": [
+            "AZALEA"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/kuuchuu-ren-ai-ron-eng.txt",
+        "kan": "/api/storage/songs/kuuchuu-ren-ai-ron-kan.txt",
+        "rom": "/api/storage/songs/kuuchuu-ren-ai-ron-rom.txt"
+    },
+    "release_date": "2019-12-11"
+}

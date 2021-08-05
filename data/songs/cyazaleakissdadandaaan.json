@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "CYaZALEA☆Kiss☆Maulers",
+        "kan": "シャゼリア☆キッス☆ダダンダーン",
+        "rom": "CYaZALEA☆Kiss☆DADANDAAAN"
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=klgtTvfoIOc",
+    "track": "",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Takahiro Kawata",
+        "arranger": "Takahiro Kawata",
+        "singer": [
+            "CYaZALEA☆Kiss"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/cyazaleakissdadandaaan-eng.txt",
+        "kan": "/api/storage/songs/cyazaleakissdadandaaan-kan.txt",
+        "rom": "/api/storage/songs/cyazaleakissdadandaaan-rom.txt"
+    },
+    "release_date": "2020-05-08"
+}

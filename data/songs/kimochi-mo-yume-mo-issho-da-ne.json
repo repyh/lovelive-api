@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Our Feelings and Dreams Are Together!",
+        "kan": "キモチもユメも一緒だね！",
+        "rom": "Kimochi mo Yume mo Issho da ne!"
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=aXH8-N2zOVs",
+    "track": "https://open.spotify.com/track/0NOjMAor1xOsHaXu7dtwYS",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Koushirou Honda",
+        "arranger": "Koushirou Honda",
+        "singer": [
+            "Kurosawa"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/kimochi-mo-yume-mo-issho-da-ne-eng.txt",
+        "kan": "/api/storage/songs/kimochi-mo-yume-mo-issho-da-ne-kan.txt",
+        "rom": "/api/storage/songs/kimochi-mo-yume-mo-issho-da-ne-rom.txt"
+    },
+    "release_date": "2020-12-09"
+}

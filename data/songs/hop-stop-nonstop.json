@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Hop? Stop? Nonstop!",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": true,
+    "mv": "https://www.youtube.com/watch?v=6MtVoB9qhIs",
+    "track": "",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Kanata Okajima and Keisuke Koyama",
+        "arranger": "Keisuke Koyama",
+        "singer": [
+            "Aqours"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/hop-stop-nonstop-eng.txt",
+        "kan": "/api/storage/songs/hop-stop-nonstop-kan.txt",
+        "rom": "/api/storage/songs/hop-stop-nonstop-rom.txt"
+    },
+    "release_date": "2019-01-30"
+}

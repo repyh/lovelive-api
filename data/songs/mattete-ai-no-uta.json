@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Song of a Waiting Love",
+        "kan": "待ってて愛のうた",
+        "rom": "Mattete Ai no Uta"
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=C6byXuhSejs",
+    "track": "https://open.spotify.com/track/6kkX6hoN7wkZu7n6K3399o",
+    "credits": {
+        "writer": "Hata Aki",
+        "composer": "Yamaguchi Akihiko",
+        "arranger": "Yamaguchi Akihiko",
+        "singer": [
+            "Aqours"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/mattete-ai-no-uta-eng.txt",
+        "kan": "/api/storage/songs/mattete-ai-no-uta-kan.txt",
+        "rom": "/api/storage/songs/mattete-ai-no-uta-rom.txt"
+    },
+    "release_date": "2016-04-27"
+}

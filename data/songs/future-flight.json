@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Future flight",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=t-zRteXNP_U",
+    "track": "https://open.spotify.com/track/3YpXfBk3mZrGAfj0Wb343C",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Keisuke Koyama",
+        "arranger": "Keisuke Koyama",
+        "singer": [
+            "Aqours"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/future-flight-eng.txt",
+        "kan": "/api/storage/songs/future-flight-kan.txt",
+        "rom": "/api/storage/songs/future-flight-rom.txt"
+    },
+    "release_date": "2020-10-07"
+}

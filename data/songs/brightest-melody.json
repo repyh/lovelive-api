@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Brightest Melody",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": true,
+    "mv": "https://www.youtube.com/watch?v=9FZx2gPq4Fg",
+    "track": "https://open.spotify.com/track/3ieRKdHq1aOTFZ7xGEHzHC",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Hajime Mitsumasu",
+        "arranger": "EFFY",
+        "singer": [
+            "Aqours"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/brightest-melody-eng.txt",
+        "kan": "/api/storage/songs/brightest-melody-kan.txt",
+        "rom": "/api/storage/songs/brightest-melody-rom.txt"
+    },
+    "release_date": "2019-02-06"
+}

@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Beginner's Sailing",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=rBnQNJbxa_Q",
+    "track": "https://open.spotify.com/track/40j5Fo7t3iUXMNkIpLyGRE",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Takuya Sakai (Arte Refact)",
+        "arranger": "Takuya Sakai (Arte Refact)",
+        "singer": [
+            "You Watanabe"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/beginners-sailing-eng.txt",
+        "kan": "/api/storage/songs/beginners-sailing-kan.txt",
+        "rom": "/api/storage/songs/beginners-sailing-rom.txt"
+    },
+    "release_date": "2018-03-23"
+}

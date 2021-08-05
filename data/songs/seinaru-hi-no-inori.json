@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Prayer of the Holy Day",
+        "kan": "聖なる日の祈り",
+        "rom": "Seinaru Hi no Inori"
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=4Yn3-M9ZdCE",
+    "track": "",
+    "credits": {
+        "writer": "Hata Aki",
+        "composer": "Tanaka Shunsuke",
+        "arranger": "both Tanaka Shunsuke & Itou Ken",
+        "singer": [
+            "Aqours"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/seinaru-hi-no-inori-eng.txt",
+        "kan": "/api/storage/songs/seinaru-hi-no-inori-kan.txt",
+        "rom": "/api/storage/songs/seinaru-hi-no-inori-rom.txt"
+    },
+    "release_date": "2016-11-23"
+}

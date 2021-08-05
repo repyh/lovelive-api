@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Unpredictable Driving!",
+        "kan": "予測不可能Driving!",
+        "rom": "Yosoku Fukanou Driving!"
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=4YRhMSmaPls",
+    "track": "",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "pw",
+        "arranger": "pw",
+        "singer": [
+            "Kanan Matsuura, Dia Kurosawa, and Mari Ohara"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/yosoku-fukanou-driving-eng.txt",
+        "kan": "/api/storage/songs/yosoku-fukanou-driving-kan.txt",
+        "rom": "/api/storage/songs/yosoku-fukanou-driving-rom.txt"
+    },
+    "release_date": "2018-11-24"
+}

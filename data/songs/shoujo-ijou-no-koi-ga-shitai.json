@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "I Want To Love As More Than Just A Girl",
+        "kan": "少女以上の恋がしたい",
+        "rom": "Shoujo Ijou no Koi ga Shitai"
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=QQ98Z89i2Yg",
+    "track": "https://open.spotify.com/track/6S90iiviarDsqeZFYuOpow",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "TAKAROT and KOUDAI IWATSUBO",
+        "arranger": "TAKAROT and Shinji Tanaka",
+        "singer": [
+            "Aqours"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/shoujo-ijou-no-koi-ga-shitai-eng.txt",
+        "kan": "/api/storage/songs/shoujo-ijou-no-koi-ga-shitai-kan.txt",
+        "rom": "/api/storage/songs/shoujo-ijou-no-koi-ga-shitai-rom.txt"
+    },
+    "release_date": "2017-04-05"
+}

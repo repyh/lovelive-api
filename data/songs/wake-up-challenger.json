@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Wake up, Challenger!!",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=yRZFv04WEec",
+    "track": "https://open.spotify.com/track/6fgW8tuVy1UEcoFqijjy99",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Takahiro Kawata",
+        "arranger": "Takahiro Kawata",
+        "singer": [
+            "Aqours"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/wake-up-challenger-eng.txt",
+        "kan": "/api/storage/songs/wake-up-challenger-kan.txt",
+        "rom": "/api/storage/songs/wake-up-challenger-rom.txt"
+    },
+    "release_date": "2019-10-30"
+}

@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "RED GEM WINK",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=qqMhdF3p4ew",
+    "track": "https://open.spotify.com/track/6puhUOFB5b7CggOnVUufpI",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Kyou Takada",
+        "arranger": "Kyou Takada",
+        "singer": [
+            "Kurosawa"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/red-gem-wink-eng.txt",
+        "kan": "/api/storage/songs/red-gem-wink-kan.txt",
+        "rom": "/api/storage/songs/red-gem-wink-rom.txt"
+    },
+    "release_date": "2018-04-24"
+}

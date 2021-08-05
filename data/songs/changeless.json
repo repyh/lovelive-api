@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "CHANGELESS",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=zw6ag0xKJhI",
+    "track": "https://open.spotify.com/track/11L8jsLlG0Ml8BBqdZxWqh",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Wataru Maeguchi",
+        "arranger": "Wataru Maeguchi",
+        "singer": [
+            "CYaRon!"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/changeless-eng.txt",
+        "kan": "/api/storage/songs/changeless-kan.txt",
+        "rom": "/api/storage/songs/changeless-rom.txt"
+    },
+    "release_date": "2019-12-04"
+}

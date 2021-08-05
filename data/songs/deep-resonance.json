@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Deep Resonance",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=_csrXZNMEIQ",
+    "track": "https://open.spotify.com/track/73Dktd4JIt6Aw6bIhDbSgn",
+    "credits": {
+        "writer": "Hata Aki",
+        "composer": "Kuwabara Satoru (Arte Refact)",
+        "arranger": "Sakai Takuya (Arte Refact)",
+        "singer": [
+            "Aqours"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/deep-resonance-eng.txt",
+        "kan": "/api/storage/songs/deep-resonance-kan.txt",
+        "rom": "/api/storage/songs/deep-resonance-rom.txt"
+    },
+    "release_date": "2019-09-25"
+}

@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "We've Decided Hand in Hand",
+        "kan": "決めたよHand in Hand",
+        "rom": "Kimeta yo Hand in Hand"
+    },
+    "featured": true,
+    "mv": "https://www.youtube.com/watch?v=pYqC3suSPZU",
+    "track": "https://open.spotify.com/track/5Tebv0qRKNlFXlxd0TiYAy",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Takuya Watanabe",
+        "arranger": "Takuya Watanabe",
+        "singer": [
+            "Chika Takami, Riko Sakurauchi, and You Watanabe"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/kimeta-yo-hand-in-hand-eng.txt",
+        "kan": "/api/storage/songs/kimeta-yo-hand-in-hand-kan.txt",
+        "rom": "/api/storage/songs/kimeta-yo-hand-in-hand-rom.txt"
+    },
+    "release_date": "2016-08-03"
+}

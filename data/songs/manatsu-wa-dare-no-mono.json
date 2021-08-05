@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Midsummer Belongs to Whom?",
+        "kan": "真夏は誰のモノ？",
+        "rom": "Manatsu wa Dare no Mono?"
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=udFowPdnGCk",
+    "track": "https://open.spotify.com/track/2NPr06O7VHTXOwdBoUSEJL",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Atsushi Harada (Arte Refact)",
+        "arranger": "Atsushi Harada (Arte Refact)",
+        "singer": [
+            "Kurosawa"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/manatsu-wa-dare-no-mono-eng.txt",
+        "kan": "/api/storage/songs/manatsu-wa-dare-no-mono-kan.txt",
+        "rom": "/api/storage/songs/manatsu-wa-dare-no-mono-rom.txt"
+    },
+    "release_date": "2017-08-02"
+}

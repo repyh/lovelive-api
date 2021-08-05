@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Deep Sea Cocoon",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=HGp-l0eMD0g",
+    "track": "",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "MEG",
+        "arranger": "ME",
+        "singer": [
+            "Guilty Kiss"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/deep-sea-cocoon-eng.txt",
+        "kan": "/api/storage/songs/deep-sea-cocoon-kan.txt",
+        "rom": "/api/storage/songs/deep-sea-cocoon-rom.txt"
+    },
+    "release_date": "2021-07-28"
+}

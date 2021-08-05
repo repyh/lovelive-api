@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "The Sound of Rain at Summer's End",
+        "kan": "夏の終わりの雨音が",
+        "rom": "Natsu no Owari no Amaoto ga"
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=BBTE5WU4-rw",
+    "track": "https://open.spotify.com/track/4YKBQ79ioNaMJJlXpCK74l",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Shuutarou Katagiri",
+        "arranger": "Koutarou Egami",
+        "singer": [
+            "Chika Takami and Kanan Matsuura"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/natsu-no-owari-no-amaoto-ga-eng.txt",
+        "kan": "/api/storage/songs/natsu-no-owari-no-amaoto-ga-kan.txt",
+        "rom": "/api/storage/songs/natsu-no-owari-no-amaoto-ga-rom.txt"
+    },
+    "release_date": "2017-08-02"
+}

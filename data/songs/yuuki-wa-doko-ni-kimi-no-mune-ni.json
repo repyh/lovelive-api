@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Where Can You Find Courage? Inside Your Heart!",
+        "kan": "勇気はどこに?君の胸に!",
+        "rom": "Yuuki wa doko ni? Kimi no Mune ni!"
+    },
+    "featured": true,
+    "mv": "https://www.youtube.com/watch?v=Y7NYytwsg3U",
+    "track": "https://open.spotify.com/track/2w5T8mOOsekn2uFtsHuK89",
+    "credits": {
+        "writer": "Hata Aki",
+        "composer": "Odaka Koutarou & UiNA",
+        "arranger": "Odaka Koutarou",
+        "singer": [
+            "Aqours"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/yuuki-wa-doko-ni-kimi-no-mune-ni-eng.txt",
+        "kan": "/api/storage/songs/yuuki-wa-doko-ni-kimi-no-mune-ni-kan.txt",
+        "rom": "/api/storage/songs/yuuki-wa-doko-ni-kimi-no-mune-ni-rom.txt"
+    },
+    "release_date": "2017-11-15"
+}

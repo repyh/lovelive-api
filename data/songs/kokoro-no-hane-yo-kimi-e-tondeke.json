@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Kokoro no Hane yo Kimi e Tondeke!",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=lr5uKCov8jE",
+    "track": "https://open.spotify.com/track/22lBQcaqutSbyXNHdEK9zn",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "TAKAROT & Iwatsubo Kodai",
+        "arranger": "TAKAROT",
+        "singer": [
+            "Aqours"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/kokoro-no-hane-yo-kimi-e-tondeke-eng.txt",
+        "kan": "/api/storage/songs/kokoro-no-hane-yo-kimi-e-tondeke-kan.txt",
+        "rom": "/api/storage/songs/kokoro-no-hane-yo-kimi-e-tondeke-rom.txt"
+    },
+    "release_date": "2021-03-31"
+}

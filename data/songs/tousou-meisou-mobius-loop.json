@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Escape Stray Mobius Loop",
+        "kan": "逃走迷走メビウスループ",
+        "rom": "Tousou Meisou Mobius Loop"
+    },
+    "featured": true,
+    "mv": "https://www.youtube.com/watch?v=h08CbKZRg3E",
+    "track": "",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Akihiko Yamaguchi",
+        "arranger": "Akihiko Yamaguchi",
+        "singer": [
+            "Kanan Matsuura, Dia Kurosawa and Mari Ohara"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/tousou-meisou-mobius-loop-eng.txt",
+        "kan": "/api/storage/songs/tousou-meisou-mobius-loop-kan.txt",
+        "rom": "/api/storage/songs/tousou-meisou-mobius-loop-rom.txt"
+    },
+    "release_date": "2019-01-30"
+}

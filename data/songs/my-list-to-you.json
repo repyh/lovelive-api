@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "\"MY LIST\" to you!",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=NK72IIVrR-0",
+    "track": "https://open.spotify.com/track/1nsP48vtZS2C2ZJ7xkgOCE",
+    "credits": {
+        "writer": "Hata Aki",
+        "composer": "Hara Tomoya",
+        "arranger": "Ramseeni",
+        "singer": [
+            "Aqours"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/my-list-to-you-eng.txt",
+        "kan": "/api/storage/songs/my-list-to-you-kan.txt",
+        "rom": "/api/storage/songs/my-list-to-you-rom.txt"
+    },
+    "release_date": "2017-11-15"
+}

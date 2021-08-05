@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "New winding road",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=r9zGeBkjmVM",
+    "track": "https://open.spotify.com/track/2XnOpXIAQHiZla56j6bdgL",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Makoto Miyazaki",
+        "arranger": "Makoto Miyazaki",
+        "singer": [
+            "Mari Ohara"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/new-winding-road-eng.txt",
+        "kan": "/api/storage/songs/new-winding-road-kan.txt",
+        "rom": "/api/storage/songs/new-winding-road-rom.txt"
+    },
+    "release_date": "2018-05-25"
+}

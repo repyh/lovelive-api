@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Sunshine Shiny Marching Song",
+        "kan": "サンシャインぴっかぴか音頭",
+        "rom": "Sunshine Pikkapika Ondo"
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=UO_4UnN2eaA",
+    "track": "https://open.spotify.com/track/7muVCfGyqrbXoc0EbrmzK0",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Itou Masumi",
+        "arranger": "EFFY",
+        "singer": [
+            "Aqours"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/sunshine-pikkapika-ondo-eng.txt",
+        "kan": "/api/storage/songs/sunshine-pikkapika-ondo-kan.txt",
+        "rom": "/api/storage/songs/sunshine-pikkapika-ondo-rom.txt"
+    },
+    "release_date": "2016-08-24"
+}

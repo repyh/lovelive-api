@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "",
+        "kan": "ハミングフレンド",
+        "rom": "Humming Friend"
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=fu7iUEt5DZ0",
+    "track": "https://open.spotify.com/track/1U4UY7KKXW7F85jMHyFqBB",
+    "credits": {
+        "writer": "Hata Aki",
+        "composer": "Kuwabara Satoru (Arte Refact)",
+        "arranger": "Sakai Takuya (Arte Refact)",
+        "singer": [
+            "Aqours"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/humming-friend-eng.txt",
+        "kan": "/api/storage/songs/humming-friend-kan.txt",
+        "rom": "/api/storage/songs/humming-friend-rom.txt"
+    },
+    "release_date": "2016-07-20"
+}

@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Cotton Candy Ei-Ei-Oh!",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=Ksf_gq6fZZM",
+    "track": "https://open.spotify.com/track/10N2sb4vrtmSs5DeZyV5c8",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "TAKAROT",
+        "arranger": "TAKAROT",
+        "singer": [
+            "Kurosawa"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/cotton-candy-ei-ei-oh-eng.txt",
+        "kan": "/api/storage/songs/cotton-candy-ei-ei-oh-kan.txt",
+        "rom": "/api/storage/songs/cotton-candy-ei-ei-oh-rom.txt"
+    },
+    "release_date": "2020-09-21"
+}

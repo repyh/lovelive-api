@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Starting Road",
+        "kan": "ハジマリロード",
+        "rom": "Hajimari Road"
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=Yd5r821Gbrw",
+    "track": "",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "TAKAROT",
+        "arranger": "TAKAROT",
+        "singer": [
+            "Kurosawa"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/hajimari-road-eng.txt",
+        "kan": "/api/storage/songs/hajimari-road-kan.txt",
+        "rom": "/api/storage/songs/hajimari-road-rom.txt"
+    },
+    "release_date": "2018-11-24"
+}

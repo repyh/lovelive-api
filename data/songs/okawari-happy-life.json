@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "OKAWARI Happy life!",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=-eKyM07LDIQ",
+    "track": "",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Koudai Iwatsubo",
+        "arranger": "Shoma Yamamoto and TAKAROT",
+        "singer": [
+            "Chika Takami"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/okawari-happy-life-eng.txt",
+        "kan": "/api/storage/songs/okawari-happy-life-kan.txt",
+        "rom": "/api/storage/songs/okawari-happy-life-rom.txt"
+    },
+    "release_date": "2021-08-01"
+}

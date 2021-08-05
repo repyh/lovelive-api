@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Can't Stop The Jingle Bells",
+        "kan": "ジングルベルがとまらない",
+        "rom": "Jingle Bells ga Tomaranai"
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=xcylNiYuC8s",
+    "track": "",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Hajime Mitsumasu",
+        "arranger": "Hideaki Koyasu",
+        "singer": [
+            "Aqours"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/jingle-bells-ga-tomaranai-eng.txt",
+        "kan": "/api/storage/songs/jingle-bells-ga-tomaranai-kan.txt",
+        "rom": "/api/storage/songs/jingle-bells-ga-tomaranai-rom.txt"
+    },
+    "release_date": "2016-11-23"
+}

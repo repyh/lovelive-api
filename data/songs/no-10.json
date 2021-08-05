@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "No. 10",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=Vt38Idesvi8",
+    "track": "https://open.spotify.com/track/1Akys4ddNICtUgEMWyfaX7",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Akira Sunset",
+        "arranger": "APAZZI",
+        "singer": [
+            "Aqours"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/no-10-eng.txt",
+        "kan": "/api/storage/songs/no-10-kan.txt",
+        "rom": "/api/storage/songs/no-10-rom.txt"
+    },
+    "release_date": "2018-08-01"
+}

@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Happy End In The Near Future",
+        "kan": "近未来ハッピーエンド",
+        "rom": "Kinmirai Happy End"
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=CuCOFEbLQAU",
+    "track": "https://open.spotify.com/track/09hTxG0bQXAulhD92ambAW",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Ryouta Fujii",
+        "arranger": "Ryouta Fujii",
+        "singer": [
+            "CYaRon!"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/kinmirai-happy-end-eng.txt",
+        "kan": "/api/storage/songs/kinmirai-happy-end-kan.txt",
+        "rom": "/api/storage/songs/kinmirai-happy-end-rom.txt"
+    },
+    "release_date": "2017-05-10"
+}

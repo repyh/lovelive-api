@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Dazzling White Town",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=3Fw7GqhndZo",
+    "track": "https://open.spotify.com/track/211qJsL5CTxWKFaYwHQRpo",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Kazunori Watanabe",
+        "arranger": "Kazunori Watanabe",
+        "singer": [
+            "Saint Snow"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/dazzling-white-town-eng.txt",
+        "kan": "/api/storage/songs/dazzling-white-town-kan.txt",
+        "rom": "/api/storage/songs/dazzling-white-town-rom.txt"
+    },
+    "release_date": "2020-08-19"
+}

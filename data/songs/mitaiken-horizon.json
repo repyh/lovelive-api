@@ -1,0 +1,24 @@
+{
+    "title": {
+        "eng": "Inexperienced HORIZON",
+        "kan": "未体験HORIZON",
+        "rom": "Mitaiken HORIZON"
+    },
+    "featured": false,
+    "mv": "https://www.youtube.com/watch?v=ylQE0o-owBk",
+    "track": "https://open.spotify.com/track/1m7fzl91xsEJq4FS4egOnU",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "Koutarou Odaka and UiNA",
+        "arranger": "Koutarou Odaka",
+        "singer": [
+            "Aqours"
+        ]
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/mitaiken-horizon-eng.txt",
+        "kan": "/api/storage/songs/mitaiken-horizon-kan.txt",
+        "rom": "/api/storage/songs/mitaiken-horizon-rom.txt"
+    },
+    "release_date": "2019-09-25"
+}
