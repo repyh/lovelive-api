@@ -5,9 +5,8 @@ const fs = require("fs");
 
 // I don't really use express that often, feel free to change it so it'll be easier to read and manage.
 
-app.set('view engine', 'ejs');
 app.get("/", (req, res) => {
-  res.render("index")
+  res.sendFile(__dirname + "/views/index.html")
 })
 
 let characters = [];
