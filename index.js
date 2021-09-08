@@ -5,6 +5,13 @@ const fs = require("fs");
 
 // I don't really use express that often, feel free to change it so it'll be easier to read and manage.
 
+app.use((req, res, next) => {
+  res.header('Access-Control-Allow-Origin', '*');
+  res.header('Access-Control-Allow-Methods', 'GET');
+  res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept');
+  next();
+});
+
 app.get("/", (req, res) => {
   res.sendFile(__dirname + "/views/index.html")
 })
