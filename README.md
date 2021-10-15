@@ -6,6 +6,9 @@ So yeah, maybe I was bored and decided to make this...
 
 Base URL - https://loveliveapi.herokuapp.com/api/
 
+## IMPORTANT
+There has been some error in the group naming in all the current Nijigaku songs, please give us a while to fix it.
+
 ## Contribution Guide
 
 If you're interested to contribute to this project, feel free to head on over to [our contribution guidelines](CONTRIBUTING.md). Please follow the instructions carefully before creating a pull request. Quick note, if you don't have any experience with programming or modifying json file, you can also contribute, to know how, head on over to the instruction file.
