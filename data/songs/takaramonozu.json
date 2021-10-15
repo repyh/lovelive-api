@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Takaramonozu",
+        "kan": "タカラモノズ",
+        "rom": "Treasures"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Hata Aki",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Takada Kyou",
+        "composer": "Takada Kyou"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/takaramonozu-eng.txt",
+        "rom": "/api/storage/songs/takaramonozu-rom.txt",
+        "kan": "/api/storage/songs/takaramonozu-kan.txt"
+    }
+}

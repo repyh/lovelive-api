@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Yuujou No Change",
+        "kan": "友情ノーチェンジ",
+        "rom": "Friendship Doesn't Change"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Hata Aki",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Tron-LM",
+        "composer": "Tron-LM"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/yuujou-no-change-eng.txt",
+        "rom": "/api/storage/songs/yuujou-no-change-rom.txt",
+        "kan": "/api/storage/songs/yuujou-no-change-kan.txt"
+    }
+}

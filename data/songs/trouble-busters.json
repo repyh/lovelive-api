@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Trouble Busters",
+        "kan": "冬がくれた予感",
+        "rom": "Fuyu ga Kureta Yokan"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Yuugo Sasakura",
+        "arranger": "Tatsuya Kurauchi"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/trouble-busters-eng.txt",
+        "rom": "/api/storage/songs/trouble-busters-rom.txt",
+        "kan": "/api/storage/songs/trouble-busters-kan.txt"
+    }
+}

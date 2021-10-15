@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "WILD STARS",
+        "kan": "僕らは今のなかで",
+        "rom": "Bokura wa Ima no Naka de"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Hata Aki",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Takada Kyou",
+        "composer": "Takada Kyou"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/wild-stars-eng.txt",
+        "rom": "/api/storage/songs/wild-stars-rom.txt",
+        "kan": "/api/storage/songs/wild-stars-kan.txt"
+    }
+}

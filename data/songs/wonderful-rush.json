@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Wonderful Rush",
+        "kan": "喫茶とメイドな一年生",
+        "rom": "Cafe And First Year Maids"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Hata Aki",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Kawata Takahiro",
+        "composer": "Kawata Takahiro"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/wonderful-rush-eng.txt",
+        "rom": "/api/storage/songs/wonderful-rush-rom.txt",
+        "kan": "/api/storage/songs/wonderful-rush-kan.txt"
+    }
+}

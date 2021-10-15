@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Yume Naki Yume wa Yume ja nai",
+        "kan": "夢なき夢は夢じゃない",
+        "rom": "A Dreamless Dream Isn't A Dream"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Kyou Takada",
+        "composer": "Kyou Takada"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/yume-naki-yume-wa-yume-ja-nai-eng.txt",
+        "rom": "/api/storage/songs/yume-naki-yume-wa-yume-ja-nai-rom.txt",
+        "kan": "/api/storage/songs/yume-naki-yume-wa-yume-ja-nai-kan.txt"
+    }
+}

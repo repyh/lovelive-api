@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Yume no Tobira",
+        "kan": "ユメノトビラ",
+        "rom": "The Door to our Dreams"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Hata Aki",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Saeki Takashi",
+        "composer": "Saeki Takashi"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/yume-no-tobira-eng.txt",
+        "rom": "/api/storage/songs/yume-no-tobira-rom.txt",
+        "kan": "/api/storage/songs/yume-no-tobira-kan.txt"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "UNBALANCED LOVE",
+        "kan": "プールでオンステージ! (ミニドラマ)",
+        "rom": "Pūru de Onsutēji! (Mini Drama)"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Takashi Saeki",
+        "composer": "Takashi Saeki"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/unbalanced-love-eng.txt",
+        "rom": "/api/storage/songs/unbalanced-love-rom.txt",
+        "kan": "/api/storage/songs/unbalanced-love-kan.txt"
+    }
+}

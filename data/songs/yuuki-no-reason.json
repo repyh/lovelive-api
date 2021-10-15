@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Yuuki no Reason",
+        "kan": "勇気のReason",
+        "rom": "Reason of Courage"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Ken Masutani",
+        "composer": "Ken Masutani"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/yuuki-no-reason-eng.txt",
+        "rom": "/api/storage/songs/yuuki-no-reason-rom.txt",
+        "kan": "/api/storage/songs/yuuki-no-reason-kan.txt"
+    }
+}

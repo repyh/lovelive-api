@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Watashitachi wa Mirai no Hana",
+        "kan": "私たちは未来の花",
+        "rom": "We Are the Flowers of the Future"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Seiji Miura",
+        "composer": "Seiji Miura"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/watashitachi-wa-mirai-no-hana-eng.txt",
+        "rom": "/api/storage/songs/watashitachi-wa-mirai-no-hana-rom.txt",
+        "kan": "/api/storage/songs/watashitachi-wa-mirai-no-hana-kan.txt"
+    }
+}

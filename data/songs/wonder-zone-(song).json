@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Wonder zone (song)",
+        "kan": "これからのSomeday",
+        "rom": "Someday in Our Future"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Yuugo Sasakura",
+        "composer": "Yuugo Sasakura"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/wonder-zone-(song)-eng.txt",
+        "rom": "/api/storage/songs/wonder-zone-(song)-rom.txt",
+        "kan": "/api/storage/songs/wonder-zone-(song)-kan.txt"
+    }
+}

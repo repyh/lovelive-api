@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Zurui yo Magnetic today",
+        "kan": "ずるいよMagnetic today",
+        "rom": "That's Unfair Magnetic today"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Kensuke Okamoto",
+        "composer": "Kensuke Okamoto"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/zurui-yo-magnetic-today-eng.txt",
+        "rom": "/api/storage/songs/zurui-yo-magnetic-today-rom.txt",
+        "kan": "/api/storage/songs/zurui-yo-magnetic-today-kan.txt"
+    }
+}
