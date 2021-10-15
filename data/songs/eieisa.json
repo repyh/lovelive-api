@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Eieisa",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Manaka Suzuki",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Manaka Suzuki",
+        "arranger": "Tatsuki Miyazawa"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/eieisa-eng.txt",
+        "rom": "/api/storage/songs/eieisa-rom.txt",
+        "kan": "/api/storage/songs/eieisa-kan.txt"
+    }
+}

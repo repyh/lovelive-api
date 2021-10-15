@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Meccha Going!!",
+        "kan": "めっちゃGoing!!",
+        "rom": "Extreme Going!!"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Akira Sunset",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Akira Sunset",
+        "arranger": "Carlos K."
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/meccha-going!!-eng.txt",
+        "rom": "/api/storage/songs/meccha-going!!-rom.txt",
+        "kan": "/api/storage/songs/meccha-going!!-kan.txt"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Tanoshii no Tensai",
+        "kan": "楽しいの天才",
+        "rom": "Genius of Fun"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Akira Sunset",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Carlos K.",
+        "composer": "Carlos K."
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/tanoshii-no-tensai-eng.txt",
+        "rom": "/api/storage/songs/tanoshii-no-tensai-rom.txt",
+        "kan": "/api/storage/songs/tanoshii-no-tensai-kan.txt"
+    }
+}

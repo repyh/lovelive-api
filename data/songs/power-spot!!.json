@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "POWER SPOT!!",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Ereca Suzuki",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Carlos K.",
+        "composer": "Carlos K."
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/power-spot!!-eng.txt",
+        "rom": "/api/storage/songs/power-spot!!-rom.txt",
+        "kan": "/api/storage/songs/power-spot!!-kan.txt"
+    }
+}

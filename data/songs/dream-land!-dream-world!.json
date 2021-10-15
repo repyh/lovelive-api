@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Dream Land! Dream World!",
+        "kan": "A・ZU・NAランドへようこそ！",
+        "rom": "Welcome to A・ZU・NA Land!"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "hot tears",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Shota Kageyama",
+        "arranger": "MEGAneCOMIC"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/dream-land!-dream-world!-eng.txt",
+        "rom": "/api/storage/songs/dream-land!-dream-world!-rom.txt",
+        "kan": "/api/storage/songs/dream-land!-dream-world!-kan.txt"
+    }
+}

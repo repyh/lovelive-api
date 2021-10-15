@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Twinkle Town",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Rico",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Rico",
+        "arranger": "Mash Tanaka"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/twinkle-town-eng.txt",
+        "rom": "/api/storage/songs/twinkle-town-rom.txt",
+        "kan": "/api/storage/songs/twinkle-town-kan.txt"
+    }
+}

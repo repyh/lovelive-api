@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Make-up session ABC",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Takeru Yoda",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Yoshihiro Suda",
+        "arranger": "Takeru Yoda"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/make-up-session-abc-eng.txt",
+        "rom": "/api/storage/songs/make-up-session-abc-rom.txt",
+        "kan": "/api/storage/songs/make-up-session-abc-kan.txt"
+    }
+}

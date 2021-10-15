@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Sing & Smile!!",
+        "kan": "バレンタインパーティー",
+        "rom": "Valentine's Party"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Carlos K.",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Manabu Marutani",
+        "arranger": "Carlos K."
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/sing-&-smile!!-eng.txt",
+        "rom": "/api/storage/songs/sing-&-smile!!-rom.txt",
+        "kan": "/api/storage/songs/sing-&-smile!!-kan.txt"
+    }
+}

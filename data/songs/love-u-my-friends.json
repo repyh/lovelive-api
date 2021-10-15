@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Love U my friends",
+        "kan": "開花宣言",
+        "rom": "Blossoming Declaration"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Kanata Okajima",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Keisuke Koyama",
+        "arranger": "Shunsuke Harada"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/love-u-my-friends-eng.txt",
+        "rom": "/api/storage/songs/love-u-my-friends-rom.txt",
+        "kan": "/api/storage/songs/love-u-my-friends-kan.txt"
+    }
+}

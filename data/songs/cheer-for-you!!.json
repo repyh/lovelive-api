@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Cheer for you!!",
+        "kan": "A・ZU・NAランドへようこそ！",
+        "rom": "Welcome to A・ZU・NA Land!"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Ayaka Miyake",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "hot tears",
+        "arranger": "Sheeta C."
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/cheer-for-you!!-eng.txt",
+        "rom": "/api/storage/songs/cheer-for-you!!-rom.txt",
+        "kan": "/api/storage/songs/cheer-for-you!!-kan.txt"
+    }
+}

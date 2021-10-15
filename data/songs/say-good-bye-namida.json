@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Say Good-Bye Namida",
+        "kan": "Say Good-Bye 涙",
+        "rom": "Say Good-Bye Tears"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Akira Sunset",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Naoki Endo",
+        "composer": "Naoki Endo"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/say-good-bye-namida-eng.txt",
+        "rom": "/api/storage/songs/say-good-bye-namida-rom.txt",
+        "kan": "/api/storage/songs/say-good-bye-namida-kan.txt"
+    }
+}

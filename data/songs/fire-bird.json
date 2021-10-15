@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Fire Bird",
+        "kan": "Say Good-Bye 涙",
+        "rom": "Say Good-Bye Tears"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "BEATNINE",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Carlos K.",
+        "composer": "Carlos K."
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/fire-bird-eng.txt",
+        "rom": "/api/storage/songs/fire-bird-rom.txt",
+        "kan": "/api/storage/songs/fire-bird-kan.txt"
+    }
+}

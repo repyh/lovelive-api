@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Hurray Hurray",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Ryota Saito",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Ryota Saito",
+        "arranger": "Diz"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/hurray-hurray-eng.txt",
+        "rom": "/api/storage/songs/hurray-hurray-rom.txt",
+        "kan": "/api/storage/songs/hurray-hurray-kan.txt"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "L! L! L! (Love the Life We Live)",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Ayaka Miyake",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Keisuke Koyama",
+        "composer": "Keisuke Koyama"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/l!-l!-l!-(love-the-life-we-live)-eng.txt",
+        "rom": "/api/storage/songs/l!-l!-l!-(love-the-life-we-live)-rom.txt",
+        "kan": "/api/storage/songs/l!-l!-l!-(love-the-life-we-live)-kan.txt"
+    }
+}

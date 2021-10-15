@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Kaika Sengen",
+        "kan": "開花宣言",
+        "rom": "Blossoming Declaration"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Akira Sunset",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Naoki Endou",
+        "composer": "Naoki Endou"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/kaika-sengen-eng.txt",
+        "rom": "/api/storage/songs/kaika-sengen-rom.txt",
+        "kan": "/api/storage/songs/kaika-sengen-kan.txt"
+    }
+}

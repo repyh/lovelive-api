@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "MELODY",
+        "kan": "開花宣言",
+        "rom": "Blossoming Declaration"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Suzuki Ereka",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Hiroki Sagawa",
+        "arranger": "Saito Ryousuke"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/melody-eng.txt",
+        "rom": "/api/storage/songs/melody-rom.txt",
+        "kan": "/api/storage/songs/melody-kan.txt"
+    }
+}

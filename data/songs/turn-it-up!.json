@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Turn it Up!",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Akira Sunset",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Akira Sunset",
+        "arranger": "Naoki Endo"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/turn-it-up!-eng.txt",
+        "rom": "/api/storage/songs/turn-it-up!-rom.txt",
+        "kan": "/api/storage/songs/turn-it-up!-kan.txt"
+    }
+}

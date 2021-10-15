@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Doki Pipo ☆ Emotion",
+        "kan": "ドキピポ☆エモーション",
+        "rom": "Heart-Thumping, Beep-Boop☆Emotion"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "NOVECHIKA",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Kikuchi Hiroto",
+        "composer": "Kikuchi Hiroto"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/doki-pipo-☆-emotion-eng.txt",
+        "rom": "/api/storage/songs/doki-pipo-☆-emotion-rom.txt",
+        "kan": "/api/storage/songs/doki-pipo-☆-emotion-kan.txt"
+    }
+}

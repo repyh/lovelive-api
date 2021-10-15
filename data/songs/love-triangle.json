@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Love Triangle",
+        "kan": "DiverDivaにお任せ!!",
+        "rom": "Leave it to DiverDiva!!"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Ayaka Miyake",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Satoru Kurihara (Jazzin'park)",
+        "arranger": "Singo Kubota (Jazzin'park)"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/love-triangle-eng.txt",
+        "rom": "/api/storage/songs/love-triangle-rom.txt",
+        "kan": "/api/storage/songs/love-triangle-kan.txt"
+    }
+}

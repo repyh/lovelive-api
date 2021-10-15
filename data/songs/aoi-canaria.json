@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Aoi Canaria",
+        "kan": "翠いカナリア",
+        "rom": "Jade Green Canary"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Ayumu Nakamura",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Ereca Suzuki",
+        "arranger": "JOE"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/aoi-canaria-eng.txt",
+        "rom": "/api/storage/songs/aoi-canaria-rom.txt",
+        "kan": "/api/storage/songs/aoi-canaria-kan.txt"
+    }
+}

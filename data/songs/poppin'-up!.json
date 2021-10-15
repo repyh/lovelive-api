@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Poppin' Up!",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Ayaka Miyake",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Naoki Kubo",
+        "arranger": "Hisashi Nawata"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/poppin'-up!-eng.txt",
+        "rom": "/api/storage/songs/poppin'-up!-rom.txt",
+        "kan": "/api/storage/songs/poppin'-up!-kan.txt"
+    }
+}

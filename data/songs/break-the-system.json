@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Break The System",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "credits": {
+        "writer": "nana hatori",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "shun ÷1",
+        "arranger": "shun ÷1"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/break-the-system-eng.txt",
+        "rom": "/api/storage/songs/break-the-system-rom.txt",
+        "kan": "/api/storage/songs/break-the-system-kan.txt"
+    }
+}

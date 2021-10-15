@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Butterfly",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Ayaka Miyake",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "em.me",
+        "composer": "em.me"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/butterfly-eng.txt",
+        "rom": "/api/storage/songs/butterfly-rom.txt",
+        "kan": "/api/storage/songs/butterfly-kan.txt"
+    }
+}

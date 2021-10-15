@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Yada!",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Akira Sunset",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Akira Sunset",
+        "arranger": "Hiroto Kikuchi"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/yada!-eng.txt",
+        "rom": "/api/storage/songs/yada!-rom.txt",
+        "kan": "/api/storage/songs/yada!-kan.txt"
+    }
+}

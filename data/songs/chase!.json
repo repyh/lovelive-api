@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "CHASE!",
+        "kan": "夢への一歩",
+        "rom": "One Step To My Dreams"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Suzuki Ereca",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "JOE",
+        "arranger": "tasuku"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/chase!-eng.txt",
+        "rom": "/api/storage/songs/chase!-rom.txt",
+        "kan": "/api/storage/songs/chase!-kan.txt"
+    }
+}

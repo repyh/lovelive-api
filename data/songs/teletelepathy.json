@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Teletelepathy",
+        "kan": "開花宣言",
+        "rom": "Blossoming Declaration"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "NOVECHIKA",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Naoki Kubo",
+        "arranger": "Naoki Kubo"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/teletelepathy-eng.txt",
+        "rom": "/api/storage/songs/teletelepathy-rom.txt",
+        "kan": "/api/storage/songs/teletelepathy-kan.txt"
+    }
+}

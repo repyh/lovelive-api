@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Yagate Hitotsu no Monogatari",
+        "kan": "やがてひとつの物語",
+        "rom": "Finally, a Single Story"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Tsukimisou",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Hiroto Kikuchi",
+        "composer": "Hiroto Kikuchi"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/yagate-hitotsu-no-monogatari-eng.txt",
+        "rom": "/api/storage/songs/yagate-hitotsu-no-monogatari-rom.txt",
+        "kan": "/api/storage/songs/yagate-hitotsu-no-monogatari-kan.txt"
+    }
+}

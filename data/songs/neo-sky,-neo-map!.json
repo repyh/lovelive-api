@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "NEO SKY, NEO MAP!",
+        "kan": "全速ドリーマー",
+        "rom": "Full Speed Dreamer"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Koutarou Odaka",
+        "arranger": "UiNA"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/neo-sky,-neo-map!-eng.txt",
+        "rom": "/api/storage/songs/neo-sky,-neo-map!-rom.txt",
+        "kan": "/api/storage/songs/neo-sky,-neo-map!-kan.txt"
+    }
+}

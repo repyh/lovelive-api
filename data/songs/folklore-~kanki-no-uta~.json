@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Folklore ~Kanki no Uta~",
+        "kan": "A・ZU・NA動物園は大忙し！",
+        "rom": "The A・ZU・NA Zoo is very busy!"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Muraki Mikio",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Soranoalto",
+        "composer": "Soranoalto"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/folklore-~kanki-no-uta~-eng.txt",
+        "rom": "/api/storage/songs/folklore-~kanki-no-uta~-rom.txt",
+        "kan": "/api/storage/songs/folklore-~kanki-no-uta~-kan.txt"
+    }
+}

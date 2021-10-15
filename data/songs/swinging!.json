@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Swinging!",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "credits": {
+        "writer": "miyakei",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "DAICHI",
+        "arranger": "Keisuke Koyama"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/swinging!-eng.txt",
+        "rom": "/api/storage/songs/swinging!-rom.txt",
+        "kan": "/api/storage/songs/swinging!-kan.txt"
+    }
+}

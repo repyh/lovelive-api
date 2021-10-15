@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Aion no Uta",
+        "kan": "哀温ノ詩",
+        "rom": "Song of Sorrow"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Ryota Saito",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Kenta Urashima",
+        "arranger": "Takumi Yamamoto"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/aion-no-uta-eng.txt",
+        "rom": "/api/storage/songs/aion-no-uta-rom.txt",
+        "kan": "/api/storage/songs/aion-no-uta-kan.txt"
+    }
+}

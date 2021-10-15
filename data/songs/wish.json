@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Wish",
+        "kan": "開花宣言",
+        "rom": "Blossoming Declaration"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "BEATNINE",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Carlos K.",
+        "arranger": "Carlos K."
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/wish-eng.txt",
+        "rom": "/api/storage/songs/wish-rom.txt",
+        "kan": "/api/storage/songs/wish-kan.txt"
+    }
+}

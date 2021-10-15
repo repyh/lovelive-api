@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Kakushiaji!",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "credits": {
+        "writer": "nana hatori",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "PASSiON KiNG",
+        "arranger": "Ryosuke Saitou"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/kakushiaji!-eng.txt",
+        "rom": "/api/storage/songs/kakushiaji!-rom.txt",
+        "kan": "/api/storage/songs/kakushiaji!-kan.txt"
+    }
+}

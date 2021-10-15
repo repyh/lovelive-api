@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "La Bella Patria",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Ayaka Miyake",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Yosuke Saito",
+        "composer": "Yosuke Saito"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/la-bella-patria-eng.txt",
+        "rom": "/api/storage/songs/la-bella-patria-rom.txt",
+        "kan": "/api/storage/songs/la-bella-patria-kan.txt"
+    }
+}

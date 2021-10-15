@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "First Love Again",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Tsukimisou",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Tsukimisou",
+        "arranger": "Takayuki Yoshimura"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/first-love-again-eng.txt",
+        "rom": "/api/storage/songs/first-love-again-rom.txt",
+        "kan": "/api/storage/songs/first-love-again-kan.txt"
+    }
+}

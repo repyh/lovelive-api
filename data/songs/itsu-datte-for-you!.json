@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Itsu datte for you!",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Ereka Suzuki",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Carlos K.",
+        "arranger": "Morito Yonezawa"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/itsu-datte-for-you!-eng.txt",
+        "rom": "/api/storage/songs/itsu-datte-for-you!-rom.txt",
+        "kan": "/api/storage/songs/itsu-datte-for-you!-kan.txt"
+    }
+}

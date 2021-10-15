@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Diabolic mulier",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "credits": {
+        "writer": "T4K",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "T4K",
+        "arranger": "Luis Ogata"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/diabolic-mulier-eng.txt",
+        "rom": "/api/storage/songs/diabolic-mulier-rom.txt",
+        "kan": "/api/storage/songs/diabolic-mulier-kan.txt"
+    }
+}

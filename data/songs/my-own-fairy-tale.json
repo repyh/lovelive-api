@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "My Own Fairy-Tale",
+        "kan": "開花宣言",
+        "rom": "Blossoming Declaration"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Ryota Saito",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Diz",
+        "composer": "Diz"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/my-own-fairy-tale-eng.txt",
+        "rom": "/api/storage/songs/my-own-fairy-tale-rom.txt",
+        "kan": "/api/storage/songs/my-own-fairy-tale-kan.txt"
+    }
+}

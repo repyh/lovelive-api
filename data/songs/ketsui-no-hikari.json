@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Ketsui no Hikari",
+        "kan": "決意の光",
+        "rom": "Light of Determination"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Ayumu Nakamura",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Hiroto Kikuchi",
+        "composer": "Hiroto Kikuchi"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/ketsui-no-hikari-eng.txt",
+        "rom": "/api/storage/songs/ketsui-no-hikari-rom.txt",
+        "kan": "/api/storage/songs/ketsui-no-hikari-kan.txt"
+    }
+}

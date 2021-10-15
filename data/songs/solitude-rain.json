@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Solitude Rain",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Ayaka Miyake",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Ereca Suzuki",
+        "arranger": "JOE"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/solitude-rain-eng.txt",
+        "rom": "/api/storage/songs/solitude-rain-rom.txt",
+        "kan": "/api/storage/songs/solitude-rain-kan.txt"
+    }
+}

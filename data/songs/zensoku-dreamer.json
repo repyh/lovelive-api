@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Zensoku Dreamer",
+        "kan": "全速ドリーマー",
+        "rom": "Full Speed Dreamer"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Ayaka Miyake",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "DAICHI",
+        "arranger": "Shunsuke Harada"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/zensoku-dreamer-eng.txt",
+        "rom": "/api/storage/songs/zensoku-dreamer-rom.txt",
+        "kan": "/api/storage/songs/zensoku-dreamer-kan.txt"
+    }
+}

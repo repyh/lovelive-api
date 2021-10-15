@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Sweet Eyes",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Ayaka Miyake",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Carlos K.",
+        "arranger": "Mash Tanaka"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/sweet-eyes-eng.txt",
+        "rom": "/api/storage/songs/sweet-eyes-rom.txt",
+        "kan": "/api/storage/songs/sweet-eyes-kan.txt"
+    }
+}

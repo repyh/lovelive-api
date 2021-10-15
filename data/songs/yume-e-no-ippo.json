@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Yume e no Ippo",
+        "kan": "夢への一歩",
+        "rom": "One Step To My Dreams"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Akira Sunset",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Kikuchi Hiroto",
+        "composer": "Kikuchi Hiroto"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/yume-e-no-ippo-eng.txt",
+        "rom": "/api/storage/songs/yume-e-no-ippo-rom.txt",
+        "kan": "/api/storage/songs/yume-e-no-ippo-kan.txt"
+    }
+}

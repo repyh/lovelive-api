@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Yuu & Ai",
+        "kan": "友 & 愛",
+        "rom": "Friends & Love"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Akira Sunset",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Carlos K.",
+        "arranger": "Carlos K."
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/yuu-&-ai-eng.txt",
+        "rom": "/api/storage/songs/yuu-&-ai-rom.txt",
+        "kan": "/api/storage/songs/yuu-&-ai-kan.txt"
+    }
+}

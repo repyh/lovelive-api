@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Märchen Star",
+        "kan": "Say Good-Bye 涙",
+        "rom": "Say Good-Bye Tears"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Ryota Saito",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Ryota Saito",
+        "arranger": "Diz"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/märchen-star-eng.txt",
+        "rom": "/api/storage/songs/märchen-star-rom.txt",
+        "kan": "/api/storage/songs/märchen-star-kan.txt"
+    }
+}

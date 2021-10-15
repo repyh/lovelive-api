@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Toy Doll",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "credits": {
+        "writer": "nana hatori",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Ryo 'Lefty' Miyata",
+        "arranger": "Carlos K."
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/toy-doll-eng.txt",
+        "rom": "/api/storage/songs/toy-doll-rom.txt",
+        "kan": "/api/storage/songs/toy-doll-kan.txt"
+    }
+}

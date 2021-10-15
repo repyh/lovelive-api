@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Margaret",
+        "kan": "Say Good-Bye 涙",
+        "rom": "Say Good-Bye Tears"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Ereca Suzuki",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Carlos K.",
+        "composer": "Carlos K."
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/margaret-eng.txt",
+        "rom": "/api/storage/songs/margaret-rom.txt",
+        "kan": "/api/storage/songs/margaret-kan.txt"
+    }
+}

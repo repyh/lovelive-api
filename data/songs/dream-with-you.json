@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Dream with You",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Ayaka Miyake",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "mitsuyuki miyake",
+        "arranger": "Carlos K."
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/dream-with-you-eng.txt",
+        "rom": "/api/storage/songs/dream-with-you-rom.txt",
+        "kan": "/api/storage/songs/dream-with-you-kan.txt"
+    }
+}

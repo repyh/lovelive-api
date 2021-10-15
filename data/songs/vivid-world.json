@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "VIVID WORLD",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Ayaka Miyake",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Luis Ogata",
+        "arranger": "TeddyLoid"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/vivid-world-eng.txt",
+        "rom": "/api/storage/songs/vivid-world-rom.txt",
+        "kan": "/api/storage/songs/vivid-world-kan.txt"
+    }
+}

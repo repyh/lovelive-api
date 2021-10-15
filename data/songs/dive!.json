@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "DIVE!",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Ayaka Miyake",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "MOMIKEN",
+        "arranger": "tasuku"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/dive!-eng.txt",
+        "rom": "/api/storage/songs/dive!-rom.txt",
+        "kan": "/api/storage/songs/dive!-kan.txt"
+    }
+}

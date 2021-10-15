@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Nemureru Mori ni Ikitai na",
+        "kan": "眠れる森に行きたいな",
+        "rom": "I Want To Go To A Forest Where I Can Sleep"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Ryota Saito",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Diz",
+        "composer": "Diz"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/nemureru-mori-ni-ikitai-na-eng.txt",
+        "rom": "/api/storage/songs/nemureru-mori-ni-ikitai-na-rom.txt",
+        "kan": "/api/storage/songs/nemureru-mori-ni-ikitai-na-kan.txt"
+    }
+}

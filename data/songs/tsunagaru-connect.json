@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Tsunagaru Connect",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Ayaka Miyake",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "DECO*27",
+        "arranger": "POLICE PICCADILLY"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/tsunagaru-connect-eng.txt",
+        "rom": "/api/storage/songs/tsunagaru-connect-rom.txt",
+        "kan": "/api/storage/songs/tsunagaru-connect-kan.txt"
+    }
+}

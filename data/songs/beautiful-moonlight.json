@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Beautiful Moonlight",
+        "kan": "バレンタインパーティー",
+        "rom": "Valentine's Party"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Ayaka Miyake",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "ygarshy",
+        "arranger": "PASSiON KiNG"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/beautiful-moonlight-eng.txt",
+        "rom": "/api/storage/songs/beautiful-moonlight-rom.txt",
+        "kan": "/api/storage/songs/beautiful-moonlight-kan.txt"
+    }
+}

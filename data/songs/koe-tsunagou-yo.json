@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Koe Tsunagou yo",
+        "kan": "声繋ごうよ",
+        "rom": "Let's Connect Our Voices"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Ryota Saito",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Kenta Urashima",
+        "arranger": "Takumi Yamamoto"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/koe-tsunagou-yo-eng.txt",
+        "rom": "/api/storage/songs/koe-tsunagou-yo-rom.txt",
+        "kan": "/api/storage/songs/koe-tsunagou-yo-kan.txt"
+    }
+}

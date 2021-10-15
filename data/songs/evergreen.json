@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Evergreen",
+        "kan": "夢への一歩",
+        "rom": "One Step To My Dreams"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Ryota Saito",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Naoyuki Chikatani",
+        "composer": "Naoyuki Chikatani"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/evergreen-eng.txt",
+        "rom": "/api/storage/songs/evergreen-rom.txt",
+        "kan": "/api/storage/songs/evergreen-kan.txt"
+    }
+}

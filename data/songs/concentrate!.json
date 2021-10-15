@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Concentrate!",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Mikio Muraki",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Soranoalto",
+        "composer": "Soranoalto"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/concentrate!-eng.txt",
+        "rom": "/api/storage/songs/concentrate!-rom.txt",
+        "kan": "/api/storage/songs/concentrate!-kan.txt"
+    }
+}

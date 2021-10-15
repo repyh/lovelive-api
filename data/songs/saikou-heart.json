@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Saikou Heart",
+        "kan": "サイコーハート",
+        "rom": "Saikou Heart"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Ayaka Miyake",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "PASSiON KiNG",
+        "composer": "PASSiON KiNG"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/saikou-heart-eng.txt",
+        "rom": "/api/storage/songs/saikou-heart-rom.txt",
+        "kan": "/api/storage/songs/saikou-heart-kan.txt"
+    }
+}

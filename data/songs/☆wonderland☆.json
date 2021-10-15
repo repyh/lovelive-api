@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "☆Wonderland☆",
+        "kan": "開花宣言",
+        "rom": "Blossoming Declaration"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Ereka Suzuki",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "NOVECHIKA",
+        "arranger": "TETTA"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/☆wonderland☆-eng.txt",
+        "rom": "/api/storage/songs/☆wonderland☆-rom.txt",
+        "kan": "/api/storage/songs/☆wonderland☆-kan.txt"
+    }
+}

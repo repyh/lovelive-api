@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Fly into the sky",
+        "kan": "名探偵カリン＆アイ！",
+        "rom": "Detective Karin & Ai!"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "miyakei",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Em.me",
+        "composer": "Em.me"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/fly-into-the-sky-eng.txt",
+        "rom": "/api/storage/songs/fly-into-the-sky-rom.txt",
+        "kan": "/api/storage/songs/fly-into-the-sky-kan.txt"
+    }
+}

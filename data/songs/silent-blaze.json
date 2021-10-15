@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Silent Blaze",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Ereka Suzuki",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Ereka Suzuki",
+        "arranger": "Mash Tanaka"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/silent-blaze-eng.txt",
+        "rom": "/api/storage/songs/silent-blaze-rom.txt",
+        "kan": "/api/storage/songs/silent-blaze-kan.txt"
+    }
+}

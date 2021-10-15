@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Awakening Promise",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Ayaka Miyake",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Keisuke Koyama",
+        "composer": "Keisuke Koyama"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/awakening-promise-eng.txt",
+        "rom": "/api/storage/songs/awakening-promise-rom.txt",
+        "kan": "/api/storage/songs/awakening-promise-kan.txt"
+    }
+}

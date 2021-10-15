@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "TOKIMEKI Runners",
+        "kan": "夢への一歩",
+        "rom": "One Step To My Dreams"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Tsukasa Yatoki (Arte Refact)",
+        "composer": "Tsukasa Yatoki (Arte Refact)"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/tokimeki-runners-eng.txt",
+        "rom": "/api/storage/songs/tokimeki-runners-rom.txt",
+        "kan": "/api/storage/songs/tokimeki-runners-kan.txt"
+    }
+}

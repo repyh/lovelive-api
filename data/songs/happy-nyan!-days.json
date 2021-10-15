@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Happy Nyan! Days",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "credits": {
+        "writer": "PASSiON KiNG",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Rico",
+        "arranger": "PASSiON KiNG"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/happy-nyan!-days-eng.txt",
+        "rom": "/api/storage/songs/happy-nyan!-days-rom.txt",
+        "kan": "/api/storage/songs/happy-nyan!-days-kan.txt"
+    }
+}

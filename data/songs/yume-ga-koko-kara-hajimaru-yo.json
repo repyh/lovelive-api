@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Yume ga Koko Kara Hajimaru yo",
+        "kan": "夢がここからはじまるよ",
+        "rom": "Our Dreams Begin Here"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Ayaka Miyake",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Ayumu Nakamura",
+        "arranger": "Taishi Noguchi"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/yume-ga-koko-kara-hajimaru-yo-eng.txt",
+        "rom": "/api/storage/songs/yume-ga-koko-kara-hajimaru-yo-rom.txt",
+        "kan": "/api/storage/songs/yume-ga-koko-kara-hajimaru-yo-kan.txt"
+    }
+}

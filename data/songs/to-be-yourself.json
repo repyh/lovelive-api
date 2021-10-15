@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "TO BE YOURSELF",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Ryota Saito",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Ryota Saito",
+        "arranger": "Diz"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/to-be-yourself-eng.txt",
+        "rom": "/api/storage/songs/to-be-yourself-rom.txt",
+        "kan": "/api/storage/songs/to-be-yourself-kan.txt"
+    }
+}

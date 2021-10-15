@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Nijiiro Passions!",
+        "kan": "虹色Passions!",
+        "rom": "Rainbow-Colored Passions!"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Ayaka Miyake",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Keisuke Koyama",
+        "composer": "Keisuke Koyama"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/nijiiro-passions!-eng.txt",
+        "rom": "/api/storage/songs/nijiiro-passions!-rom.txt",
+        "kan": "/api/storage/songs/nijiiro-passions!-kan.txt"
+    }
+}

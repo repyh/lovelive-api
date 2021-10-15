@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Maze Town",
+        "kan": "A・ZU・NA動物園は大忙し！",
+        "rom": "The A・ZU・NA Zoo is very busy!"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Morito Yonezawa",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Ayato Fujiwara",
+        "arranger": "Morito Yonezawa"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/maze-town-eng.txt",
+        "rom": "/api/storage/songs/maze-town-rom.txt",
+        "kan": "/api/storage/songs/maze-town-kan.txt"
+    }
+}

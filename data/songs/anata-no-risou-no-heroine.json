@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Anata no Risou no Heroine",
+        "kan": "あなたの理想のヒロイン",
+        "rom": "Your Ideal Heroine"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Tsukimisou",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Endo Naoki",
+        "composer": "Endo Naoki"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/anata-no-risou-no-heroine-eng.txt",
+        "rom": "/api/storage/songs/anata-no-risou-no-heroine-rom.txt",
+        "kan": "/api/storage/songs/anata-no-risou-no-heroine-kan.txt"
+    }
+}

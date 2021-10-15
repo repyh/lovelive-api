@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Not Sad",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Masami Kakinuma",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Yoshihiro Suda",
+        "arranger": "Takeru Yoda"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/not-sad-eng.txt",
+        "rom": "/api/storage/songs/not-sad-rom.txt",
+        "kan": "/api/storage/songs/not-sad-kan.txt"
+    }
+}

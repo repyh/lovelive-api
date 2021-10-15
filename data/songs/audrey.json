@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Audrey",
+        "kan": "開花宣言",
+        "rom": "Blossoming Declaration"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Tsukimisou",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Hiroto Kikuchi",
+        "composer": "Hiroto Kikuchi"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/audrey-eng.txt",
+        "rom": "/api/storage/songs/audrey-rom.txt",
+        "kan": "/api/storage/songs/audrey-kan.txt"
+    }
+}
