@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Datte Datte Aa Mujou",
+        "kan": "だってだって噫無情",
+        "rom": "But But 'Oh, How Heartless'"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Tetsushi Enami",
+        "arranger": "Takeshi Masuda"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/datte-datte-aa-mujou-eng.txt",
+        "rom": "/api/storage/songs/datte-datte-aa-mujou-rom.txt",
+        "kan": "/api/storage/songs/datte-datte-aa-mujou-kan.txt"
+    }
+}

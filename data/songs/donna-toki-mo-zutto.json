@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Donna Toki mo Zutto",
+        "kan": "どんなときもずっと",
+        "rom": "Anytime, All the Time"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Hata Aki",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Sasaki Hiroshi",
+        "arranger": "Hase Yasuhiro"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/donna-toki-mo-zutto-eng.txt",
+        "rom": "/api/storage/songs/donna-toki-mo-zutto-rom.txt",
+        "kan": "/api/storage/songs/donna-toki-mo-zutto-kan.txt"
+    }
+}

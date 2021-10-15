@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Garasu no Hanazono",
+        "kan": "硝子の花園",
+        "rom": "Garden of Glass"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Satomi Kawasaki",
+        "arranger": "Takeshi Masuda"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/garasu-no-hanazono-eng.txt",
+        "rom": "/api/storage/songs/garasu-no-hanazono-rom.txt",
+        "kan": "/api/storage/songs/garasu-no-hanazono-kan.txt"
+    }
+}

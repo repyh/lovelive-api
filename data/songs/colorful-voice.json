@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "COLORFUL VOICE",
+        "kan": "どんなときもずっと",
+        "rom": "Donna Toki mo Zutto"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Hata Aki",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Watanabe Kazunori",
+        "composer": "Watanabe Kazunori"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/colorful-voice-eng.txt",
+        "rom": "/api/storage/songs/colorful-voice-rom.txt",
+        "kan": "/api/storage/songs/colorful-voice-kan.txt"
+    }
+}

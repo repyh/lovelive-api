@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "A-NO-NE-GA-N-BA-RE!",
+        "kan": "あ・の・ね・が・ん・ば・れ!",
+        "rom": "Hey You, Do Your Best!"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Taka Aoki",
+        "composer": "Taka Aoki"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/a-no-ne-ga-n-ba-re!-eng.txt",
+        "rom": "/api/storage/songs/a-no-ne-ga-n-ba-re!-rom.txt",
+        "kan": "/api/storage/songs/a-no-ne-ga-n-ba-re!-kan.txt"
+    }
+}

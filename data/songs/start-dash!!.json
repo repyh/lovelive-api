@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "START:DASH!!",
+        "kan": "ススメ→トゥモロウ",
+        "rom": "Susume→Tomorrow"
+    },
+    "featured": true,
+    "credits": {
+        "writer": "Hata Aki",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Sasaki Hiroshi",
+        "composer": "Sasaki Hiroshi"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/start:dash!!-eng.txt",
+        "rom": "/api/storage/songs/start:dash!!-rom.txt",
+        "kan": "/api/storage/songs/start:dash!!-kan.txt"
+    }
+}

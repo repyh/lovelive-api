@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Niko puri♥Joshi dou",
+        "kan": "にこぷり♥女子道",
+        "rom": "Nico puri♥Girl's Path"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Tetsushi Enami",
+        "arranger": "Yuusuke Yamamoto"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/niko-puri♥joshi-dou-eng.txt",
+        "rom": "/api/storage/songs/niko-puri♥joshi-dou-rom.txt",
+        "kan": "/api/storage/songs/niko-puri♥joshi-dou-kan.txt"
+    }
+}

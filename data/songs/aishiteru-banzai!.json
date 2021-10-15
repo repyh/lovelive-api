@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Aishiteru Banzai!",
+        "kan": "愛してるばんざーい！",
+        "rom": "I Love You, Hooray!"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Hata Aki",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Yamada Takahiro",
+        "arranger": "Shimizu Teppei"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/aishiteru-banzai!-eng.txt",
+        "rom": "/api/storage/songs/aishiteru-banzai!-rom.txt",
+        "kan": "/api/storage/songs/aishiteru-banzai!-kan.txt"
+    }
+}

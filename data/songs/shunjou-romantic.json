@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Shunjou Romantic",
+        "kan": "春情ロマンティック",
+        "rom": "Passionate Romantic"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Hiroshi Sasaki",
+        "composer": "Hiroshi Sasaki"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/shunjou-romantic-eng.txt",
+        "rom": "/api/storage/songs/shunjou-romantic-rom.txt",
+        "kan": "/api/storage/songs/shunjou-romantic-kan.txt"
+    }
+}

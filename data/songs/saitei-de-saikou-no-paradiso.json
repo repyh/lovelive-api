@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Saitei de Saikou no Paradiso",
+        "kan": "最低で最高のParadiso",
+        "rom": "The Worst & Best Paradise"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Yuki Kimura",
+        "composer": "Yuki Kimura"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/saitei-de-saikou-no-paradiso-eng.txt",
+        "rom": "/api/storage/songs/saitei-de-saikou-no-paradiso-rom.txt",
+        "kan": "/api/storage/songs/saitei-de-saikou-no-paradiso-kan.txt"
+    }
+}

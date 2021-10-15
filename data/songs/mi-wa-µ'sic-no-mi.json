@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Mi wa µ'sic no Mi",
+        "kan": "ミはμ’sicのミ",
+        "rom": "M is for μ'sic"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Hata Aki",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Takada Kyou",
+        "composer": "Takada Kyou"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/mi-wa-µ'sic-no-mi-eng.txt",
+        "rom": "/api/storage/songs/mi-wa-µ'sic-no-mi-rom.txt",
+        "kan": "/api/storage/songs/mi-wa-µ'sic-no-mi-kan.txt"
+    }
+}

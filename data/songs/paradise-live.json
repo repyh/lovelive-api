@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Paradise Live",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Hata Aki",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Kurauchi Tatsuya",
+        "composer": "Kurauchi Tatsuya"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/paradise-live-eng.txt",
+        "rom": "/api/storage/songs/paradise-live-rom.txt",
+        "kan": "/api/storage/songs/paradise-live-kan.txt"
+    }
+}

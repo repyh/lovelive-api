@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Hello, Hoshi o Kazoete",
+        "kan": "Hello,星を数えて",
+        "rom": "Hello, Count The Stars"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Akihiko Yamaguchi",
+        "composer": "Akihiko Yamaguchi"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/hello,-hoshi-o-kazoete-eng.txt",
+        "rom": "/api/storage/songs/hello,-hoshi-o-kazoete-rom.txt",
+        "kan": "/api/storage/songs/hello,-hoshi-o-kazoete-kan.txt"
+    }
+}

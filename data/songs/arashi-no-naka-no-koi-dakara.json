@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Arashi no Naka no Koi dakara",
+        "kan": "嵐のなかの恋だから",
+        "rom": "Because It's Love Amidst The Storm"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Hata Aki",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Sakai Yoichi",
+        "composer": "Sakai Yoichi"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/arashi-no-naka-no-koi-dakara-eng.txt",
+        "rom": "/api/storage/songs/arashi-no-naka-no-koi-dakara-rom.txt",
+        "kan": "/api/storage/songs/arashi-no-naka-no-koi-dakara-kan.txt"
+    }
+}

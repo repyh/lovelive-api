@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Natsuiro Egao de 1,2,Jump!",
+        "kan": "夏色えがおで1,2,Jump!",
+        "rom": "With Summer-colored Smiles 1,2,Jump!"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Hata Aki",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Okumatsu Makoto",
+        "arranger": "Takada Kyou"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/natsuiro-egao-de-1,2,jump!-eng.txt",
+        "rom": "/api/storage/songs/natsuiro-egao-de-1,2,jump!-rom.txt",
+        "kan": "/api/storage/songs/natsuiro-egao-de-1,2,jump!-kan.txt"
+    }
+}

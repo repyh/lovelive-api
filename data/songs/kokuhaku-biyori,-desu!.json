@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Kokuhaku Biyori, desu!",
+        "kan": "告白日和、です！",
+        "rom": "It's Confession Weather!"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Mitsuru Wakabayashi",
+        "composer": "Mitsuru Wakabayashi"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/kokuhaku-biyori,-desu!-eng.txt",
+        "rom": "/api/storage/songs/kokuhaku-biyori,-desu!-rom.txt",
+        "kan": "/api/storage/songs/kokuhaku-biyori,-desu!-kan.txt"
+    }
+}

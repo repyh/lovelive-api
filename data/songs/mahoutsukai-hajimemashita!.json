@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Mahoutsukai Hajimemashita!",
+        "kan": "まほうつかいはじめました！",
+        "rom": "I've Become a Magician!"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Hiroaki Suzuki",
+        "composer": "Hiroaki Suzuki"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/mahoutsukai-hajimemashita!-eng.txt",
+        "rom": "/api/storage/songs/mahoutsukai-hajimemashita!-rom.txt",
+        "kan": "/api/storage/songs/mahoutsukai-hajimemashita!-kan.txt"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "HEART to HEART!",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Hata Aki",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Nishioka Kazuya",
+        "composer": "Nishioka Kazuya"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/heart-to-heart!-eng.txt",
+        "rom": "/api/storage/songs/heart-to-heart!-rom.txt",
+        "kan": "/api/storage/songs/heart-to-heart!-kan.txt"
+    }
+}

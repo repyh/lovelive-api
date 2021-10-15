@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Dreamin' Go! Go!!",
+        "kan": "ワンデイ・ポリスストーリー",
+        "rom": "One Day Police Story"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "TSUKASA",
+        "arranger": "Kon-K"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/dreamin'-go!-go!!-eng.txt",
+        "rom": "/api/storage/songs/dreamin'-go!-go!!-rom.txt",
+        "kan": "/api/storage/songs/dreamin'-go!-go!!-kan.txt"
+    }
+}

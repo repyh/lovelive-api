@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Happy maker!",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Wataru Maeguchi",
+        "composer": "Wataru Maeguchi"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/happy-maker!-eng.txt",
+        "rom": "/api/storage/songs/happy-maker!-rom.txt",
+        "kan": "/api/storage/songs/happy-maker!-kan.txt"
+    }
+}

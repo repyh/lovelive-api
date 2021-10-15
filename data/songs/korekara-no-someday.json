@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Korekara no Someday",
+        "kan": "これからのSomeday",
+        "rom": "Someday From Now On"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "yozuca*",
+        "arranger": "lotta"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/korekara-no-someday-eng.txt",
+        "rom": "/api/storage/songs/korekara-no-someday-rom.txt",
+        "kan": "/api/storage/songs/korekara-no-someday-kan.txt"
+    }
+}

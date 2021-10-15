@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Mou Hitori Ja Nai yo",
+        "kan": "もうひとりじゃないよ",
+        "rom": "You're No Longer Alone"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Takashi Saeki",
+        "composer": "Takashi Saeki"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/mou-hitori-ja-nai-yo-eng.txt",
+        "rom": "/api/storage/songs/mou-hitori-ja-nai-yo-rom.txt",
+        "kan": "/api/storage/songs/mou-hitori-ja-nai-yo-kan.txt"
+    }
+}

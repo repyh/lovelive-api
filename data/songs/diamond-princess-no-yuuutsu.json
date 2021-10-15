@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Diamond Princess no Yuuutsu",
+        "kan": "ダイヤモンドプリンセスの憂鬱",
+        "rom": "The Diamond Princess's Melancholy"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Katsuya Yoshida",
+        "arranger": "Kyou Takada"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/diamond-princess-no-yuuutsu-eng.txt",
+        "rom": "/api/storage/songs/diamond-princess-no-yuuutsu-rom.txt",
+        "kan": "/api/storage/songs/diamond-princess-no-yuuutsu-kan.txt"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "LONELIEST BABY",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Hata Aki",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Kurauchi Tatsuya",
+        "composer": "Kurauchi Tatsuya"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/loneliest-baby-eng.txt",
+        "rom": "/api/storage/songs/loneliest-baby-rom.txt",
+        "kan": "/api/storage/songs/loneliest-baby-kan.txt"
+    }
+}

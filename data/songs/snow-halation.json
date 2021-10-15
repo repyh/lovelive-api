@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Snow halation",
+        "kan": "baby maybe 恋のボタン",
+        "rom": "baby maybe Koi no Button"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Hata Aki",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Yamada Takahiro",
+        "arranger": "Nakanishi Ryousuke"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/snow-halation-eng.txt",
+        "rom": "/api/storage/songs/snow-halation-rom.txt",
+        "kan": "/api/storage/songs/snow-halation-kan.txt"
+    }
+}

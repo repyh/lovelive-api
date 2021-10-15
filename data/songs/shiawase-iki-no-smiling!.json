@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Shiawase Iki no SMILING!",
+        "kan": "シアワセ行きのSMILING!",
+        "rom": "Happy Life's SMILING!"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Miki Watanabe",
+        "composer": "Miki Watanabe"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/shiawase-iki-no-smiling!-eng.txt",
+        "rom": "/api/storage/songs/shiawase-iki-no-smiling!-rom.txt",
+        "kan": "/api/storage/songs/shiawase-iki-no-smiling!-kan.txt"
+    }
+}

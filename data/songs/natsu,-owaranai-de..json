@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Natsu, Owaranai de.",
+        "kan": "夏、終わらないで。",
+        "rom": "Summer, Do Not End."
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Kazunori Watanabe",
+        "composer": "Kazunori Watanabe"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/natsu,-owaranai-de.-eng.txt",
+        "rom": "/api/storage/songs/natsu,-owaranai-de.-rom.txt",
+        "kan": "/api/storage/songs/natsu,-owaranai-de.-kan.txt"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "soldier game",
+        "kan": "勇気のReason",
+        "rom": "Yuuki no Reason"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Mitsuru Wakabayashi",
+        "composer": "Mitsuru Wakabayashi"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/soldier-game-eng.txt",
+        "rom": "/api/storage/songs/soldier-game-rom.txt",
+        "kan": "/api/storage/songs/soldier-game-kan.txt"
+    }
+}

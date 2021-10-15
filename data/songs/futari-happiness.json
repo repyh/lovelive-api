@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Futari Happiness",
+        "kan": "ふたりハピネス",
+        "rom": "Our Happiness"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Hiroshi Sasaki",
+        "composer": "Hiroshi Sasaki"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/futari-happiness-eng.txt",
+        "rom": "/api/storage/songs/futari-happiness-rom.txt",
+        "kan": "/api/storage/songs/futari-happiness-kan.txt"
+    }
+}

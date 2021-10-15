@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Shocking Party",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Hata Aki",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Itagaki Yuusuke",
+        "composer": "Itagaki Yuusuke"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/shocking-party-eng.txt",
+        "rom": "/api/storage/songs/shocking-party-rom.txt",
+        "kan": "/api/storage/songs/shocking-party-kan.txt"
+    }
+}

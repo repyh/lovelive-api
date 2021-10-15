@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Aki no Anata no Sora Tooku",
+        "kan": "秋のあなたの空遠く",
+        "rom": "Your Autumn Sky Is Distant"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Takeshi Masuda",
+        "composer": "Takeshi Masuda"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/aki-no-anata-no-sora-tooku-eng.txt",
+        "rom": "/api/storage/songs/aki-no-anata-no-sora-tooku-rom.txt",
+        "kan": "/api/storage/songs/aki-no-anata-no-sora-tooku-kan.txt"
+    }
+}

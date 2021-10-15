@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "CheerDay CheerGirl!",
+        "kan": "ゲーマーズ",
+        "rom": "Gamers"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Hiroshi Sasaki",
+        "composer": "Hiroshi Sasaki"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/cheerday-cheergirl!-eng.txt",
+        "rom": "/api/storage/songs/cheerday-cheergirl!-rom.txt",
+        "kan": "/api/storage/songs/cheerday-cheergirl!-kan.txt"
+    }
+}

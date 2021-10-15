@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Someday of my life",
+        "kan": "恋のシグナルRin rin rin!",
+        "rom": "Koi no Signal Rin rin rin!"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Yuuichi Yaegashi",
+        "composer": "Yuuichi Yaegashi"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/someday-of-my-life-eng.txt",
+        "rom": "/api/storage/songs/someday-of-my-life-rom.txt",
+        "kan": "/api/storage/songs/someday-of-my-life-kan.txt"
+    }
+}

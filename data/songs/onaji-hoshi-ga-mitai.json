@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Onaji Hoshi ga Mitai",
+        "kan": "同じ星が見たい",
+        "rom": "I Want To See The Same Stars"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Kazunori Watanabe",
+        "composer": "Kazunori Watanabe"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/onaji-hoshi-ga-mitai-eng.txt",
+        "rom": "/api/storage/songs/onaji-hoshi-ga-mitai-rom.txt",
+        "kan": "/api/storage/songs/onaji-hoshi-ga-mitai-kan.txt"
+    }
+}

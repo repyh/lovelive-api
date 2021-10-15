@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Shangri-La Shower",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Hata Aki",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Kurauchi Tatsuya",
+        "composer": "Kurauchi Tatsuya"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/shangri-la-shower-eng.txt",
+        "rom": "/api/storage/songs/shangri-la-shower-rom.txt",
+        "kan": "/api/storage/songs/shangri-la-shower-kan.txt"
+    }
+}

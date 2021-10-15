@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Kodoku na Heaven",
+        "kan": "孤独なHeaven",
+        "rom": "A Lonely Heaven"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Wataru Maeguchi",
+        "arranger": "Takeshi Masuda"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/kodoku-na-heaven-eng.txt",
+        "rom": "/api/storage/songs/kodoku-na-heaven-rom.txt",
+        "kan": "/api/storage/songs/kodoku-na-heaven-kan.txt"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Kimi no Kuse ni!",
+        "kan": "キミのくせに！",
+        "rom": "In Spite of You!"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Mai Sugimori",
+        "arranger": "Yuusuke Yamamoto"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/kimi-no-kuse-ni!-eng.txt",
+        "rom": "/api/storage/songs/kimi-no-kuse-ni!-rom.txt",
+        "kan": "/api/storage/songs/kimi-no-kuse-ni!-kan.txt"
+    }
+}

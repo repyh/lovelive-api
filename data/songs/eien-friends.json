@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Eien Friends",
+        "kan": "永遠フレンズ",
+        "rom": "Eternal Friends"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Tomohiro Nakatsuchi",
+        "composer": "Tomohiro Nakatsuchi"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/eien-friends-eng.txt",
+        "rom": "/api/storage/songs/eien-friends-rom.txt",
+        "kan": "/api/storage/songs/eien-friends-kan.txt"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Moshimo Kara Kitto",
+        "kan": "もしもからきっと",
+        "rom": "Moshimo Kara Kitto"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Satomi Kawasaki",
+        "arranger": "Toshinori Moriya"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/moshimo-kara-kitto-eng.txt",
+        "rom": "/api/storage/songs/moshimo-kara-kitto-rom.txt",
+        "kan": "/api/storage/songs/moshimo-kara-kitto-kan.txt"
+    }
+}

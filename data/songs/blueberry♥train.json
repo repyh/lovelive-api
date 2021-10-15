@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Blueberry♥Train",
+        "kan": "ぶる～べりぃ♥とれいん",
+        "rom": "Buru~berii♥Torein"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Tatsuyuki Masuda",
+        "arranger": "Seiji Miura"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/blueberry♥train-eng.txt",
+        "rom": "/api/storage/songs/blueberry♥train-rom.txt",
+        "kan": "/api/storage/songs/blueberry♥train-kan.txt"
+    }
+}

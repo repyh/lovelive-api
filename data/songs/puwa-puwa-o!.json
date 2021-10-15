@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Puwa Puwa-O!",
+        "kan": "ぷわぷわーお！",
+        "rom": "Puwa Puwa-O!"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Yuugo Sasakura",
+        "composer": "Yuugo Sasakura"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/puwa-puwa-o!-eng.txt",
+        "rom": "/api/storage/songs/puwa-puwa-o!-rom.txt",
+        "kan": "/api/storage/songs/puwa-puwa-o!-kan.txt"
+    }
+}

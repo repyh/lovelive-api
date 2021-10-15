@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Anemone heart",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Kyou Takada",
+        "composer": "Kyou Takada"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/anemone-heart-eng.txt",
+        "rom": "/api/storage/songs/anemone-heart-rom.txt",
+        "kan": "/api/storage/songs/anemone-heart-kan.txt"
+    }
+}

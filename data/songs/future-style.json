@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Future style",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Koushirou Honda",
+        "composer": "Koushirou Honda"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/future-style-eng.txt",
+        "rom": "/api/storage/songs/future-style-rom.txt",
+        "kan": "/api/storage/songs/future-style-kan.txt"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Otome Shiki Ren'ai Juku",
+        "kan": "乙女式れんあい塾",
+        "rom": "Maidenly Love Cram School"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Hiroshi Sasaki",
+        "composer": "Hiroshi Sasaki"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/otome-shiki-ren'ai-juku-eng.txt",
+        "rom": "/api/storage/songs/otome-shiki-ren'ai-juku-rom.txt",
+        "kan": "/api/storage/songs/otome-shiki-ren'ai-juku-kan.txt"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Arifureta Kanashimi no Hate",
+        "kan": "ありふれた悲しみの果て",
+        "rom": "The End of Ordinary Sorrow"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Takashi Saeki",
+        "composer": "Takashi Saeki"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/arifureta-kanashimi-no-hate-eng.txt",
+        "rom": "/api/storage/songs/arifureta-kanashimi-no-hate-rom.txt",
+        "kan": "/api/storage/songs/arifureta-kanashimi-no-hate-kan.txt"
+    }
+}

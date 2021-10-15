@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Korekara",
+        "kan": "これから",
+        "rom": "From Here Onwards"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Masumi Itou",
+        "arranger": "Mito"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/korekara-eng.txt",
+        "rom": "/api/storage/songs/korekara-rom.txt",
+        "kan": "/api/storage/songs/korekara-kan.txt"
+    }
+}

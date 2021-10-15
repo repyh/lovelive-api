@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Storm in Lover",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Takeshi Masuda",
+        "composer": "Takeshi Masuda"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/storm-in-lover-eng.txt",
+        "rom": "/api/storage/songs/storm-in-lover-rom.txt",
+        "kan": "/api/storage/songs/storm-in-lover-kan.txt"
+    }
+}

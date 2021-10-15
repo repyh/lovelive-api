@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Pure girls project",
+        "kan": "プールでオンステージ! (ミニドラマ)",
+        "rom": "Pūru de Onsutēji! (Mini Drama)"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Tatsuya Kurauchi",
+        "composer": "Tatsuya Kurauchi"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/pure-girls-project-eng.txt",
+        "rom": "/api/storage/songs/pure-girls-project-rom.txt",
+        "kan": "/api/storage/songs/pure-girls-project-kan.txt"
+    }
+}

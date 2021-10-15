@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "ENDLESS PARADE",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Kana Yabuki",
+        "composer": "Kana Yabuki"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/endless-parade-eng.txt",
+        "rom": "/api/storage/songs/endless-parade-rom.txt",
+        "kan": "/api/storage/songs/endless-parade-kan.txt"
+    }
+}

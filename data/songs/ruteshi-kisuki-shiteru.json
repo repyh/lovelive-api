@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Ruteshi Kisuki Shiteru",
+        "kan": "るてしキスキしてる",
+        "rom": "uoY evol I love you"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Hata Aki",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Saeki Takashi",
+        "composer": "Saeki Takashi"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/ruteshi-kisuki-shiteru-eng.txt",
+        "rom": "/api/storage/songs/ruteshi-kisuki-shiteru-rom.txt",
+        "kan": "/api/storage/songs/ruteshi-kisuki-shiteru-kan.txt"
+    }
+}

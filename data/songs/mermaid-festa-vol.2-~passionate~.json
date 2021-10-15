@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Mermaid festa vol.2 ~Passionate~",
+        "kan": "恋のシグナルRin rin rin!",
+        "rom": "Koi no Signal Rin rin rin!"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Shingo Yamazaki",
+        "arranger": "Nozomu Matsui"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/mermaid-festa-vol.2-~passionate~-eng.txt",
+        "rom": "/api/storage/songs/mermaid-festa-vol.2-~passionate~-rom.txt",
+        "kan": "/api/storage/songs/mermaid-festa-vol.2-~passionate~-kan.txt"
+    }
+}

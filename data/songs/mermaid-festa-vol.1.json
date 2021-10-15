@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Mermaid festa vol.1",
+        "kan": "夏色えがおで1,2,Jump!",
+        "rom": "Natsuiro Egao de 1,2,Jump!"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Hata Aki",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Shunryū",
+        "arranger": "Watanabe Kazunori"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/mermaid-festa-vol.1-eng.txt",
+        "rom": "/api/storage/songs/mermaid-festa-vol.1-rom.txt",
+        "kan": "/api/storage/songs/mermaid-festa-vol.1-kan.txt"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Natte Shimatta!",
+        "kan": "なってしまった!",
+        "rom": "What it has become!"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Takahiro Yamada",
+        "arranger": "Ryousuke Nakanishi"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/natte-shimatta!-eng.txt",
+        "rom": "/api/storage/songs/natte-shimatta!-rom.txt",
+        "kan": "/api/storage/songs/natte-shimatta!-kan.txt"
+    }
+}

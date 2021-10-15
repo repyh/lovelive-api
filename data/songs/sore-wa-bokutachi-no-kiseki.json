@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Sore wa Bokutachi no Kiseki",
+        "kan": "それは僕たちの奇跡",
+        "rom": "That Is Our Miracle"
+    },
+    "featured": true,
+    "credits": {
+        "writer": "Hata Aki",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Kurosu Katsuhiko",
+        "composer": "Kurosu Katsuhiko"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/sore-wa-bokutachi-no-kiseki-eng.txt",
+        "rom": "/api/storage/songs/sore-wa-bokutachi-no-kiseki-rom.txt",
+        "kan": "/api/storage/songs/sore-wa-bokutachi-no-kiseki-kan.txt"
+    }
+}

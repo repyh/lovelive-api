@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Listen to my heart!!",
+        "kan": "『ラブライブ!』Webラジオ「ラブライ部 ラジオ課外活動 ~にこりんぱな~」",
+        "rom": "Love Live! Web Radio 「Love Live! Radio Kagai Katsudo ~Nikorinpana~」"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Mineaki Kawahara",
+        "composer": "Mineaki Kawahara"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/listen-to-my-heart!!-eng.txt",
+        "rom": "/api/storage/songs/listen-to-my-heart!!-rom.txt",
+        "kan": "/api/storage/songs/listen-to-my-heart!!-kan.txt"
+    }
+}

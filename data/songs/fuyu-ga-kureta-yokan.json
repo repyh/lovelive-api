@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Fuyu ga Kureta Yokan",
+        "kan": "冬がくれた予感",
+        "rom": "The Premonition Winter Gave Me"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Takashi Saeki",
+        "composer": "Takashi Saeki"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/fuyu-ga-kureta-yokan-eng.txt",
+        "rom": "/api/storage/songs/fuyu-ga-kureta-yokan-rom.txt",
+        "kan": "/api/storage/songs/fuyu-ga-kureta-yokan-kan.txt"
+    }
+}

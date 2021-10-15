@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Susume→Tomorrow",
+        "kan": "ススメ→トゥモロウ",
+        "rom": "Advance→Tomorrow"
+    },
+    "featured": true,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Takahiro Kawata",
+        "composer": "Takahiro Kawata"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/susume→tomorrow-eng.txt",
+        "rom": "/api/storage/songs/susume→tomorrow-rom.txt",
+        "kan": "/api/storage/songs/susume→tomorrow-kan.txt"
+    }
+}

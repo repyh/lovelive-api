@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Nawatobi",
+        "kan": "なわとび",
+        "rom": "Jump Rope"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "rino",
+        "arranger": "Yoshihisa Fujita"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/nawatobi-eng.txt",
+        "rom": "/api/storage/songs/nawatobi-rom.txt",
+        "kan": "/api/storage/songs/nawatobi-kan.txt"
+    }
+}

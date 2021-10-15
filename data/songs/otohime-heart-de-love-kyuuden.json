@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Otohime Heart de Love Kyuuden",
+        "kan": "乙姫心で恋宮殿おとひめはーとでらぶきゅうでん",
+        "rom": "A Palace of Love in the Maiden Princess's Heart"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Seiji Miura",
+        "composer": "Seiji Miura"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/otohime-heart-de-love-kyuuden-eng.txt",
+        "rom": "/api/storage/songs/otohime-heart-de-love-kyuuden-rom.txt",
+        "kan": "/api/storage/songs/otohime-heart-de-love-kyuuden-kan.txt"
+    }
+}

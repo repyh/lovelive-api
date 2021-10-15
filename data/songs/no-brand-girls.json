@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "No brand girls",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": true,
+    "credits": {
+        "writer": "Hata Aki",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Kawata Takahiro",
+        "composer": "Kawata Takahiro"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/no-brand-girls-eng.txt",
+        "rom": "/api/storage/songs/no-brand-girls-rom.txt",
+        "kan": "/api/storage/songs/no-brand-girls-kan.txt"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Sakkaku CROSSROADS",
+        "kan": "錯覚CROSSROADS",
+        "rom": "Illusionary Crossroads"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Satomi Kawasaki",
+        "arranger": "Kazunori Watanabe"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/sakkaku-crossroads-eng.txt",
+        "rom": "/api/storage/songs/sakkaku-crossroads-rom.txt",
+        "kan": "/api/storage/songs/sakkaku-crossroads-kan.txt"
+    }
+}

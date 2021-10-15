@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Super LOVE=Super LIVE!",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Hata Aki",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Kawata Takahiro",
+        "composer": "Kawata Takahiro"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/super-love=super-live!-eng.txt",
+        "rom": "/api/storage/songs/super-love=super-live!-rom.txt",
+        "kan": "/api/storage/songs/super-love=super-live!-kan.txt"
+    }
+}

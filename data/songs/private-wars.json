@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Private Wars",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Hata Aki",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Itagaki Yuusuke",
+        "composer": "Itagaki Yuusuke"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/private-wars-eng.txt",
+        "rom": "/api/storage/songs/private-wars-rom.txt",
+        "kan": "/api/storage/songs/private-wars-kan.txt"
+    }
+}

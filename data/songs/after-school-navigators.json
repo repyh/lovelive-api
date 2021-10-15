@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "after school NAVIGATORS",
+        "kan": "『ラブライブ!』Webラジオ「ラブライ部 ラジオ課外活動 ~にこりんぱな~」",
+        "rom": "Love Live! Web Radio 「Love Live! Radio Kagai Katsudo ~Nikorinpana~」"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Takahiro Kawata",
+        "composer": "Takahiro Kawata"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/after-school-navigators-eng.txt",
+        "rom": "/api/storage/songs/after-school-navigators-rom.txt",
+        "kan": "/api/storage/songs/after-school-navigators-kan.txt"
+    }
+}

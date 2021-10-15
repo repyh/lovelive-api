@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Kururin MIRACLE",
+        "kan": "くるりんMIRACLE",
+        "rom": "Twirling MIRACLE"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Shintarou Mori",
+        "composer": "Shintarou Mori"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/kururin-miracle-eng.txt",
+        "rom": "/api/storage/songs/kururin-miracle-rom.txt",
+        "kan": "/api/storage/songs/kururin-miracle-kan.txt"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Kaguya no Shiro de Odoritai",
+        "kan": "輝夜の城で踊りたい",
+        "rom": "I Want To Dance In Kaguya's Castle"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Hata Aki",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Sasakura Yuugo",
+        "composer": "Sasakura Yuugo"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/kaguya-no-shiro-de-odoritai-eng.txt",
+        "rom": "/api/storage/songs/kaguya-no-shiro-de-odoritai-rom.txt",
+        "kan": "/api/storage/songs/kaguya-no-shiro-de-odoritai-kan.txt"
+    }
+}

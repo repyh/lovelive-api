@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Junai Lens",
+        "kan": "純愛レンズ",
+        "rom": "Pure Love Lens"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Yuusuke Yamamoto",
+        "composer": "Yuusuke Yamamoto"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/junai-lens-eng.txt",
+        "rom": "/api/storage/songs/junai-lens-rom.txt",
+        "kan": "/api/storage/songs/junai-lens-kan.txt"
+    }
+}

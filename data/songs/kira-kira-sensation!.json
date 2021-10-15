@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "KiRa-KiRa Sensation!",
+        "kan": "",
+        "rom": "Sparkling Sensation!"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Koushirou Honda",
+        "composer": "Koushirou Honda"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/kira-kira-sensation!-eng.txt",
+        "rom": "/api/storage/songs/kira-kira-sensation!-rom.txt",
+        "kan": "/api/storage/songs/kira-kira-sensation!-kan.txt"
+    }
+}

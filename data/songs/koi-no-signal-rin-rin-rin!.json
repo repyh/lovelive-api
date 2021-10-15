@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Koi no Signal Rin rin rin!",
+        "kan": "恋のシグナル Rin rin rin!",
+        "rom": "Love's Signal Rin Rin Rin!"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Shingo Suda",
+        "arranger": "Takahiro Andō"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/koi-no-signal-rin-rin-rin!-eng.txt",
+        "rom": "/api/storage/songs/koi-no-signal-rin-rin-rin!-rom.txt",
+        "kan": "/api/storage/songs/koi-no-signal-rin-rin-rin!-kan.txt"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "PSYCHIC FIRE",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Shintarou Mori",
+        "composer": "Shintarou Mori"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/psychic-fire-eng.txt",
+        "rom": "/api/storage/songs/psychic-fire-rom.txt",
+        "kan": "/api/storage/songs/psychic-fire-kan.txt"
+    }
+}

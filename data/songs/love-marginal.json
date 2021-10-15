@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Love marginal",
+        "kan": "やりたい握手会!",
+        "rom": "The Handshake Meeting We Want To Do!"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Miki Fujisue",
+        "arranger": "Kōji Matsuzaka"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/love-marginal-eng.txt",
+        "rom": "/api/storage/songs/love-marginal-rom.txt",
+        "kan": "/api/storage/songs/love-marginal-kan.txt"
+    }
+}

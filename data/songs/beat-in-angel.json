@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Beat in Angel",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Tatsuya Kurauchi",
+        "composer": "Tatsuya Kurauchi"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/beat-in-angel-eng.txt",
+        "rom": "/api/storage/songs/beat-in-angel-rom.txt",
+        "kan": "/api/storage/songs/beat-in-angel-kan.txt"
+    }
+}

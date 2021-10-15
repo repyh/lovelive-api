@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Kitto Seishun ga Kikoeru",
+        "kan": "きっと青春が聞こえる",
+        "rom": "You'll Surely Hear Our Youth"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Hata Aki",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Takada Kyou",
+        "composer": "Takada Kyou"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/kitto-seishun-ga-kikoeru-eng.txt",
+        "rom": "/api/storage/songs/kitto-seishun-ga-kikoeru-rom.txt",
+        "kan": "/api/storage/songs/kitto-seishun-ga-kikoeru-kan.txt"
+    }
+}

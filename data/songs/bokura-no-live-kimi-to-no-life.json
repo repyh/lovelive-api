@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Bokura no LIVE Kimi to no LIFE",
+        "kan": "僕らのLIVE 君とのLIFE",
+        "rom": "Our LIVE, Our LIFE with you"
+    },
+    "featured": true,
+    "credits": {
+        "writer": "Hata Aki",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Yamada Takahiro",
+        "arranger": "Takada Kyou"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/bokura-no-live-kimi-to-no-life-eng.txt",
+        "rom": "/api/storage/songs/bokura-no-live-kimi-to-no-life-rom.txt",
+        "kan": "/api/storage/songs/bokura-no-live-kimi-to-no-life-kan.txt"
+    }
+}

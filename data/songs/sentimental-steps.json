@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "SENTIMENTAL StepS",
+        "kan": "ユメノトビラ",
+        "rom": "Yume no Tobira"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Hata Aki",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Takasaka Masayoshi",
+        "arranger": "Shimizu Teppei"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/sentimental-steps-eng.txt",
+        "rom": "/api/storage/songs/sentimental-steps-rom.txt",
+        "kan": "/api/storage/songs/sentimental-steps-kan.txt"
+    }
+}

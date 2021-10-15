@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Oh,Love&Peace!",
+        "kan": "喫茶とメイドな一年生",
+        "rom": "Cafe And First Year Maids"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Hata Aki",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Kurosu Katsuhiko",
+        "composer": "Kurosu Katsuhiko"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/oh,love&peace!-eng.txt",
+        "rom": "/api/storage/songs/oh,love&peace!-rom.txt",
+        "kan": "/api/storage/songs/oh,love&peace!-kan.txt"
+    }
+}

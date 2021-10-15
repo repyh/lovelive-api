@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Omoide Ijou ni Naritakute",
+        "kan": "思い出以上になりたくて",
+        "rom": "I Want It To Be More Than Just Memories"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "rino",
+        "arranger": "Yoichi Sakai"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/omoide-ijou-ni-naritakute-eng.txt",
+        "rom": "/api/storage/songs/omoide-ijou-ni-naritakute-rom.txt",
+        "kan": "/api/storage/songs/omoide-ijou-ni-naritakute-kan.txt"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "LOVELESS WORLD",
+        "kan": "行こう行こう♪　雪の国へ",
+        "rom": "Let's Go Let's Go♪ To The Land Of Snow"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Hata Aki",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Yamada Takahiro",
+        "arranger": "Kawata Takahiro"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/loveless-world-eng.txt",
+        "rom": "/api/storage/songs/loveless-world-rom.txt",
+        "kan": "/api/storage/songs/loveless-world-kan.txt"
+    }
+}

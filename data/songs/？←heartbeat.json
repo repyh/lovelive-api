@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "？←HEARTBEAT",
+        "kan": "Hate na HEARTBEAT",
+        "rom": "？←HEARTBEAT"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Koushirou Honda",
+        "composer": "Koushirou Honda"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/？←heartbeat-eng.txt",
+        "rom": "/api/storage/songs/？←heartbeat-rom.txt",
+        "kan": "/api/storage/songs/？←heartbeat-kan.txt"
+    }
+}

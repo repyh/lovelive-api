@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Dancing stars on me!",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Hata Aki",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Saeki Takashi",
+        "composer": "Saeki Takashi"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/dancing-stars-on-me!-eng.txt",
+        "rom": "/api/storage/songs/dancing-stars-on-me!-rom.txt",
+        "kan": "/api/storage/songs/dancing-stars-on-me!-kan.txt"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Spicaterrible",
+        "kan": "スピカテリブル",
+        "rom": "Spicaterrible"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Miki Fujisue",
+        "composer": "Miki Fujisue"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/spicaterrible-eng.txt",
+        "rom": "/api/storage/songs/spicaterrible-rom.txt",
+        "kan": "/api/storage/songs/spicaterrible-kan.txt"
+    }
+}

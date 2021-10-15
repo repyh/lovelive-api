@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Nightingale Love Song",
+        "kan": "小夜啼鳥恋詩ナイチンゲールラブソング",
+        "rom": "Nightingale Love Song"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Kazunori Watanabe",
+        "composer": "Kazunori Watanabe"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/nightingale-love-song-eng.txt",
+        "rom": "/api/storage/songs/nightingale-love-song-rom.txt",
+        "kan": "/api/storage/songs/nightingale-love-song-kan.txt"
+    }
+}

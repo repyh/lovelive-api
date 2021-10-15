@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "baby maybe Koi no Button",
+        "kan": "baby maybe 恋のボタン",
+        "rom": "baby maybe Love's Button"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Hata Aki",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Yamaguchi Akihiko",
+        "composer": "Yamaguchi Akihiko"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/baby-maybe-koi-no-button-eng.txt",
+        "rom": "/api/storage/songs/baby-maybe-koi-no-button-rom.txt",
+        "kan": "/api/storage/songs/baby-maybe-koi-no-button-kan.txt"
+    }
+}

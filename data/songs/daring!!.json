@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Daring!!",
+        "kan": "勇気のReason",
+        "rom": "Yuuki no Reason"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Keiichi Kondou",
+        "composer": "Keiichi Kondou"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/daring!!-eng.txt",
+        "rom": "/api/storage/songs/daring!!-rom.txt",
+        "kan": "/api/storage/songs/daring!!-kan.txt"
+    }
+}

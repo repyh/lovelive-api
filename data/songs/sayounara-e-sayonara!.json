@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Sayounara e Sayonara!",
+        "kan": "さようならへさよなら！",
+        "rom": "Farewell to Farewells!"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Hata Aki",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Masutani Ken",
+        "composer": "Masutani Ken"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/sayounara-e-sayonara!-eng.txt",
+        "rom": "/api/storage/songs/sayounara-e-sayonara!-rom.txt",
+        "kan": "/api/storage/songs/sayounara-e-sayonara!-kan.txt"
+    }
+}

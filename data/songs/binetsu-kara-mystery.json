@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Binetsu Kara Mystery",
+        "kan": "微熱からMystery",
+        "rom": "Mystery From Slight Fever"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Hiroshi Sasaki",
+        "composer": "Hiroshi Sasaki"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/binetsu-kara-mystery-eng.txt",
+        "rom": "/api/storage/songs/binetsu-kara-mystery-rom.txt",
+        "kan": "/api/storage/songs/binetsu-kara-mystery-kan.txt"
+    }
+}

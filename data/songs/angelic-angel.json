@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Angelic Angel",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Hata Aki",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Mori Shintarou",
+        "arranger": "Kurauchi Tatsuya"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/angelic-angel-eng.txt",
+        "rom": "/api/storage/songs/angelic-angel-rom.txt",
+        "kan": "/api/storage/songs/angelic-angel-kan.txt"
+    }
+}

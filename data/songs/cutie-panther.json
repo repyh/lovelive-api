@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Cutie Panther",
+        "kan": "夏、終わらないで。",
+        "rom": "Summer, Do Not End."
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Hiroshi Sasaki",
+        "composer": "Hiroshi Sasaki"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/cutie-panther-eng.txt",
+        "rom": "/api/storage/songs/cutie-panther-rom.txt",
+        "kan": "/api/storage/songs/cutie-panther-kan.txt"
+    }
+}

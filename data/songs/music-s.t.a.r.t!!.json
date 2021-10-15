@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Music S.T.A.R.T!!",
+        "kan": "行こう行こう♪　雪の国へ",
+        "rom": "Let's Go Let's Go♪ To The Land Of Snow"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Akihiko Yamaguchi",
+        "composer": "Akihiko Yamaguchi"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/music-s.t.a.r.t!!-eng.txt",
+        "rom": "/api/storage/songs/music-s.t.a.r.t!!-rom.txt",
+        "kan": "/api/storage/songs/music-s.t.a.r.t!!-kan.txt"
+    }
+}

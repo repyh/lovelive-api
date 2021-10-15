@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Soshite Saigo no Page ni wa",
+        "kan": "そして最後のページには",
+        "rom": "And On The Last Page Is"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Hata Aki",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Watanabe Kazunori",
+        "composer": "Watanabe Kazunori"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/soshite-saigo-no-page-ni-wa-eng.txt",
+        "rom": "/api/storage/songs/soshite-saigo-no-page-ni-wa-rom.txt",
+        "kan": "/api/storage/songs/soshite-saigo-no-page-ni-wa-kan.txt"
+    }
+}

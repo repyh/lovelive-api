@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Koremade no Love Live!",
+        "kan": "これまでのラブライブ! ~ミュージカルver.~",
+        "rom": "Koremade no Love Live! ~Musical Ver.~"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Kyougoku Takahiko",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Fujisawa Yoshiaki",
+        "arranger": "Aki Hata"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/koremade-no-love-live!-eng.txt",
+        "rom": "/api/storage/songs/koremade-no-love-live!-rom.txt",
+        "kan": "/api/storage/songs/koremade-no-love-live!-kan.txt"
+    }
+}

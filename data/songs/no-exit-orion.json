@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "NO EXIT ORION",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Ryuuhei Yamada",
+        "composer": "Ryuuhei Yamada"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/no-exit-orion-eng.txt",
+        "rom": "/api/storage/songs/no-exit-orion-rom.txt",
+        "kan": "/api/storage/songs/no-exit-orion-kan.txt"
+    }
+}

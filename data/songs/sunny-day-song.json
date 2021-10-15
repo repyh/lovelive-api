@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "SUNNY DAY SONG",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Hata Aki",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Kurauchi Tatsuya",
+        "composer": "Kurauchi Tatsuya"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/sunny-day-song-eng.txt",
+        "rom": "/api/storage/songs/sunny-day-song-rom.txt",
+        "kan": "/api/storage/songs/sunny-day-song-kan.txt"
+    }
+}

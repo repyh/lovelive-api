@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "sweet&sweet holiday",
+        "kan": "やりたい握手会!",
+        "rom": "The Handshake Meeting We Want To Do!"
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Akihiko Yamaguchi",
+        "composer": "Akihiko Yamaguchi"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/sweet&sweet-holiday-eng.txt",
+        "rom": "/api/storage/songs/sweet&sweet-holiday-rom.txt",
+        "kan": "/api/storage/songs/sweet&sweet-holiday-kan.txt"
+    }
+}

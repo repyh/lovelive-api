@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "MOMENT RING",
+        "kan": "",
+        "rom": ""
+    },
+    "featured": false,
+    "credits": {
+        "writer": "Hata Aki",
+        "singer": [
+            "μ’s"
+        ],
+        "arranger": "Takada Kyou",
+        "composer": "Takada Kyou"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/moment-ring-eng.txt",
+        "rom": "/api/storage/songs/moment-ring-rom.txt",
+        "kan": "/api/storage/songs/moment-ring-kan.txt"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "title": {
+        "eng": "Bokura wa Ima no Naka de",
+        "kan": "僕らは今のなかで",
+        "rom": "We're All In This Moment"
+    },
+    "featured": true,
+    "credits": {
+        "writer": "Aki Hata",
+        "singer": [
+            "μ’s"
+        ],
+        "composer": "Shintarou Mori",
+        "arranger": "Yoshiaki Fujisawa"
+    },
+    "lyrics": {
+        "eng": "/api/storage/songs/bokura-wa-ima-no-naka-de-eng.txt",
+        "rom": "/api/storage/songs/bokura-wa-ima-no-naka-de-rom.txt",
+        "kan": "/api/storage/songs/bokura-wa-ima-no-naka-de-kan.txt"
+    }
+}
