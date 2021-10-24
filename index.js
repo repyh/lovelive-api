@@ -1,9 +1,6 @@
 const express = require("express");
 const app = express();
 const path = require("path");
-const fs = require("fs");
-
-// I don't really use express that often, feel free to change it so it'll be easier to read and manage.
 
 app.use((req, res, next) => {
   res.header('Access-Control-Allow-Origin', '*');
@@ -13,50 +10,39 @@ app.use((req, res, next) => {
 });
 
 app.get("/", (req, res) => {
-  res.sendFile(__dirname + "/views/index.html")
-})
+  res.sendFile(path.join(__dirname, "index.html"));
+});
 
-let characters = [];
-for(const char of fs.readdirSync("./data/characters")) characters.push(require(`./data/characters/${char}`));
+/**
+ * Mounts a folder in the express app.
+ * @param {string} url Exposed path.
+ * @param {string} localPath Local path relative to the project folder.
+ * @param {string[] | undefined} extensions Fallback file extensions.
+ */
+function serve(url, localPath, extensions) {
+  app.use(url, express.static(path.join(__dirname, localPath), {
+    dotfiles: "ignore",
+    extensions: extensions ?? []
+  }));
+}
 
-app.get("/characters", (req, res) => {
-  res.render("characters", {
-    characters
-  })
-})
+serve("/api/storage", "/storage");
+serve("/api/character", "/data/characters", ["json"]);
+serve("/api/song", "/data/songs", ["json"]);
+serve("/api/unit", "/data/units", ["json"]);
+serve("/api/school", "/data/schools", ["json"]);
+serve("/api/school", "/data/schools", ["json"]);
 
-// API Section
-
-app.use("/api/storage", express.static(__dirname + '/storage'));
-
-app.get("/api/song/:name", (req, res) => {
-  const data = require(`./data/songs/${req.params.name}`);
-  if(!data) return res.status(404);
-  return res.json(data);
-})
-
-app.get("/api/unit/:unit", (req, res) => {
-  const data = require(`./data/units/${req.params.unit}`);
-  if(!data) res.status(404);
-  return res.json(data);
-})
-
-app.get("/api/character/:character", (req, res) => {
-  const data = require(`./data/characters/${req.params.character}`);
-  if(!data) return res.status(404);
-  return res.json(data);
-})
-
-app.get("/api/anime/:anime/episode/:season-:episode", (req, res) => {
+app.get("/api/anime/:anime([^./]+)/episode/:season([0-9]+)-:episode([0-9]+)", (req, res, next) => {
   const data = require(`./data/episodes/${req.params.anime}/season-${req.params.season}`);
-  if(!data || !data[req.params.episode-1]) return res.status(404);
+  if (!data || !data[req.params.episode-1]) return next();
   return res.json(data[req.params.episode-1]);
+});
+
+app.get("*", (req, res) => {
+  res.status(404).type("txt").send("Not Found");
 })
 
-app.get("/api/school/:school", (req, res) => {
-  const data = require(`./data/schools/${req.params.school}`);
-  if(!data) return res.status(404);
-  return res.json(data);
-})
-
-app.listen(process.env.PORT);
+app.listen(process.env.PORT, () => {
+  console.log(`Listening on port ${process.env.PORT}`);
+});
